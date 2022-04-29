@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Battle Honours</name>
+	<open>1</open>
+	<Style id="randomColorIcon">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<colorMode>random</colorMode>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id="0B5B9959BA21697B2BAD" about="http://dbpedia.org/resource/Battle_of_Blenheim">
+		<name>Battle of Blenheim</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Blenheim">Battle of Blenheim</a>]]></description>
+		<Point>
+			<coordinates>10.6,48.645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0840B927BC21697B2BAE" about="http://dbpedia.org/resource/Battle_of_Ramillies">
+		<name>Battle of Ramillies</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Ramillies">Battle of Ramillies</a>]]></description>
+		<styleUrl>#randomColorIcon</styleUrl>
+		<Point>
+			<coordinates>4.9128,50.6386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A504671A921697B2BAE" about="http://dbpedia.org/resource/Battle_of_Oudenarde">
+		<name>Battle of Oudenaarde</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Oudenarde">Battle of Oudenaarde</a>
+            <p><a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">The Battle of Oudenarde, 1708</a></p>]]></description>
+		<Point>
+			<coordinates>3.62,50.8796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02FEA2C0A321697B2BAF" about="http://dbpedia.org/resource/Battle_of_Malplaquet">
+		<name>The Battle of Malplaquet</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source: Wikipedia article <a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/#1709">Battle of Malplaquet</a>
+            <p><a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/#1709">The Battle of Malplaquet, 1709</a></p>]]></description>
+		<Point>
+			<coordinates>3.87639,50.33610000000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
