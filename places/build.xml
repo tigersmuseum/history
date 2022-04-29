@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<project name="KML" basedir=".">
+
+	<description>
+		XSLT to create and manipulate KML.
+	</description>
+
+	<target name="scratch" description="testing ...">
+		<xslt in="../kml/Battle Honours.kml" out="output/out.xml" style="../xsl/identity.xsl" force="yes"/>
+	</target>
+	
+</project>
+
