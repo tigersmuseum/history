@@ -6,8 +6,8 @@
 		XSLT to create and manipulate KML.
 	</description>
 
-	<target name="scratch" description="testing ...">
-		<xslt in="../kml/Battle Honours.kml" out="output/out.xml" style="../xsl/identity.xsl" force="yes"/>
+	<target name="earth-extract" description="Get places from KML constructed in Google Earth">
+		<xslt in="../kml/14th.kml" out="output/out.xml" style="../xsl/extract-places.xsl" force="yes"/>
 	</target>
 	
 </project>
