@@ -11,9 +11,9 @@
 
 <xsl:template match="kml:Placemark">
 <ITEM>
-<xsl:copy-of select="kml:name"/>
-<xsl:copy-of select="kml:latitute"/>
-<xsl:copy-of select="kml:longitude"/>
+<name><xsl:value-of select="kml:name"/></name>
+<latitude><xsl:value-of select="kml:LookAt/kml:latitude"/></latitude>
+<longitude><xsl:value-of select="kml:LookAt/kml:longitude"/></longitude>
 </ITEM>
 </xsl:template>
 
