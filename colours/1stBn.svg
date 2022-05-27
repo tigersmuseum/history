@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 610" preserveAspectRatio="none">
+	<image x="0" y="0" width="1024" height="610" href="1stBn.jpg"/>
+	
+	
+	<g transform="translate(660,200)  rotate(45)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-dettingen/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+</svg>
