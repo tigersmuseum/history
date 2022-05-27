@@ -3,8 +3,56 @@
 	<image x="0" y="0" width="1024" height="610" href="1stBn.jpg"/>
 	
 	
-	<g transform="translate(660,200)  rotate(45)">
+	<g id="blenheim" transform="translate(720,170)  rotate(75)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-blenheim-1704/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="dettingen" transform="translate(660,200)  rotate(45)">
 		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-dettingen/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="oudenarde" transform="translate(685,180)  rotate(55)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="belle-isle" transform="translate(640,222)  rotate(35)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/capture-belle-isle/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="barossa" transform="translate(625,248)  rotate(30)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="taku-forts" transform="translate(618,278)  rotate(16)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="charasiab" transform="translate(615,306)  rotate(5)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="afghanistan" transform="translate(618,338)  rotate(-8)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="paardeburg" transform="translate(630,370)  rotate(-25)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
