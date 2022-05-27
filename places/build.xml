@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<project name="KML" basedir=".">
+
+	<description>
+		XSLT to create and manipulate KML.
+	</description>
+
+	<target name="earth-extract" description="Get places from KML constructed in Google Earth">
+		<xslt in="../kml/14th.kml" out="output/out.xml" style="../xsl/skos-places.xsl" force="yes"/>
+	</target>
+
+	<target name="kml" description="Make KML from SKOS">
+		<xslt in="output/out.xml" out="output/out.kml" style="../xsl/make-kml.xsl" force="yes"/>
+	</target>
+	
+</project>
+
