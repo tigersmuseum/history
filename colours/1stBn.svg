@@ -57,4 +57,40 @@
 		</a>
 	</g>
 	
+	<g id="south-africa" transform="translate(780,400)  rotate(75)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="burma" transform="translate(805,392)  rotate(70)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/king-theebaw-third-anglo-burmese-war-1885-1890/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="kabul" transform="translate(820,382)  rotate(56)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="minden" transform="translate(853,312)  rotate(-5)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-minden/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="malplaquet" transform="translate(850,288)  rotate(-8)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-battle-of-malplaquet/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
+	<g id="ramillies" transform="translate(840,268)  rotate(-20)">
+		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-ramillies-1706/">
+			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
+		</a>
+	</g>
+	
 </svg>
