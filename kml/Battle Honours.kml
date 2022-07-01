@@ -1,51 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 <Document>
 	<name>Battle Honours</name>
 	<open>1</open>
-	<Style id="randomColorIcon">
+	<Style id="battle">
+      <BalloonStyle>
+		<bgColor>ffffaaaa</bgColor>
+		<textColor>ff000000</textColor> 
+        <text>
+        <![CDATA[
+		<br/><br/>
+		<b><font color="steelblue" size="+2">$[name]</font></b>
+		<br/><br/>
+		$[description]
+		]]>
+        </text>
+      </BalloonStyle>
 		<IconStyle>
-			<color>ff00ff00</color>
-			<colorMode>random</colorMode>
-			<scale>1.1</scale>
+			<scale>1.5</scale>
 			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+				<href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Placemark id="0B5B9959BA21697B2BAD" about="http://dbpedia.org/resource/Battle_of_Blenheim">
-		<name>Battle of Blenheim</name>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Blenheim">
+		<name>1704, Blenheim</name>
 		<Snippet maxLines="0"></Snippet>
-		<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Blenheim">Battle of Blenheim</a>]]></description>
+		<description>
+		<![CDATA[
+		The Battle of Blenheim fought on August 13, 1704 was one of the turning points of the War of the Spanish Succession (1701-14), saving Vienna from the Franco-Bavarian army and preventing the collapse of the Grand Alliance.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-blenheim-1704/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
 		<Point>
 			<coordinates>10.6,48.645,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="0840B927BC21697B2BAE" about="http://dbpedia.org/resource/Battle_of_Ramillies">
-		<name>Battle of Ramillies</name>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Ramillies">
+		<name>1706, Ramillies</name>
 		<Snippet maxLines="0"></Snippet>
-		<description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Ramillies">Battle of Ramillies</a>]]></description>
-		<styleUrl>#randomColorIcon</styleUrl>
+		<description>
+		<![CDATA[
+		The Battle of Ramillies fought on May 23, 1706 was an overwhelming victory for the Grand Alliance forces of England, Holland and Denmark over the army of King Louis XIV of France during the war of the Spanish Succession (1701-14).
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-ramillies-1706/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
 		<Point>
 			<coordinates>4.9128,50.6386,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="1A504671A921697B2BAE" about="http://dbpedia.org/resource/Battle_of_Oudenarde">
-		<name>Battle of Oudenaarde</name>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Oudenarde">
+		<name>1708, Oudenaarde</name>
 		<Snippet maxLines="0"></Snippet>
-		<description><![CDATA[Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/Battle_of_Oudenarde">Battle of Oudenaarde</a>
-            <p><a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">The Battle of Oudenarde, 1708</a></p>]]></description>
+		<description>
+		<![CDATA[
+		The Battle of Oudenarde was fought on July 11 1708 between the Grand Alliance forces of Britain, Holland and Austria on the one side and those of King Louis XIV of France on the other during the War of the Spanish Succession. It resulted in a crushing victory for the Alliance, the third of the war for its British commander the Duke of Marlborough.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
 		<Point>
 			<coordinates>3.62,50.8796,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="02FEA2C0A321697B2BAF" about="http://dbpedia.org/resource/Battle_of_Malplaquet">
-		<name>The Battle of Malplaquet</name>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Malplaquet">
+		<name>1709, Malplaquet</name>
 		<Snippet maxLines="0"></Snippet>
-		<description><![CDATA[Source: Wikipedia article <a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/#1709">Battle of Malplaquet</a>
-            <p><a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/#1709">The Battle of Malplaquet, 1709</a></p>]]></description>
+		<description>
+		<![CDATA[
+		The Duke of Marlborough's fourth and final victory of the War of the Spanish Succession came at the Battle of Malplaquet, fought on September 11 1709 between the forces of the Grand Alliance and France.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-battle-of-malplaquet/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
 		<Point>
 			<coordinates>3.87639,50.33610000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Dettingen">
+		<name>1743, Dettingen</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		The Battle of Dettingen took place on June 27 1743 on the banks of the River Main in south-west Germany between the so-called Pragmatic Army, comprising 50,000 British, Hanoverian and Austrian troops under King George II, and a 70,000-strong French army. It resulted in victory for the allies and is significant for being the only time in modern history that British troops have been led into battle by a reigning monarch.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-dettingen/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>9.018333,50.048889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Capture_of_Belle_Île">
+		<name>1761, Belle Isle</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		The capture of the French island of Belle Isle, 20 miles off the Brittany coast, was a joint naval/army expedition during the Seven Years War.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/capture-belle-isle/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>-3.1668,47.3321,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Barrosa">
+		<name>1811, Barrosa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		The 2/67th's performance in Spain earned it the battle honours of 'Barrosa' and 'Peninsula', thereby contributing something outstanding to its short history. The gallantry displayed at Barrosa was also recognised by the award of gold medals to all commanders of units and heads of departments, among them Lieutenant Colonel Prevost. His medal can be seen in the Royal Hampshire Regimental Museum.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>-6.1765,36.3719,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>
