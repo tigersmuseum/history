@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	<time:Instant rdf:about="http://dbpedia.org/resource/Childers_Reforms">
+	 	<time:inXSDDate rdf:datatype="xsd:date">1881-07-01</time:inXSDDate>
+	</time:Instant>
+	<time:ProperInterval rdf:about="http://dbpedia.org/resource/37th_(North_Hampshire)_Regiment_of_Foot">
+	  	<time:hasBeginning>
+			<time:Instant>
+			 	<time:inXSDDate rdf:datatype="xsd:date">1702-02-13</time:inXSDDate>
+			</time:Instant>
+	  	</time:hasBeginning>
+	  	<time:hasEnd rdf:resource="http://dbpedia.org/resource/Childers_Reforms"/>
+	</time:ProperInterval>
+	<time:ProperInterval rdf:about="http://dbpedia.org/resource/67th_(South_Hampshire)_Regiment_of_Foot">
+	  	<time:hasBeginning>
+			<time:Instant>
+			 	<time:inXSDDate rdf:datatype="xsd:date">1756-12-10</time:inXSDDate>
+			</time:Instant>
+	  	</time:hasBeginning>
+	  	<time:hasEnd rdf:resource="http://dbpedia.org/resource/Childers_Reforms"/>
+	</time:ProperInterval>
+	<time:ProperInterval rdf:about="http://dbpedia.org/resource/Royal_Hampshire_Regiment">
+	  	<time:hasBeginning rdf:resource="http://dbpedia.org/resource/Childers_Reforms"/>
+	  	<time:hasEnd>
+			<time:Instant>
+			 	<time:inXSDDate rdf:datatype="xsd:date">1992-09-09</time:inXSDDate>
+			</time:Instant>
+	  	</time:hasEnd>
+	  	<time:intervalMetBy rdf:resource="http://dbpedia.org/resource/37th_(North_Hampshire)_Regiment_of_Foot"/>
+	  	<time:intervalMetBy rdf:resource="http://dbpedia.org/resource/67th_(South_Hampshire)_Regiment_of_Foot"/>
+	</time:ProperInterval>
+	<time:ProperInterval rdf:about="http://dbpedia.org/resource/Princess_of_Wales's_Royal_Regiment">
+	  	<time:hasBeginning>
+			<time:Instant>
+			 	<time:inXSDDate rdf:datatype="xsd:date">1992-09-09</time:inXSDDate>
+			</time:Instant>
+	  	</time:hasBeginning>
+	  	<time:intervalMetBy rdf:resource="http://dbpedia.org/resource/Queen's_Regiment"/>
+	  	<time:intervalMetBy rdf:resource="http://dbpedia.org/resource/Royal_Hampshire_Regiment"/>
+	</time:ProperInterval>
+</rdf:RDF>
