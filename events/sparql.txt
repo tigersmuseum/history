@@ -1,13 +1,17 @@
 select distinct ?concept ?name ?abstract ?lat ?long ?date WHERE {
  
-   VALUES ?concept { <http://dbpedia.org/resource/Battle_of_Wadi_(1916)> }
+   VALUES ?concept { <http://dbpedia.org/resource/Battle_of_Wadi_(1916)>
+   <http://dbpedia.org/resource/Battle_of_Sheikh_Sa'ad> }
    ?concept rdfs:label ?name.
    ?concept dbo:abstract ?abstract.
-   ?concept geo:lat ?lat.
-   ?concept geo:long ?long.
 
    OPTIONAL {
      ?concept dbo:date ?date.
+   }
+
+   OPTIONAL {
+     ?concept geo:lat ?lat.
+     ?concept geo:long ?long.
    }
 
    FILTER ( LANGMATCHES(LANG(?name), "en") && LANGMATCHES(LANG(?abstract), "en") )

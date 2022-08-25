@@ -14,7 +14,7 @@
 			</kml:IconStyle>
 		</kml:Style>
 		<kml:name>Testing</kml:name>
-	    <xsl:apply-templates select=".//geo:Point"/>
+	    <xsl:apply-templates select="//skos:Concept"/>
 	</kml:Document>
 </kml:kml>
 </xsl:template>
@@ -28,5 +28,30 @@
 		</kml:Point>
 	</kml:Placemark>
 </xsl:template>
+
+
+<xsl:template match="skos:Concept[geo:Point]">
+	<kml:Placemark>
+		<kml:name><xsl:value-of select="skos:prefLabel"/></kml:name>
+		<styleUrl>#defaultIcon</styleUrl>
+		<kml:Point>
+			<kml:coordinates><xsl:value-of select="concat(geo:Point/geo:long, ',',geo:Point/geo:lat, ',0')"/></kml:coordinates>
+		</kml:Point>
+	</kml:Placemark>
+</xsl:template>
+
+
+<xsl:template match="skos:Concept[geo:lat][geo:long]">
+	<kml:Placemark>
+		<kml:name><xsl:value-of select="skos:prefLabel"/></kml:name>
+		<styleUrl>#defaultIcon</styleUrl>
+		<kml:Point>
+			<kml:coordinates><xsl:value-of select="concat(geo:long, ',',geo:lat, ',0')"/></kml:coordinates>
+		</kml:Point>
+	</kml:Placemark>
+</xsl:template>
+
+
+<xsl:template match="skos:Concept"/>
 
 </xsl:stylesheet>

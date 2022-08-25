@@ -1,0 +1,339 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Malplaquet">
+    <skos:prefLabel xml:lang="en">Battle of Malplaquet</skos:prefLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.3361</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >3.87639</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Malplaquet"/>
+    <skos:altLabel xml:lang="en">Battle of malplaquet</skos:altLabel>
+    <skos:altLabel xml:lang="en">Malaplaquet</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Malplaquet took place on 11 September 1709 during the War of the Spanish Succession and was fought between a French army commanded by the Duke of Villars and a Grand Alliance force under the Duke of Marlborough. In one of the bloodiest battles of the 18th century, the Allies won a narrow victory but suffered heavy casualties, while the French were able to withdraw in good order. At the start of 1709, the French state seemed on the verge of collapse, its treasury empty and food scarce while Allied advances in 1708 left the kingdom open to an invasion. These factors made the Allies overconfident and their excessive demands led to the collapse of peace talks in April. Villars had been instructed to avoid battle but after the capture of Tournai in early September, the Allies moved against Mons and Louis XIV of France ordered him to prevent its loss. Although the two armies made contact on 10 September, Marlborough delayed until the next day, giving Villars the opportunity to strengthen his defensive positions. When the battle began on 11 September, Marlborough used his standard tactic of simultaneous infantry attacks on the flanks, forcing Villars to move troops from the centre, which would then be broken by a mass cavalry charge. While successful in other battles, at Malplaquet the French were better led, held stronger positions and were highly motivated; as a result, the flank attacks incurred heavy casualties, particularly on the left where the Dutch lost over 5,000 men in less than thirty minutes and nearly 8,500 in all. Although the overall plan worked, the French cavalry ensured their centre did not collapse as on previous occasions, while the Allied infantry was too weakened by their losses to conduct a pursuit, allowing the French to withdraw intact. The Allies lost over 21,000 men in the battle, the French around 12,000; these totals shocked contemporaries and heightened internal divisions within the Grand Alliance over the wisdom of continuing the war. It has been argued Malplaquet was a French strategic victory, since by saving his army and preventing an invasion of France, Villars ultimately enabled Louis to negotiate far better peace terms in 1713 than those available in 1709. While there is some truth to this, it did little to change the immediate strategic situation; Mons surrendered shortly afterward and the Allies resumed their advance in 1710. Some historians suggest the biggest impact of the battle was in restoring French military confidence after years of defeat.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Doiran_(1918)">
+    <skos:definition xml:lang="en">The Third Battle of Doiran was fought from 18–19 September 1918, with the Greeks and the British assaulting the positions of the Bulgarian First Army near Dojran Lake. The battle was part of World War I and took place in the Balkan Theatre. The battle ended with the Bulgarians repulsing all attacks.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Doiran_(1918)"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >22.75</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >41.2167</geo:lat>
+    <skos:prefLabel xml:lang="en">Battle of Doiran (1918)</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Dettingen">
+    <skos:prefLabel xml:lang="en">Battle of Dettingen</skos:prefLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.0489</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >9.01833</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Dettingen"/>
+    <skos:definition xml:lang="en">The Battle of Dettingen (German: Schlacht bei Dettingen) took place on 27 June 1743 during the War of the Austrian Succession at Dettingen in the Electorate of Mainz, Holy Roman Empire (now Karlstein am Main in Bavaria). It was fought between a Pragmatic Army, composed of the British, Hanoverian and Austrian troops, and a French army commanded by the duc de Noailles. While the Earl of Stair exercised operational control, the Allied army was nominally commanded by George II, accompanied by his son the Duke of Cumberland. As a result, it is now best remembered as the last time a reigning British monarch led troops in combat. Despite being an Allied victory, the battle had little effect on the wider war, and has been described as 'a happy escape, rather than a great victory.'</skos:definition>
+    <skos:altLabel xml:lang="en">Battle of dettingen</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Dettington</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Salerno">
+    <skos:altLabel xml:lang="en">History of Salerno</skos:altLabel>
+    <skos:altLabel xml:lang="en">Salernum</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >40.6833</geo:lat>
+    <skos:altLabel xml:lang="en">UN/LOCODE:ITSAL</skos:altLabel>
+    <skos:altLabel xml:lang="en">San Benedetto monastery (Salerno)</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >14.7667</geo:long>
+    <skos:prefLabel xml:lang="en">Salerno</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Salerno"/>
+    <skos:altLabel xml:lang="en">Salerno, Italy</skos:altLabel>
+    <skos:definition xml:lang="en">Salerno (UK: /sæˈlɛərnoʊ/, US: /səˈ-, sɑːˈ-, səˈlɜːrnoʊ/, Italian: [saˈlɛrno]; Salernitano: Saliernë, IPA: [saˈljernə]) is an ancient city and comune in Campania (southwestern Italy) and is the capital of the namesake province. It is located on the Gulf of Salerno on the Tyrrhenian Sea. In recent history the city hosted Victor Emmanuel III, the King of Italy, who moved from Rome in 1943 after Italy negotiated a peace with the Allies in World War II, making Salerno the capital of the "Government of the South" (Regno del Sud) and therefore provisional government seat for six months. Some of the Allied landings during Operation Avalanche (the invasion of Italy) occurred near Salerno. Today Salerno is an important cultural and economic centre in Campania and Italy. Human settlement at Salerno has a rich and vibrant past, dating back to pre-historic times. The site has been one of the most important and strategic ports on the Mediterranean sea, yielding a rich Greco-Roman heritage. It was an independent Lombard principality, Principality of Salerno, in the early Middle Ages. During this time, the Schola Medica Salernitana, the first medical school in the world, was founded. The Normans in 1077 made Salerno the capital of their rule in all continental southern Italy. In the 16th century, under the Sanseverino family, among the most powerful feudal lords in southern Italy, the city became a great centre of learning, culture and the arts, and the family hired several of the greatest intellectuals of the time. Later, in 1694, the city was struck by several catastrophic earthquakes and plagues. During a period of Spanish rule the city suffered a crisis which would last until the 18th century, but under Napoleon Salerno became part of the Parthenopean Republic. In the 19th century Salerno supported ideas of the Risorgimento and welcomed Garibaldi in 1861. The city is divided into three distinct zones: the medieval sector, the 19th century sector and the more densely populated post-war area, with its several apartment blocks. A patron saint of Salerno is Saint Matthew, the Apostle, whose relics are kept here at the crypt of Salerno Cathedral.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Third_Battle_of_Gaza">
+    <skos:definition xml:lang="en">The Third Battle of Gaza was fought on the night of 1–2 November 1917 between British and Ottoman forces during the Sinai and Palestine Campaign of World War I and came after the British Egyptian Expeditionary Force (EEF) victory at the Battle of Beersheba had ended the Stalemate in Southern Palestine. The fighting occurred at the beginning of the Southern Palestine Offensive, and, together with attacks on Hareira and Sheria on 6–7 November and the continuing Battle of Tel el Khuweilfe, which had been launched by General Edmund Allenby on 1 November, it eventually broke the Gaza-to-Beersheba line defended by the Yildirim Army Group. Despite having held this line since March 1917, the Ottoman Army was forced to evacuate Gaza and during the night of 6–7 November. Only Sheria held out for most of the 7 November before it too was captured. Following British defeats at the First and Second battles of Gaza in March and April 1917, Lieutenant General Philip Chetwode commanding the EEF's Eastern Force and Kress von Kressenstein's Ottoman Empire force had each adopted a defensive posture and a stalemate had developed in Southern Palestine. Entrenched defences approximately on the lines held at the end of the second battle were strengthened, and both sides undertook regular mounted reconnaissances into the open eastern flank. In late June, Allenby replaced General Archibald Murray as commander of the EEF, which he quickly reorganised. At about the same time, the Ottoman Fourth Army was also restructured. As the stalemate continued in terrible conditions through the summer, reinforcements began to arrive to replace the large number of casualties suffered by the EEF during the previous fighting for Gaza, while several additional divisions also arrived. The Ottoman defenders were also reinforced at this time, and both sides carried out training while manning the front lines and monitoring the open eastern flank. By mid-October, as the Battle of Passchendaele continued on the Western Front, the last of the British reinforcements arrived as Allenby's preparations to commence a campaign of manoeuvre neared completion. Prior to the Second Battle of Gaza, the town had been developed into a strong modern fortress, with entrenchments, wire entanglements and a glacis on its south and south–eastern edges. A series of field works, mutually supported by artillery, machine guns and rifles, extended from Gaza eastwards to within 4 miles (6.4 km) of Beersheba. Beginning on 27 October, the EEF began a heavy and almost continuous bombardment of Gaza. During this time, the EEF's XXI Corps, holding the Gaza section of the line, had been mostly passive until the night of 1/2 November, when a series of determined night-time assaults were mounted against the Gaza defences. Yet these attacks were only partially successful due to the strength of the garrison. The bombardment of Gaza intensified on 6 November and during the night of 6/7 November successful attacks were launched on several trench systems. On the morning of 7 November, Gaza was found to have been evacuated during the night. The Gaza to Beersheba line subsequently collapsed and the Ottoman Seventh and Eighth Armies were forced into retreat. Following several battles during the pursuit, the EEF captured Jerusalem on 9 December 1917.</skos:definition>
+    <skos:altLabel xml:lang="en">3rd Battle of Gaza</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Khuweilfe</skos:altLabel>
+    <skos:altLabel xml:lang="en">Third battle of Gaza</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Third_Battle_of_Gaza"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >34.4737</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >31.4893</geo:lat>
+    <skos:prefLabel xml:lang="en">Third Battle of Gaza</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Passchendaele">
+    <skos:altLabel xml:lang="en">Ypres 1917</skos:altLabel>
+    <skos:altLabel xml:lang="en">Passendale campaign</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second Battle of Flanders</skos:altLabel>
+    <skos:altLabel xml:lang="en">The Battle of Passchendaele</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Battle of Passchendaele</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Battle of passchendaele</skos:altLabel>
+    <skos:altLabel xml:lang="en">Third Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Passendale</skos:altLabel>
+    <skos:altLabel xml:lang="en">Third Battle of Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">3rd Battle of Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Passchendaele Ridge</skos:altLabel>
+    <skos:altLabel xml:lang="en">Third battle of Ypres</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.9003</geo:lat>
+    <skos:definition xml:lang="en">The Third Battle of Ypres (German: Dritte Flandernschlacht; French: Troisième Bataille des Flandres; Dutch: Derde Slag om Ieper), also known as the Battle of Passchendaele (/ˈpæʃəndeɪl/), was a campaign of the First World War, fought by the Allies against the German Empire. The battle took place on the Western Front, from July to November 1917, for control of the ridges south and east of the Belgian city of Ypres in West Flanders, as part of a strategy decided by the Allies at conferences in November 1916 and May 1917. Passchendaele lies on the last ridge east of Ypres, 5 mi (8.0 km) from Roulers (now Roeselare) a junction of the Bruges (Brugge) to Kortrijk railway. The station at Roulers was on the main supply route of the German 4th Army. Once Passchendaele Ridge had been captured, the Allied advance was to continue to a line from Thourout (now Torhout) to Couckelaere (Koekelare). Further operations and a British supporting attack along the Belgian coast from Nieuport (Nieuwpoort), combined with an amphibious landing (Operation Hush), were to have reached Bruges and then the Dutch frontier. Although a general withdrawal had seemed inevitable in early October, the Germans were able to avoid one due to the resistance of the 4th Army, unusually wet weather in August, the beginning of the autumn rains in October and the diversion of British and French resources to Italy. The campaign ended in November, when the Canadian Corps captured Passchendaele, apart from local attacks in December and early in the new year. The Battle of the Lys (Fourth Battle of Ypres) and the Fifth Battle of Ypres of 1918, were fought before the Allies occupied the Belgian coast and reached the Dutch frontier. A campaign in Flanders was controversial in 1917 and has remained so. The British Prime Minister, David Lloyd George, opposed the offensive, as did General Ferdinand Foch, the Chief of Staff of the French Army. Field Marshal Sir Douglas Haig, commander of the British Expeditionary Force (BEF), did not receive approval for the Flanders operation from the War Cabinet until 25 July. Matters of dispute by the participants, writers and historians since 1917 include the wisdom of pursuing an offensive strategy in the wake of the Nivelle Offensive, rather than waiting for the arrival of the American Expeditionary Force (AEF) in France. The choice of Flanders, its climate, the selection of General Hubert Gough and the Fifth Army to conduct the offensive, debates over the nature of the opening attack and between advocates of shallow and deeper objectives, remain controversial. The time between the Battle of Messines (7–14 June) and the first Allied attack (the Battle of Pilckem Ridge, 31 July), the extent to which the internal troubles of the French armies influenced the British, the effect of the exceptional weather, the decision to continue the offensive in October and the human costs of the campaign are also debated.</skos:definition>
+    <skos:altLabel xml:lang="en">Final Battle of Ypres</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Passchendaele"/>
+    <skos:altLabel xml:lang="en">Ypres, 1917</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >3.02111</geo:long>
+    <skos:altLabel xml:lang="en">Third Flanders Battle</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Third Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Third battle of ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Passchendale</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/First_Battle_of_Gaza">
+    <skos:altLabel xml:lang="en">1st Battle of Gaza</skos:altLabel>
+    <skos:altLabel xml:lang="en">First battle of gaza</skos:altLabel>
+    <skos:altLabel xml:lang="en">First Battle of Gaza (1917)</skos:altLabel>
+    <skos:altLabel xml:lang="en">First battle of Gaza</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/First_Battle_of_Gaza"/>
+    <skos:definition xml:lang="en">The First Battle of Gaza was fought on 26 March 1917, during the first attempt by the Egyptian Expeditionary Force (EEF) to invade the south of Palestine in the Ottoman Empire during the Sinai and Palestine Campaign of the First World War. Fighting took place in and around the town of Gaza on the Mediterranean coast when infantry and mounted infantry from the Desert Column, a component of the Eastern Force, attacked the town. Late in the afternoon, on the verge of capturing Gaza, the Desert Column was withdrawn due to concerns about the approaching darkness and large Ottoman reinforcements. This British defeat was followed a few weeks later by the even more emphatic defeat of the Eastern Force at the Second Battle of Gaza in April 1917. In August 1916 the EEF victory at Romani ended the possibility of land-based attacks on the Suez Canal, first threatened in February 1915 by the Ottoman Raid on the Suez Canal. In December 1916, the newly created Desert Column's victory at the Battle of Magdhaba secured the Mediterranean port of El Arish and the supply route, water pipeline, and railway stretching eastwards across the Sinai Peninsula. In January 1917 the victory of the Desert Column at the Battle of Rafa completed the capture of the Sinai Peninsula and brought the EEF within striking distance of Gaza. In March 1917, two months later, Gaza was attacked by Eastern Force infantry from the 52nd (Lowland) Division reinforced by an infantry brigade. This attack was protected from the threat of Ottoman reinforcements by the Anzac Mounted Division and a screen from the Imperial Mounted Division. The infantry attack from the south and southeast on the Ottoman garrison in and around Gaza was strongly resisted. While the Imperial Mounted Division continued to hold off threatening Ottoman reinforcements, the Anzac Mounted Division attacked Gaza from the north. They succeeded in entering the town from the north, while a joint infantry and mounted infantry attack on Ali Muntar captured the position. However, the lateness of the hour, the determination of the Ottoman defenders, and the threat from the large Ottoman reinforcements approaching from the north and north east, resulted in the decision by the Eastern Force to retreat. It has been suggested this move snatched defeat from the jaws of victory.</skos:definition>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >31.4893</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >34.4737</geo:long>
+    <skos:prefLabel xml:lang="en">First Battle of Gaza</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Capture_of_Belle_Île">
+    <skos:prefLabel xml:lang="en">Capture of Belle Île</skos:prefLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >47.3321</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-3.1668</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Capture_of_Belle_Île"/>
+    <skos:altLabel xml:lang="en">Capture of Belle Ile</skos:altLabel>
+    <skos:altLabel xml:lang="en">Descent on Belle Île</skos:altLabel>
+    <skos:altLabel xml:lang="en">Capture of Belle Ille</skos:altLabel>
+    <skos:definition xml:lang="en">The Capture of Belle Île was a British amphibious expedition to capture the French island of Belle Île off the Brittany coast in 1761, during the Seven Years' War. After an initial British attack was repulsed, a second attempt under General Studholme Hodgson forced a beachhead. A second landing was made, and after a six-week siege the island's main citadel at Le Palais was stormed, consolidating British control of the island. A French relief effort from the nearby mainland was unable to succeed because of British control of the sea. The British occupied the island for two years before returning it in 1763 following the Treaty of Paris.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Doiran_(1917)">
+    <skos:altLabel xml:lang="en">Doiran 1917</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Doiran was a 1917 battle between the United Kingdom and Bulgaria during World War I.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Doiran_(1917)"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >22.7206</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >41.1875</geo:lat>
+    <skos:prefLabel xml:lang="en">Battle of Doiran (1917)</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Operation_Ochsenkopf">
+    <skos:definition xml:lang="en">Unternehmen Ochsenkopf (Operation Ox Head) also known as the Battle of Sidi Nsir and the Battle of Hunts Gap was an Axis offensive operation in Tunisia from 26 February to 4 March 1943, during the Tunisia Campaign of the Second World War. The offensive and a subsidiary operation Unternehmen Ausladung was intended to gain control of Medjez el Bab, Béja, El Aroussa, and a position known as Hunt's Gap, between the British First Army and the Axis Army Group Africa (Heeresgruppe Afrika/Gruppo d'Armate Africa). The offensive gained some ground, but none of the more ambitious objectives were achieved before the operation was called off due to increasing losses of infantry and tanks, particularly the heavy Tigers. Unternehmen Ochsenkopf was the last big Axis offensive by the 5th Panzer Army before the surrender of the Afrika Korps in May 1943.</skos:definition>
+    <skos:altLabel xml:lang="en">Northern horn</skos:altLabel>
+    <skos:altLabel xml:lang="en">Northern Horn</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Operation_Ochsenkopf"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >9.23333</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >37.05</geo:lat>
+    <skos:prefLabel xml:lang="en">Operation Ochsenkopf</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Monte_Cassino">
+    <skos:altLabel xml:lang="en">World War II/Monte Cassino</skos:altLabel>
+    <skos:altLabel xml:lang="en">Operation Avenger</skos:altLabel>
+    <skos:altLabel xml:lang="en">Cassino II</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"/>
+    <skos:altLabel xml:lang="en">Battle of Monte Casino</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of monte cassino</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle for Cassino</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Cassino</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >13.8167</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >41.4833</geo:lat>
+    <skos:altLabel xml:lang="en">Bombing of Monte Cassino</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battles of Cassino</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Monte Cassino (also known as the Battle for Rome and the Battle for Cassino) was a costly series of four assaults by the Allies against the Winter Line in Italy held by Axis forces during the Italian Campaign of World War II. The intention was a breakthrough to Rome. At the beginning of 1944, the western half of the Winter Line was being anchored by Germans holding the Rapido-Gari, Liri and Garigliano valleys and some of the surrounding peaks and ridges. Together, these features formed the Gustav Line. Monte Cassino, a historic hilltop abbey founded in AD 529 by Benedict of Nursia, dominated the nearby town of Cassino and the entrances to the Liri and Rapido valleys. Lying in a protected historic zone, it had been left unoccupied by the Germans, although they manned some positions set into the steep slopes below the abbey's walls. Repeated pinpoint artillery attacks on Allied assault troops caused their leaders to conclude the abbey was being used by the Germans as an observation post, at the very least. Fears escalated along with casualties and in spite of a lack of clear evidence, it was marked for destruction. On 15 February American bombers dropped 1,400 tons of high explosives, creating widespread damage. The raid failed to achieve its objective, as German paratroopers then occupied the rubble and established excellent defensive positions amid the ruins. Between 17 January and 18 May, Monte Cassino and the Gustav defences were assaulted four times by Allied troops. On 16 May, soldiers from the Polish II Corps launched one of the final assaults on the German defensive position as part of a twenty-division assault along a twenty-mile front. On 18 May, a Polish flag followed by the British Union Jack were raised over the ruins. Following this Allied victory, the German Senger Line collapsed on 25 May. The German defenders were finally driven from their positions, but at a high cost. The capture of Monte Cassino resulted in 55,000 Allied casualties, with German losses being far fewer, estimated at around 20,000 killed and wounded.</skos:definition>
+    <skos:prefLabel xml:lang="en">Battle of Monte Cassino</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Ramillies">
+    <skos:prefLabel xml:lang="en">Battle of Ramillies</skos:prefLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.6386</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >4.91278</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Ramillies"/>
+    <skos:altLabel xml:lang="en">Battle of ramillies</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Ramillies (/ˈræmɪliːz/), fought on 23 May 1706, was a battle of the War of the Spanish Succession. For the Grand Alliance – Austria, England, and the Dutch Republic – the battle had followed an indecisive campaign against the Bourbon armies of King Louis XIV of France in 1705. Although the Allies had captured Barcelona that year, they had been forced to abandon their campaign on the Moselle, had stalled in the Spanish Netherlands and suffered defeat in northern Italy. Yet despite his opponents' setbacks Louis XIV wanted peace, but on reasonable terms. Because of this, as well as to maintain their momentum, the French and their allies took the offensive in 1706. The campaign began well for Louis XIV's generals: in Italy Marshal Vendôme defeated the Austrians at the Battle of Calcinato in April, while in Alsace Marshal Villars forced the Margrave of Baden back across the Rhine. Encouraged by these early gains Louis XIV urged Marshal Villeroi to go over to the offensive in the Spanish Netherlands and, with victory, gain a 'fair' peace. Accordingly, the French Marshal set off from Leuven (Louvain) at the head of 60,000 men and marched towards Tienen (Tirlemont), as if to threaten Zoutleeuw (Léau). Also determined to fight a major engagement, the Duke of Marlborough, commander-in-chief of Anglo-Dutch forces, assembled his army – some 62,000 men – near Maastricht, and marched past Zoutleeuw. With both sides seeking battle, they soon encountered each other on the dry ground between the rivers Mehaigne and Petite Gette, close to the small village of Ramillies. In less than four hours Marlborough's Dutch, English, and Danish forces overwhelmed Villeroi's and Max Emanuel's Franco-Spanish-Bavarian army. The Duke's subtle moves and changes in emphasis during the battle – something his opponents failed to realise until it was too late – caught the French in a tactical vice. With their foe broken and routed, the Allies were able to fully exploit their victory. Town after town fell, including Brussels, Bruges and Antwerp; by the end of the campaign Villeroi's army had been driven from most of the Spanish Netherlands. With Prince Eugene's subsequent success at the Battle of Turin in northern Italy, the Allies had imposed the greatest loss of territory and resources that Louis XIV would suffer during the war. Thus, the year 1706 proved, for the Allies, to be an annus mirabilis.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Second_Battle_of_Gaza">
+    <skos:altLabel xml:lang="en">Second Battle of Gaza (1917)</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >34.4737</geo:long>
+    <skos:prefLabel xml:lang="en">Second Battle of Gaza</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Second battle of Gaza</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second battle of gaza</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >31.4893</geo:lat>
+    <skos:altLabel xml:lang="en">2nd Battle of Gaza</skos:altLabel>
+    <skos:definition xml:lang="en">The Second Battle of Gaza was fought between 17 and 19 April 1917, following the defeat of the Egyptian Expeditionary Force (EEF) at the First Battle of Gaza in March, during the Sinai and Palestine Campaign of the First World War. Gaza was defended by the strongly entrenched Ottoman Army garrison, which had been reinforced after the first battle by substantial forces. They manned the town's defences and a line of strong redoubts which extended eastwards along the road from Gaza to Beersheba. The defenders were attacked by the Eastern Force's three infantry divisions, supported by two mounted divisions, but the strength of the defenders, their entrenchments, and supporting artillery decimated the attackers. As a result of the EEF victories at the Battle of Romani, the Battle of Magdhaba and the Battle of Rafa, fought from August 1916 to January 1917, the EEF had pushed the defeated Ottoman Army eastwards. The EEF reoccupied the Egyptian territory of the Sinai Peninsula, and crossed over into the Ottoman Empire territory of southern Palestine. However, the result of the First Battle of Gaza had been as close to a British Empire victory as a defeat could get. In the three weeks between the two battles, the Gaza defences were strongly reinforced against a frontal attack. The strong entrenchments and fortifications proved unassailable during the disastrous frontal attacks, and EEF casualties approached, and in some cases exceeded 50 per cent for slight gains.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Second_Battle_of_Gaza"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Second_Battle_of_Kut">
+    <skos:definition xml:lang="en">The Second Battle of Kut was fought on 23 February 1917, between British and Ottoman forces at Kut, Mesopotamia (present-day Iraq). The battle was part of the British advance to Baghdad begun in December 1916 by a 50,000-man British force (mainly from British India) organised in two army corps. The British, led by Frederick Stanley Maude, recaptured the city, but the Ottoman garrison there did not get trapped inside (as had happened to Townshend's troops in the previous year when the Ottomans had besieged Kut in the siege of Kut): the Ottoman commander, Kâzım Karabekir Bey, managed a good-order retreat from the town of his remaining soldiers (about 2,500), pursued by a British fluvial flotilla along the Tigris River. The British advance wore off on 27 February at Aziziyeh, some 100 kilometers (62 mi) beyond Kut. After three days' worth of supplies had been accumulated, Maude continued his march toward Baghdad.</skos:definition>
+    <skos:altLabel xml:lang="en">Second battle of kut</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kut al Amara 1917</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Second_Battle_of_Kut"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >45.8247</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >32.5056</geo:lat>
+    <skos:prefLabel xml:lang="en">Second Battle of Kut</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Second_Battle_of_Ypres">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.8994</geo:lat>
+    <skos:altLabel xml:lang="en">Second Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second battle of ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ypres, 1915</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of St Julien</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >2.94056</geo:long>
+    <skos:altLabel xml:lang="en">Ypres 1915</skos:altLabel>
+    <skos:altLabel xml:lang="en">Hooge 1915</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Bellewaarde</skos:altLabel>
+    <skos:altLabel xml:lang="en">2nd Battle of Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Gravenstafel</skos:altLabel>
+    <skos:altLabel xml:lang="en">Gravenstafel Ridge (Ypres)</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Second_Battle_of_Ypres"/>
+    <skos:altLabel xml:lang="en">Bellewaarde</skos:altLabel>
+    <skos:altLabel xml:lang="en">2nd Ypres</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Second Battle of Ypres</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Battle of Frezenberg</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of St. Julien</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second battle of Ypres</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second Battle Of Ypres</skos:altLabel>
+    <skos:definition xml:lang="en">During the First World War, the Second Battle of Ypres was fought from 22 April – 25 May 1915 for control of the tactically important high ground to the east and south of the Flemish town of Ypres in western Belgium. The First Battle of Ypres had been fought the previous autumn. The Second Battle of Ypres was the first mass use by Germany of poison gas on the Western Front.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Operation_Avalanche">
+    <skos:altLabel xml:lang="en">Avalanche (operation)</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Operation_Avalanche"/>
+    <skos:altLabel xml:lang="en">Salerno landings</skos:altLabel>
+    <skos:definition xml:lang="en">Operation Avalanche was the codename for the Allied landings near the port of Salerno, executed on 9 September 1943, part of the Allied invasion of Italy. The Italians withdrew from the war the day before the invasion, but the Allies landed in an area defended by German troops. Planned under the name Top Hat, it was supported by the deception plan Operation Boardman. The landings were carried out by the US Fifth Army, under American General Mark W. Clark. It comprised the U.S. VI Corps, the British X Corps and the US 82nd Airborne Division, a total of about nine divisions. Its primary objectives were to seize the port of Naples to ensure resupply, and to cut across to the east coast, trapping the Axis troops further south. In order to draw troops away from the landing ground, Operation Baytown was mounted. This was a landing by the British Eighth Army in Calabria in the 'toe' of Italy, on 3 September. Simultaneous sea landings were made by the British 1st Airborne Division at the port of Taranto (Operation Slapstick). British General Bernard Montgomery had predicted Baytown would be a waste of effort because it assumed the Germans would give battle in Calabria; if they failed to do so, the diversion would not work. He was proved correct. After Baytown, the Eighth Army marched 300 miles (480 km) north to the Salerno area against no opposition other than engineer obstacles. The Salerno landings were carried out without previous naval or aerial bombardment in order to achieve surprise. Surprise was not achieved. As the first wave approached the shore at Paestum a loudspeaker from the landing area proclaimed in English, "Come on in and give up. We have you covered." The troops attacked nonetheless. The Germans had established artillery and machine-gun posts and scattered tanks through the landing zones which made progress difficult, but the beach areas were captured. Around 07:00 a concerted counterattack was made by the 16th Panzer Division. It caused heavy casualties but was beaten off. Both the British and the Americans made slow progress, and still had a 10 miles (16 km) gap between them at the end of day one. They linked up by the end of day two and occupied 35–45 miles (56–72 km) of coastline to a depth of 6–7 miles (9.7–11.3 km). Over 12–14 September the Germans organized a concerted counterattack by six divisions of motorized troops, hoping to throw the Salerno beachhead into the sea before it could link with the British Eighth Army. Heavy casualties were inflicted, as the Allied troops were too thinly spread to be able to resist concentrated attacks. The outermost troops were therefore withdrawn in order to reduce the perimeter. The new perimeter was held with the assistance of naval and aerial support, although the German attacks reached almost to the beaches in places.</skos:definition>
+    <skos:altLabel xml:lang="en">Avalanche Operation</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Salerno</skos:altLabel>
+    <skos:altLabel xml:lang="en">Operation Boardman</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Operation Avalanche</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Salerno Landings</skos:altLabel>
+    <skos:altLabel xml:lang="en">Operation Avalanche (World War II)</skos:altLabel>
+    <skos:altLabel xml:lang="en">Landings at Salerno</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Fifth_Battle_of_Ypres">
+    <skos:altLabel xml:lang="en">Battle of the Peaks of Flanders</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >3.02111</geo:long>
+    <skos:definition xml:lang="en">The Fifth Battle of Ypres, also called the Advance of Flanders and the Battle of the Peaks of Flanders (French: Bataille des Crêtes de Flandres) is an informal name used to identify a series of World War I battles in northern France and southern Belgium (Flanders) from late September to October 1918.</skos:definition>
+    <skos:altLabel xml:lang="en">The Advance in Flanders</skos:altLabel>
+    <skos:altLabel xml:lang="en">Ypres 1918</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.9003</geo:lat>
+    <skos:prefLabel xml:lang="en">Fifth Battle of Ypres</skos:prefLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fifth_Battle_of_Ypres"/>
+    <skos:altLabel xml:lang="en">Army Group Flanders</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Barrosa">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >36.3719</geo:lat>
+    <skos:altLabel xml:lang="en">Battle of Barossa</skos:altLabel>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >-6.1765</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Barrosa"/>
+    <skos:altLabel xml:lang="en">Battle of barrosa</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Barrossa</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Battle of Barrosa</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Battle of Chiclana</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Barrosa (Chiclana, 5 March 1811, also known as the Battle of Chiclana or Battle of Cerro del Puerco) was part of an unsuccessful manoeuvre by an Anglo-Iberian force to break the French siege of Cádiz during the Peninsular War. During the battle, a single British division defeated two French divisions and captured a regimental eagle. Cádiz had been invested by the French in early 1810, leaving it accessible from the sea, but in March of the following year a reduction in the besieging army gave its garrison of British and Spanish troops an opportunity to lift the siege. A large Allied strike force was shipped south from Cádiz to Tarifa, and moved to engage the siege lines from the rear. The French, under the command of Marshal Victor, were aware of the Allied movement and redeployed to prepare a trap. Victor placed one division on the road to Cádiz, blocking the Allied line of march, while his two remaining divisions fell on the single Anglo-Portuguese rearguard division under the command of Sir Thomas Graham. Following a fierce battle on two fronts, the British succeeded in routing the attacking French forces. A lack of support from the larger Spanish contingent prevented an absolute victory, and the French were able to regroup and reoccupy their siege lines. Graham's tactical victory proved to have little strategic effect on the continuing war, to the extent that Victor was able to claim the battle as a French victory since the siege remained in force until finally being lifted on 24 August 1812.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Cambrai_(1918)">
+    <skos:definition xml:lang="en">The Battle of Cambrai, 1918 (also known as the Second Battle of Cambrai) was a battle between troops of the British First, Third and Fourth Armies and German Empire forces during the Hundred Days Offensive of the First World War. The battle took place in and around the French city of Cambrai, between 8 and 10 October 1918. The battle incorporated many of the newer tactics of 1918, in particular tanks. The attack gained considerable ground in less than 36 hours. It saw about 2,000 more British casualties than German which were light relative to earlier phases of the war.</skos:definition>
+    <skos:altLabel xml:lang="en">Cambrai 1918</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second Battle of Cambrai</skos:altLabel>
+    <skos:altLabel xml:lang="en">Cambrai, 1918</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Cambrai_(1918)"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >3.2356</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.1767</geo:lat>
+    <skos:prefLabel xml:lang="en">Battle of Cambrai (1918)</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Blenheim">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >10.6</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Blenheim"/>
+    <skos:altLabel xml:lang="en">Battle Of Blenheim</skos:altLabel>
+    <skos:altLabel xml:lang="en">The Second Battle of Höchstädt</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Battle of Blenheim</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Second Battle of Höchstädt</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of blenheim</skos:altLabel>
+    <skos:altLabel xml:lang="en">The Battle of Blenheim</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second Battle of Hoechstaedt</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >48.645</geo:lat>
+    <skos:definition xml:lang="en">The Battle of Blenheim (German: Zweite Schlacht bei Höchstädt; French: Bataille de Höchstädt; Dutch: Slag bij Blenheim) fought on 13 August [O.S. 2 August] 1704, was a major battle of the War of the Spanish Succession. The overwhelming Allied victory ensured the safety of Vienna from the Franco-Bavarian army, thus preventing the collapse of the reconstituted Grand Alliance. Louis XIV of France sought to knock the Holy Roman Emperor, Leopold, out of the war by seizing Vienna, the Habsburg capital, and gain a favourable peace settlement. The dangers to Vienna were considerable: Maximilian II Emanuel, Elector of Bavaria, and Marshal Ferdinand de Marsin's forces in Bavaria threatened from the west, and Marshal Louis Joseph de Bourbon, duc de Vendôme's large army in northern Italy posed a serious danger with a potential offensive through the Brenner Pass. Vienna was also under pressure from Rákóczi's Hungarian revolt from its eastern approaches. Realising the danger, the Duke of Marlborough resolved to alleviate the peril to Vienna by marching his forces south from Bedburg to help maintain Emperor Leopold within the Grand Alliance. A combination of deception and skilled administration – designed to conceal his true destination from friend and foe alike – enabled Marlborough to march 400 km (250 mi) unhindered from the Low Countries to the River Danube in five weeks. After securing Donauwörth on the Danube, Marlborough sought to engage Maximilian's and Marsin's army before Marshal Camille d'Hostun, duc de Tallard, could bring reinforcements through the Black Forest. The Franco-Bavarian commanders proved reluctant to fight until their numbers were deemed sufficient, and Marlborough failed in his attempts to force an engagement. When Tallard arrived to bolster Maximilian's army, and Prince Eugene of Savoy arrived with reinforcements for the Allies, the two armies finally met on the banks of the Danube in and around the small village of Blindheim, from which the English "Blenheim" is derived. Blenheim was one of the battles that altered the course of the war, which until then was favouring the French and Spanish Bourbons. Although the battle did not win the war, it prevented a potentially devastating loss for the Grand Alliance and shifted the war's momentum, ending French plans of knocking Emperor Leopold out of the war. The French suffered catastrophic casualties in the battle including their commander-in-chief, Tallard, who was taken captive to England. Before the 1704 campaign ended, the Allies had taken Landau, and the towns of Trier and Trarbach on the Moselle in preparation for the following year's campaign into France itself. This offensive never materialised as the Grand Alliance's army had to depart the Moselle to defend Liège from a French counter-offensive. The war raged on for another decade before ending in 1714.</skos:definition>
+    <skos:altLabel xml:lang="en">March to the Danube</skos:altLabel>
+    <skos:altLabel xml:lang="en">Second Battle of Hochstadt</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Siege_of_Kut">
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Siege_of_Kut"/>
+    <skos:altLabel xml:lang="en">The Siege of Al-kut</skos:altLabel>
+    <skos:altLabel xml:lang="en">Sanna-i-Yat</skos:altLabel>
+    <skos:altLabel xml:lang="en">Siege of kut</skos:altLabel>
+    <skos:altLabel xml:lang="en">Mespot disaster</skos:altLabel>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >32.5056</geo:lat>
+    <skos:altLabel xml:lang="en">First Battle of Kut</skos:altLabel>
+    <skos:altLabel xml:lang="en">Kut al Amara 1915</skos:altLabel>
+    <skos:definition xml:lang="en">The siege of Kut Al Amara (7 December 1915 – 29 April 1916), also known as the first battle of Kut, was the besieging of an 8,000 strong British Army garrison in the town of Kut, 160 kilometres (100 mi) south of Baghdad, by the Ottoman Army. In 1915, its population was around 6,500. Following the surrender of the garrison on 29 April 1916, the survivors of the siege were marched to imprisonment at Aleppo, during which many died. Historian Christopher Catherwood has called the siege "the worst defeat of the Allies in World War I". Ten months later, the British Indian Army, consisting almost entirely of newly recruited troops from Western India, conquered Kut, Baghdad and other regions in between in the Fall of Baghdad.</skos:definition>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >45.8247</geo:long>
+    <skos:altLabel xml:lang="en">First battle of Kut</skos:altLabel>
+    <skos:altLabel xml:lang="en">Siege of Kut-al-Amara</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Siege of Kut</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Cambrai_(1917)">
+    <skos:altLabel xml:lang="en">First Battle of Cambrai</skos:altLabel>
+    <skos:altLabel xml:lang="en">Cambrai, 1917</skos:altLabel>
+    <skos:altLabel xml:lang="en">Cambrai 1917</skos:altLabel>
+    <skos:definition xml:lang="en">The Battle of Cambrai (Battle of Cambrai, 1917, First Battle of Cambrai and Schlacht von Cambrai) was a British attack in the First World War, followed by the biggest German counter-attack against the British Expeditionary Force (BEF) since 1914. The town of Cambrai, in the département of Nord, was an important supply centre for the German Siegfriedstellung (known to the British as the Hindenburg Line) and capture of the town and the nearby Bourlon Ridge would threaten the rear of the German line to the north. Major General Henry Tudor, Commander, Royal Artillery (CRA) of the 9th (Scottish) Division, advocated the use of new artillery-infantry tactics on his sector of the front. During preparations, J. F. C. Fuller, a staff officer with the Tank Corps, looked for places to use tanks for raids. General Julian Byng, commander of the Third Army, decided to combine both plans. The French and British armies had used tanks en masse earlier in 1917, although to considerably less effect. After a big British success on the first day, mechanical unreliability, German artillery and infantry defences exposed the frailties of the Mark IV tank. On the second day, only about half of the tanks were operational and British progress was limited. In the History of the Great War, the British official historian, Wilfrid Miles and modern scholars do not place exclusive credit for the first day on tanks but discuss the concurrent evolution of artillery, infantry and tank methods. Numerous developments since 1915 matured at Cambrai, such as predicted artillery fire, sound ranging, infantry infiltration tactics, infantry-tank co-ordination and close air support. The techniques of industrial warfare continued to develop and played a vital part during the Hundred Days Offensive in 1918, along with replacement of the Mark IV tank with improved types. The rapid reinforcement and defence of Bourlon Ridge by the Germans, as well as their counter-attack, were also notable achievements, which gave the Germans hope that an offensive strategy could end the war before American mobilisation became overwhelming.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Cambrai_(1917)"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >3.23556</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >50.1767</geo:lat>
+    <skos:prefLabel xml:lang="en">Battle of Cambrai (1917)</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Battle_of_Es_Sinn">
+    <skos:definition xml:lang="en">The Battle of Es Sinn was a World War I military engagement between Anglo-Indian and Ottoman forces. It took place on 28 September 1915, during the Mesopotamian Campaign. The sides fought to determine control of the lower and rivers, in what is now Iraq. The British and Indian governments also viewed it as a test of the Ottoman forces, and whether a further advance to capture Baghdad was possible. The Anglo-Indian forces of Indian Expeditionary Force D were under the command of Major-General Charles Vere Ferres Townshend, and the Ottoman forces by Colonel Nureddin. The engagement took place just south of the town of Kut-al-Amarah, along the banks of the Tigris River. Following a night march, the British and Indian troops defeated the Ottoman forces, driving them from their defensive positions along the Tigris. The capture of the Es Sinn position allowed for the capture of Kut, and with it control over the lower Tigris and Euphrates rivers, by British forces the following day.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battle_of_Es_Sinn"/>
+    <skos:prefLabel xml:lang="en">Battle of Es Sinn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Operation_Plunder">
+    <skos:altLabel xml:lang="en">Crossing the Rhine</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of Wesel</skos:altLabel>
+    <skos:altLabel xml:lang="en">Rhine River crossing</skos:altLabel>
+    <skos:altLabel xml:lang="en">Wallender, Germany</skos:altLabel>
+    <skos:altLabel xml:lang="en">Operation Flashpoint (1945)</skos:altLabel>
+    <skos:definition xml:lang="en">Operation Plunder was a military operation to cross the Rhine on the night of 23 March 1945, launched by the 21st Army Group under Field Marshal Bernard Montgomery. The crossing of the river was at Rees, Wesel, and south of the river Lippe by the British Second Army under Lieutenant General Miles Dempsey, and the United States Ninth Army under Lieutenant General William H. Simpson. The First Allied Airborne Army conducted Operation Varsity on the east bank of the Rhine in support of Operation Plunder, consisting of U.S. XVIII Airborne Corps, the British 6th and the U.S. 17th Airborne Divisions. Preparations such as accumulation of supplies, road construction, and the transport of 36 Royal Navy landing craft, were hidden by a massive smoke screen from 16 March. The operation commenced on the night of 23 March 1945. It included the Varsity parachute and glider landings near Wesel, and Operation Archway, by the Special Air Service. The landing areas were flooded, deserted farmland rising to woodland.</skos:definition>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Operation_Plunder"/>
+    <skos:prefLabel xml:lang="en">Operation Plunder</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://dbpedia.org/resource/Gothic_Line">
+    <skos:altLabel xml:lang="en">The Gothic Line</skos:altLabel>
+    <skos:altLabel xml:lang="en">Green Line (Italy)</skos:altLabel>
+    <skos:prefLabel xml:lang="en">Gothic Line</skos:prefLabel>
+    <skos:altLabel xml:lang="en">Gothic line</skos:altLabel>
+    <skos:altLabel xml:lang="en">Linea Gotica</skos:altLabel>
+    <skos:altLabel xml:lang="en">Battle of the Gothic Line</skos:altLabel>
+    <skos:definition xml:lang="en">The Gothic Line (German: Gotenstellung; Italian: Linea Gotica) was a German defensive line of the Italian Campaign of World War II. It formed Field Marshal Albert Kesselring's last major line of defence along the summits of the northern part of the Apennine Mountains during the fighting retreat of the German forces in Italy against the Allied Armies in Italy, commanded by General Sir Harold Alexander. Adolf Hitler had concerns about the state of preparation of the Gothic Line: he feared the Allies would use amphibious landings to outflank its defences. To downgrade its importance in the eyes of both friend and foe, he ordered the name, with its historic connotations, changed, reasoning that if the Allies managed to break through they would not be able to use the more impressive name to magnify their victory claims. In response to this order, Kesselring renamed it the "Green Line" (Grüne Linie) in June 1944. Using more than 15,000 slave labourers, the Germans created more than 2,000 well-fortified machine gun nests, casemates, bunkers, observation posts and artillery fighting positions to repel any attempt to breach the Gothic Line. Initially this line was breached during Operation Olive (also sometimes known as the Battle of Rimini), but Kesselring's forces were consistently able to retire in good order. This continued to be the case up to March 1945, with the Gothic Line being breached but with no decisive breakthrough; this would not take place until April 1945 during the final Allied offensive of the Italian Campaign. Operation Olive has been described as the biggest battle of materials ever fought in Italy. Over 1,200,000 men participated in the battle. The battle took the form of a pincer manoeuvre, carried out by the British Eighth Army and the U.S. Fifth Army against the German 10th Army (10. Armee) and German 14th Army (14. Armee). Rimini, a city which had been hit by previous air raids, had 1,470,000 rounds fired against it by allied land forces. According to Lieutenant-General Oliver Leese, commander of the British Eighth Army: The battle of Rimini was one of the hardest battles of Eighth Army. The fighting was comparable to El Alamein, Mareth and the Gustav Line (Monte-Cassino).</skos:definition>
+    <skos:altLabel xml:lang="en">Operation Olive</skos:altLabel>
+    <skos:altLabel xml:lang="en">Rimini Line</skos:altLabel>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gothic_Line"/>
+    <skos:altLabel xml:lang="en">Battle of Coriano</skos:altLabel>
+  </skos:Concept>
+</rdf:RDF>
