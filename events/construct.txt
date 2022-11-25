@@ -1,0 +1,27 @@
+CONSTRUCT {
+	?concept rdf:type skos:Concept;
+		skos:prefLabel ?name;
+		skos:definition ?abstract;
+		geo:lat ?lat;
+		geo:long ?long.
+}
+WHERE {
+ 
+   VALUES ?concept { <http://dbpedia.org/resource/Battle_of_Wadi_(1916)>
+   <http://dbpedia.org/resource/Battle_of_Sheikh_Sa'ad> }
+   ?concept rdfs:label ?name.
+   ?concept dbo:abstract ?abstract.
+
+   OPTIONAL {
+     ?concept dbo:date ?date.
+   }
+
+   OPTIONAL {
+     ?concept geo:lat ?lat.
+     ?concept geo:long ?long.
+   }
+
+   FILTER ( LANGMATCHES(LANG(?name), "en") && LANGMATCHES(LANG(?abstract), "en") )
+ }
+ 
+ 
