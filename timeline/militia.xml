@@ -1,0 +1,100 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+	<time:Instant rdf:about="#militia_act_1757">
+		<skos:prefLabel xml:lang="en">1757 Militia Act</skos:prefLabel>
+		<time:inXSDgYear rdf:datatype="xsd:gYear">1757</time:inXSDgYear>
+	</time:Instant>
+    
+	<time:Instant rdf:about="#local_militia_act_1808">
+		<skos:prefLabel xml:lang="en">1808 Local Militia Act</skos:prefLabel>
+		<time:inXSDgYear rdf:datatype="xsd:gYear">1808</time:inXSDgYear>
+	</time:Instant>
+
+    <skos:Concept rdf:about="http://dbpedia.org/resource/North_Hants_Militia">
+		<skos:broader rdf:resource="https://dbpedia.org/resource/Category:Militia_of_the_United_Kingdom"/>
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">North Hants Militia</skos:prefLabel>
+		<time:hasBeginning rdf:resource="#militia_act_1757"/>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1853</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	</skos:Concept>
+	
+    <skos:Concept rdf:about="#South_Hants_Militia">
+		<skos:broader rdf:resource="https://dbpedia.org/resource/Category:Militia_of_the_United_Kingdom"/>
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">South Hants Militia</skos:prefLabel>
+		<time:hasBeginning rdf:resource="#militia_act_1757"/>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1853</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	</skos:Concept>
+	
+    <skos:Concept rdf:about="#South__East_Hants_Local_Militia">
+		<skos:broader rdf:resource="#South_Hants_Militia"/>
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">South East Hants Local Militia</skos:prefLabel>
+		<time:hasBeginning rdf:resource="#local_militia_act_1808"/>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1816</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	</skos:Concept>
+	
+    <skos:Concept rdf:about="#South__West_Hants_Local_Militia">
+		<skos:broader rdf:resource="#South_Hants_Militia"/>
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">South West Hants Local Militia</skos:prefLabel>
+		<time:hasBeginning rdf:resource="#local_militia_act_1808"/>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1816</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	</skos:Concept>
+    
+    <skos:Concept about="#Hants_Militia">
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">Hampshire Regiment of Militia</skos:prefLabel>
+		<time:hasBeginning>
+			<time:Instant>
+			 	<time:inXSDDate rdf:datatype="xsd:date">1853-12-23</time:inXSDDate>
+			</time:Instant>
+	  	</time:hasBeginning>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1881</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	  	<time:intervalMetBy rdf:resource="http://dbpedia.org/resource/North_Hants_Militia"/>		
+	  	<time:intervalMetBy rdf:resource="#South_Hants_Militia"/>		
+	</skos:Concept>
+	
+    <skos:Concept rdf:about="#3_militia_bn">
+    	<rdf:type resource="time:ProperInterval"/>
+		<skos:prefLabel xml:lang="en">3rd (Militia) Battalion, The Hampshire Regiment</skos:prefLabel>
+		<time:hasBeginning>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1881</time:inXSDgYear>
+			</time:Instant>
+ 		</time:hasBeginning>
+		<time:hasEnd>
+			<time:Instant>
+				<time:inXSDgYear rdf:datatype="xsd:gYear">1894</time:inXSDgYear>
+			</time:Instant>
+  		</time:hasEnd>
+	  	<time:intervalMetBy rdf:resource="#Hants_Militia"/>		
+	</skos:Concept>
+	
+	
+</rdf:RDF>
