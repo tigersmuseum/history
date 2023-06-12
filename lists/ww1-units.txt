@@ -110,6 +110,7 @@
 122 BRIGADE
 122 INF BDE
 122 INF. BDE
+122 INFANTRY BRIGADE
 122 TMB
 122ND BDE
 122ND BRIGADE
@@ -471,6 +472,8 @@ A COMPANY 2ND HAMPS
 A COY SLI
 AGC
 ASC
+ASC (HT)
+ASC (MT)
 BATTN MIDDLESEX REGT
 BEDFORDSHIRE REGT
 CAMBRIDGESHIRES
@@ -567,3 +570,20 @@ XIX MIDDLESEX
 XTH CORPS
 XV CORPS
 Z CORPS
+XVII Div.
+II Corps
+II Army
+Anzacs
+18 K.R.R
+187th Brigade R.F.A
+New Zealand Rifle Bn
+14th Division
+Middlesex Regiment
+Y Corps
+41st Division
+30th Division
+124 Infantry Brigade
+11th Royal West Surreys
+18th King's Royal Rifles
+32nd Royal Fuseliers
+28th Fd Amb.
