@@ -1,3 +1,11 @@
+# Places
+
+A place is often important because of what it is, not where it is. *Place* is not always the same as *location*. For example, an important place to a Field Ambulance is its Main Dressing Station (MDS). Although it moves from time to time, there's really just one MDS for each Field Ambulance. We can think about it as one place associated with many locations.
+
+There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. However, we'll try here not to get bogged down too soon.
+
+Places are mentioned in historical texts. A simple first step is to consider each such mention of a place as a *label* that names or describes it. This might be all we need in some circumstances, or it might be the first rung on a ladder leading to a more esoteric model of place.  
+
 
 
 ## Locations from Google Earth
@@ -20,12 +28,6 @@
 
 [The Long, Long Trail](https://www.longlongtrail.co.uk) has information on [how to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/), together with links to trench map sources.
 
-
-## Places
-
-The [concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml)
-
-Sometimes a place is where you go because of what it is, irrespective of where it is. 
 
 ## Data
 
