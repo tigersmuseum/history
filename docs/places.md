@@ -2,15 +2,21 @@
 
 A place is often important because of what it is, not where it is; *place* is not always the same as *location*. For example, an important place to a Field Ambulance is its Main Dressing Station (MDS). Although it moves from time to time, there's really just one MDS for each Field Ambulance. We can think about it as one place associated with many locations.
 
-There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. However, we'll try here not to get bogged down too soon.
+There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. Here, we'll try not to get bogged down too soon.
 
-Places are mentioned in historical texts. A simple first step is to consider the mention of a place as a *label* that names or describes it. This might be all we need in some circumstances, or it might be the first rung on the ladder to a more esoteric model of place.  
+Places are mentioned in historical texts. A simple first step is to consider the mention of a place as a *label* that names or describes it. This might be all we need in some circumstances, or it might be the first rung on the ladder to a more esoteric model of place.
+
+The same place can have many labels. We need to collect the different labels for a place, choose one of them to be 'authoritative' (the one to display on a map) and perhaps attach a description. We need to have a data structure for this. Here, we'll use the [Simple Knowledge Organization System (SKOS)](https://www.w3.org/TR/skos-primer/).
+
+## Geospatial data
+
+Data about locations is *geospatial data*. The [Open Geospatial Consortium (OGC)](https://www.ogc.org/) promotes geospatial standards and data sharing. These include a standard for "expressing geographic annotation and visualization" called [KML](https://www.ogc.org/standard/kml/). See [Google's KML Tutorial](https://developers.google.com/kml/documentation/kml_tut).
 
 ## Locations
 
 A location is what you need if you want to display a place on a map. if you push a pin into a map then the location is simply a *point*. A point has *coordinates* that position it on a map. There are various systems for geographic coordinates, but the most common (so most useful) is the [World Geodetic System (WGS84)](https://gisgeography.com/wgs84-world-geodetic-system/).
 
-As well as points, You may want to show *lines* or *polygons* on a map. The location has a *geometry*. Lines and polygons are constructed from multiple points. A general location is therefore a set of points and a geometry. 
+As well as points, You may want to show *lines* or *polygons* on a map, which means that a location has a *geometry*. Lines and polygons are constructed from multiple points. A general location is therefore a set of points and a geometry. 
 
 
 ### Locations from Google Earth
