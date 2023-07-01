@@ -13,13 +13,21 @@
 <title>WW1 Battles</title>
 </head>
 <body>
-<article about="http://dbpedia.org/resource/Battle_of_the_Menin_Road_Ridge">
-	<h3 property="skos:prefLabel">Battle of the Menin Road Ridge</h3>
-	<p rel="time:hasBeginning">(<span property="time:inXSDDate" typeof="time:Instant" content="1917-09-20">20</span>-25 September)</p>
-</article>
-<article about="http://dbpedia.org/resource/Battle_of_Polygon_Wood">
-	<h3 property="skos:prefLabel">Battle of Polygon Wood</h3>
-	<p rel="time:hasBeginning">(<span property="time:inXSDDate" typeof="time:Instant" content="1917-09-26">20</span>-25 September)</p>
-</article>
+<div about="#bag" typeof="rdf:Bag" rev="rdfs:member">
+	<article about="http://dbpedia.org/resource/Battle_of_the_Menin_Road_Ridge">
+		<h3 property="skos:prefLabel">Battle of the Menin Road Ridge</h3>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1917-09-20"></datetime>20<sup>th</sup></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1917-09-25">25<sup>th</sup></datetime> Sept 1917</span>
+		</p>
+	</article>
+	<article about="http://dbpedia.org/resource/Battle_of_Polygon_Wood">
+		<h3 property="skos:prefLabel">Battle of Polygon Wood</h3>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1917-09-26"></datetime>26<sup>th</sup> Sept</span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1917-10-03">3<sup>rd</sup> Oct</datetime> 1917</span>
+		</p>
+	</article>
+</div>
 </body>
 </html>
