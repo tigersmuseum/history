@@ -1,10 +1,10 @@
 # Places
 
-A place is often important because of what it is, not where it is; *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations.
+A place is often important because of what it is, not where it is; and *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations.
 
 There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. Here, we'll try not to get bogged down too soon.
 
-Places are mentioned in historical texts. A simple first step is to consider the mention of a place as a *label* that names or describes it. This might be all we need in some circumstances, or it might be the first rung on the ladder to a more esoteric model of place. See, for example, the list of [WW1 places]() in this project.
+Places are mentioned in historical texts. A simple first step is to consider the mention of a place as a *label* that names or describes it. See, for example, the list of [WW1 places](../lists/ww1-places.txt) in this project. This might be all we need in some circumstances, or it might be the first rung on the ladder to a more esoteric model of place.
 
 The same place can have many labels. We need to collect the different labels for a place, choose one of them to be 'authoritative' (the one to display on a map) and perhaps attach a description. We need to have a data structure for this. Here, we'll use the [Simple Knowledge Organization System (SKOS)](https://www.w3.org/TR/skos-primer/).
 
@@ -35,16 +35,14 @@ As well as points, You may want to show *lines* or *polygons* on a map, which me
 
 ## Trench Maps
 
-[The Long, Long Trail](https://www.longlongtrail.co.uk) has information on [how to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/), together with links to trench map sources.
-
+[The Long, Long Trail](https://www.longlongtrail.co.uk) has information on [how to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/), together with links to trench map sources. Another useful resource is [tMapper](https://www.tmapper.com/), which also lets you convert Western Front map references to latitudes and longitudes.
 
 ## Data
 
-We need place *names* or, more generally, place *labels*. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) dataset.
+We need place *names* or, more generally, place *labels*. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/).
 
 
-URI's allow different researchers to know when they're referring to the same thing, but they need to be agreed and managed. If you don't have a URI, then you can identify a place is by its name - but the name of a place might be ambiguous, and the same place might be referred to by different names in different contexts. You can identify a place by its location, if you can decide when two nearby points are the same, or two polygons are the same. 
-
+URI's allow different researchers to know when they're referring to the same thing, but they need to be agreed and managed. If you don't have a URI, then you can identify a place is by its name - but the name of a place might be ambiguous, and the same place might be referred to by different names in different contexts. Alternatively, you can identify a place by its location, if you can decide when two nearby points are the same or two polygons are the same.
 
 
 As KML. As OWL/RDF linked data.
@@ -54,3 +52,6 @@ The advantage of using Geonames and RDF is that you get a URI that uniquely iden
 Blank nodes?
 
 A place is defined by its associations and context. We can use SKOS to organize places by context, e.g. billets.
+
+We don't need to get to a perfect model of the world in one go. We can gradually piece things together. Uncertain and loose associations may be useful in building a model, even if they aren't correct. Models should be validated and tested as they are built. Discovering a mistake often means discovering something new and useful about the model.
+
