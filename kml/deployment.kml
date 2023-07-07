@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Deployment</name>
+	<gx:CascadingStyle kml:id="__managed_style_0EDF16396029F5016A3D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17A3E9093029F5016A3C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FFFE74BAA29F5016A3C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17A3E9093029F5016A3C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0EDF16396029F5016A3D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2CEFE9BDF629F4972887">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.99875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12042D03BA29F4972887">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.3325</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_09AC608F6A29F4972884">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08B7B3703F29F4972887">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12042D03BA29F4972887</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2CEFE9BDF629F4972887</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1BA338DFCB29F4972883">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B43B5D65529F4972883">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BA338DFCB29F4972883</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09AC608F6A29F4972884</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0D97740EA229B20ABEB0">
+		<name>De Klijte</name>
+		<gx:mid>/m/05zxsyd</gx:mid>
+		<gx:fid>0x47dcdacf261a747f:0xf195d0a46146a9a2</gx:fid>
+		<LookAt>
+			<longitude>2.8011705</longitude>
+			<latitude>50.80067535</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3160.332827138972</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B43B5D65529F4972883</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.8011705,50.80067589999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9FA7909929B20F78C9">
+		<name>CP, Larch Wood</name>
+		<LookAt>
+			<longitude>2.928009855200093</longitude>
+			<latitude>50.82799527587808</latitude>
+			<altitude>48.59742981078443</altitude>
+			<heading>-0.9401280504820712</heading>
+			<tilt>7.212296281664732</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>2718.343021231703</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.924540378550198,50.82707938558869,44.40949791110045</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A2C278F529B2137EF2">
+		<name>Lock 8</name>
+		<LookAt>
+			<longitude>2.89331407048171</longitude>
+			<latitude>50.82110072213114</latitude>
+			<altitude>25.34306751228976</altitude>
+			<heading>359.0595314270116</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>968.4993522681179</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.890631753445325,50.82088289531364,28.18462364925961</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D62D952C529B21EC8E8">
+		<name>Chippewa Camp</name>
+		<LookAt>
+			<longitude>2.793773336001948</longitude>
+			<latitude>50.80518159054329</latitude>
+			<altitude>48.62684322130925</altitude>
+			<heading>-0.5979188939960164</heading>
+			<tilt>3.874061766404207</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>3342.409711295622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.795787194899091,50.82063533074403,41.56854393230136</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF512075529B24AB6B7">
+		<name>ACP, Hedge Street</name>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.944263815437917,50.83091298482739,52.50704143234626</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D5BF6BE3629B256FFE0">
+		<name>RAP 1, Clonmel Copse</name>
+		<LookAt>
+			<longitude>2.962755080983759</longitude>
+			<latitude>50.83644011017497</latitude>
+			<altitude>53.64329718928323</altitude>
+			<heading>-0.1568981545114615</heading>
+			<tilt>12.97565747028083</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>3456.706426832825</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.952289596464943,50.83272895850484,58.04145970398925</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C256A37B29B25AC596">
+		<name>RAP 2, Iliad Lane</name>
+		<LookAt>
+			<longitude>2.963982412680413</longitude>
+			<latitude>50.83156745935183</latitude>
+			<altitude>46.62383061434904</altitude>
+			<heading>-0.1568981991814157</heading>
+			<tilt>12.97567201559575</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>3463.910024713841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.951476116234006,50.83134097022797,57.43150510672307</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031FD3716829B25D7115">
+		<name>ACP, Canada Street</name>
+		<LookAt>
+			<longitude>2.944389127714033</longitude>
+			<latitude>50.82781960566125</latitude>
+			<altitude>55.29240142757114</altitude>
+			<heading>-0.1568896282156453</heading>
+			<tilt>12.97312207314941</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>2200.455695146811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.939867285761537,50.82768825426597,52.27591030022313</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CEADDC63D29B25F6880">
+		<name>RAP 3 &amp; 4, Iliad Avenue</name>
+		<LookAt>
+			<longitude>2.94439237722933</longitude>
+			<latitude>50.82771506463675</latitude>
+			<altitude>54.34129382364497</altitude>
+			<heading>359.8431169486819</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>1230.649126274802</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.94806530839526,50.82808273674248,53.95349747336177</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC599039E29B2623BEE">
+		<name>Voormezele</name>
+		<gx:mid>/g/121kw03g</gx:mid>
+		<gx:fid>0x47dcce2f70e268a3:0x13e374ee9c2620ce</gx:fid>
+		<LookAt>
+			<longitude>2.875805</longitude>
+			<latitude>50.81656014999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3158.983254339576</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B43B5D65529F4972883</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.875805,50.81656069999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0307211A6229EFD453F8">
+		<name>Remy Siding</name>
+		<LookAt>
+			<longitude>2.705447714539777</longitude>
+			<latitude>50.83014237466997</latitude>
+			<altitude>22.20759072205613</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2612.963747982576</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08B7B3703F29F4972887</styleUrl>
+		<Point>
+			<coordinates>2.702155594692566,50.83204768407752,22.66057458839157</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0634C85A9E29F5016A39">
+		<name>I.28.b.5.2</name>
+		<LookAt>
+			<longitude>2.924272001118979</longitude>
+			<latitude>50.82884539221989</latitude>
+			<altitude>36.1874772541239</altitude>
+			<heading>-0.008050487586141937</heading>
+			<tilt>8.526898402344589</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2252.814077521325</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FFFE74BAA29F5016A3C</styleUrl>
+		<Point>
+			<coordinates>2.920149764875806,50.82822584574162,43.98784493239052</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
