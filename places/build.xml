@@ -13,6 +13,10 @@
 	<target name="kml" description="Make KML from SKOS">
 		<xslt in="../events/events.xml" out="output/out.kml" style="../xsl/make-kml.xsl" force="yes"/>
 	</target>
+
+	<target name="tmap" description="trench map coordinate overlays">
+		<xslt in="output/scratch.xml" out="output/out.svg" style="../xsl/tmap.xsl" force="yes"/>
+	</target>
 	
 </project>
 
