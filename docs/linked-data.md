@@ -20,5 +20,8 @@ See [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). This 
 	DESCRIBE <http://ldf.fi/ww1lod/eda57b6b>
 
 
+[Munnin Project](https://blog.muninn-project.org/)
+
 Munnin RDF server: https://rdf.muninn-project.org/
 
+[British Trench Map Ontology](https://rdf.muninn-project.org/ontologies/btmaps-en.html)
