@@ -1,238 +1,247 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 610" preserveAspectRatio="none">
-	<image x="0" y="0" width="1024" height="610" href="1stBn.jpg"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	viewBox="0 0 1024 610" preserveAspectRatio="none" about="#colours">
 	
+	<image x="0" y="0" width="1024" height="610" property="foaf:depiction" href="1stBn.jpg"/>
 	
-	<g id="blenheim" transform="translate(720,170)  rotate(75)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-blenheim-1704/">
+	<g about="#colours" typeof="rdf:Bag" rel="rdfs:member">
+	
+	<g about="http://dbpedia.org/resource/Battle_of_Blenheim" property="rdfs:label" content="Blenheim" transform="translate(720,170)  rotate(75)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-blenheim-1704/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="dettingen" transform="translate(660,200)  rotate(45)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-dettingen/">
+	<g about="#dettingen" property="rdfs:label" content="Dettingen" transform="translate(660,200)  rotate(45)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-dettingen/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="oudenarde" transform="translate(685,180)  rotate(55)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">
+	<g about="#oudenarde" property="rdfs:label" content="Oudenarde" transform="translate(685,180)  rotate(55)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-oudenarde-1708/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="belle-isle" transform="translate(640,222)  rotate(35)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/capture-belle-isle/">
+	<g about="#belle-isle" property="rdfs:label" content="Belleisle" transform="translate(640,222)  rotate(35)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/capture-belle-isle/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="barossa" transform="translate(625,248)  rotate(30)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">
+	<g about="#barossa" property="rdfs:label" content="Barossa" transform="translate(625,248)  rotate(30)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="taku-forts" transform="translate(618,278)  rotate(16)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">
+	<g about="#taku-forts" property="rdfs:label" content="Taku Forts" transform="translate(618,278)  rotate(16)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="charasiab" transform="translate(615,306)  rotate(5)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+	<g about="#charasiah" property="rdfs:label" content="Charasiah" transform="translate(615,306)  rotate(5)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="afghanistan" transform="translate(618,338)  rotate(-8)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+	<g about="#afghanistan" property="rdfs:label" content="Afghanistan 1878–80" transform="translate(618,338)  rotate(-8)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="paardeburg" transform="translate(630,370)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
+	<g about="#paardeburg" property="rdfs:label" content="Paardeburg" transform="translate(630,370)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="south-africa" transform="translate(780,400)  rotate(75)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
+	<g about="#south-africa" property="rdfs:label" content="South Africa 1900-02" transform="translate(780,400)  rotate(75)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/2nd-hampshire-boer-war-1899-1902/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="burma" transform="translate(805,392)  rotate(70)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/king-theebaw-third-anglo-burmese-war-1885-1890/">
+	<g about="#burma" property="rdfs:label" content="Burma 1885-87" transform="translate(805,392)  rotate(70)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/king-theebaw-third-anglo-burmese-war-1885-1890/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="kabul" transform="translate(820,382)  rotate(56)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
+	<g about="#kabul" property="rdfs:label" content="Kabul 1879" transform="translate(820,382)  rotate(56)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regiment-second-afghan-war-1878-80/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="minden" transform="translate(853,312)  rotate(-5)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-minden/">
+	<g about="#minden" property="rdfs:label" content="Minden" transform="translate(853,312)  rotate(-5)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-minden/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="malplaquet" transform="translate(850,288)  rotate(-8)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-battle-of-malplaquet/">
+	<g about="#malplaquet" property="rdfs:label" content="Malplaquet" transform="translate(850,288)  rotate(-8)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-battle-of-malplaquet/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="ramillies" transform="translate(840,268)  rotate(-20)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-ramillies-1706/">
+	<g about="#ramillies" property="rdfs:label" content="Ramillies" transform="translate(840,268)  rotate(-20)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-ramillies-1706/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="tournay" transform="translate(853,330)  rotate(18)">
-		<a href="https://en.wikipedia.org/wiki/Battle_of_Tournay_(1794)">
+	<g about="#tournay" property="rdfs:label" content="Tournay" transform="translate(853,330)  rotate(18)">
+		<a property="foaf:page" href="https://en.wikipedia.org/wiki/Battle_of_Tournay_(1794)">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="peninsula" transform="translate(845,350)  rotate(28)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">
+	<g about="#peninsula" property="rdfs:label" content="Peninsula" transform="translate(845,350)  rotate(28)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="pekin-1860" transform="translate(835,370)  rotate(38)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">
+	<g about="#pekin-1860" property="rdfs:label" content="Pekin 1860" transform="translate(835,370)  rotate(38)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">
 			<rect width="50" height="20" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 
 	
-	<g id="mons" transform="translate(125,363)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/outbreak-first-world-war/">
+	<g about="#mons" property="rdfs:label" content="Retreat from Mons" transform="translate(125,363)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/outbreak-first-world-war/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="cambrai" transform="translate(132,377)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/final-advance-western-front-1918/">
+	<g about="#cambrai" property="rdfs:label" content="Cambrai" transform="translate(132,377)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/final-advance-western-front-1918/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="gaza" transform="translate(137,387)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/palestine-1917/">
+	<g about="#gaza" property="rdfs:label" content="Gaza" transform="translate(137,387)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/palestine-1917/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="caen" transform="translate(142,397)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/7th-battalion-north-west-europe/">
+	<g about="#caen" property="rdfs:label" content="Caen" transform="translate(142,397)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/7th-battalion-north-west-europe/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="salerno" transform="translate(147,410)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/salerno-landings-9th-september-1943/">
+	<g about="#salerno" property="rdfs:label" content="Salerno" transform="translate(147,410)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/salerno-landings-9th-september-1943/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="ypres" transform="translate(180,336)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/3rd-ypres-1917/">
+	<g about="#ypres" property="rdfs:label" content="Ypres 1915 '17' '18" transform="translate(180,336)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/3rd-ypres-1917/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/second-battle-ypres-april-june-1915/">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/second-battle-ypres-april-june-1915/">
 			<rect width="40" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="doiran" transform="translate(187,348)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/salonika-1915/">
+	<g about="#doiran" property="rdfs:label" content="Doiran 1917 '18" transform="translate(187,348)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/salonika-1915/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="kut" transform="translate(192,358)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/mesopotamia-1915/">
+	<g about="#kut" property="rdfs:label" content="Kut al Amara 1915 '17" transform="translate(192,358)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/mesopotamia-1915/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="rhine" transform="translate(198,370)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/7th-battalion-north-west-europe/">
+	<g about="#rhine" property="rdfs:label" content="Rhine" transform="translate(198,370)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/7th-battalion-north-west-europe/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="cassino" transform="translate(204,382)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-italian-campaign-after-salerno/">
+	<g about="#cassino" property="rdfs:label" content="Cassino II" transform="translate(204,382)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-italian-campaign-after-salerno/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="somme" transform="translate(320,268)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-somme-1916/">
+	<g about="#somme" property="rdfs:label" content="Somme 1916 '18" transform="translate(320,268)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-somme-1916/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="helles" transform="translate(324,280)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-dardanelles-1915/">
+	<g about="#helles" property="rdfs:label" content="Landing at Helles" transform="translate(324,280)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-dardanelles-1915/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="dunkirk" transform="translate(330,292)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/dunkirk-1939-1940/">
+	<g about="#dunkirk" property="rdfs:label" content="Dunkirk 1940" transform="translate(330,292)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/dunkirk-1939-1940/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="tebourba" transform="translate(336,304)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-tebourba-gap-1942/">
+	<g about="#tebourba" property="rdfs:label" content="Tebourba gap" transform="translate(336,304)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-tebourba-gap-1942/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="gothic-line" transform="translate(342,316)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-italian-campaign-after-salerno/">
+	<g about="#gothic-line" property="rdfs:label" content="Gothic Line" transform="translate(342,316)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-italian-campaign-after-salerno/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="arras" transform="translate(375,240)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/arras-1917/">
+	<g about="#arras" property="rdfs:label" content="Arras 1917 '18" transform="translate(375,240)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/arras-1917/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="suvla" transform="translate(381,252)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-dardanelles-1915/">
+	<g about="#suvla" property="rdfs:label" content="Suvla" transform="translate(381,252)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/the-dardanelles-1915/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="normandy" transform="translate(387,264)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/d-day-1944/">
+	<g about="#normandy" property="rdfs:label" content="Normandy Landing" transform="translate(387,264)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/d-day-1944/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="hunts-gap" transform="translate(393,275)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-sidi-nsir-tunisia-26th-february-1943/">
+	<g about="#hunts-gap" property="rdfs:label" content="Hunt's Gap" transform="translate(393,275)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-sidi-nsir-tunisia-26th-february-1943/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
 	</g>
 	
-	<g id="malta" transform="translate(399,287)  rotate(-25)">
-		<a href="https://www.royalhampshireregiment.org/about-the-museum/timeline/siege-malta-1941-1942/">
+	<g about="#malta" property="rdfs:label" content="Malta 1941-42" transform="translate(399,287)  rotate(-25)">
+		<a property="foaf:page" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/siege-malta-1941-1942/">
 			<rect width="60" height="12" style="stroke:none; fill:none; pointer-events:all"/>
 		</a>
+	</g>
+
 	</g>
 	
 </svg>
