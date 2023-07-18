@@ -1,0 +1,38 @@
+body {
+  font-size: medium;
+}
+
+time {
+  font-weight: bold;
+  color: magenta;
+}
+
+
+*[typeof ~= "place"] {
+	color: grey;
+}
+
+*[typeof="name"] {
+  font-weight: bold;
+}
+
+*[typeof="stuff"] {
+  font-weight: bold;
+}
+
+*[typeof="Place"] {
+  text-decoration: underline;
+  #background: gold;
+}
+
+time {
+  font-weight: bold;
+}
+
+span > span {
+  font-weight: bold;
+}
+
+.battleHonour {
+  font-style: italic;
+}

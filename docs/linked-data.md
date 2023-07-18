@@ -25,3 +25,23 @@ See [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). This 
 Munnin RDF server: https://rdf.muninn-project.org/
 
 [British Trench Map Ontology](https://rdf.muninn-project.org/ontologies/btmaps-en.html)
+
+[IES4](https://github.com/dstl/IES4/tree/master)
+
+
+Reuse wherever possible. Keep it simple. 
+
+It's about sharing information that other's might find useful. We don't know how they might use it, and we should assume it's not quite the way we do.
+
+If you seed data with some structure then you're providing foundations for others to build more.
+
+Reasoners and tools.
+
+Mix and match.
+
+Transformation...
+
+Human readable - RDFa. 
+
+We should be able to express information as text and diagrams. If text is HTML and diagrams are SVG, then we can use [RDFa](https://www.w3.org/TR/rdfa-primer/) semantic mark-up.
+
