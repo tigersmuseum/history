@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:mil="https://tigersmuseum.github.io/history/concepts/taxonomy.xhtml#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="conflict.css"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.identifier" content="War of the Austrian Succession" />
+<title>War of the Austrian Succession</title>
+</head>
+
+<body>
+
+<article about="http://dbpedia.org/resource/War_of_the_Austrian_Succession">
+	<h2 property="skos:prefLabel">War of the Austrian Succession</h2>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDYear" typeof="time:Instant" content="1740">1740</datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDYear" typeof="time:Instant" content="1748"> 1748</datetime></span>
+		</p>
+</article>
+
+<div about="http://dbpedia.org/resource/War_of_the_Austrian_Succession" typeof="ies:Event" rev="ies:isPartOf">
+
+	<article about="http://dbpedia.org/resource/Battle_of_Dettingen">
+		<h3 property="skos:prefLabel">Battle of Dettingen</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" typeof="time:Instant" content="1743-06-27">27<sup>th</sup> June 1743</datetime> 
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="mil:battleHonour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Dettingen</span>.</p>
+	</article>
+
+	<article about="http://dbpedia.org/resource/Battle_of_Lauffeld">
+		<h3 property="skos:prefLabel">Battle of Lauffeld</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" typeof="time:Instant" content="1747-07-02">2<sup>nd</sup> July 1747</datetime> 
+		</p>
+	</article>
+
+</div>
+
+</body>
+</html>
