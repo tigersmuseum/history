@@ -5,6 +5,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:time="http://www.w3.org/2006/time#"
     xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:dbp="http://dbpedia.org/resource/"
     xmlns:foaf="http://xmlns.com/foaf/0.1/">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -16,7 +17,7 @@
 
 <body>
 
-<article about="http://dbpedia.org/resource/War_of_the_Quadruple_Alliance">
+<article about="dbp:War_of_the_Quadruple_Alliance">
 	<h2 property="skos:prefLabel">War of the Quadruple Alliance</h2>
 		<p class="dates">
 		<span rel="time:hasBeginning"><datetime property="time:inXSDYear" typeof="time:Instant" content="1718">1718</datetime></span> - 
@@ -24,19 +25,19 @@
 		</p>
 </article>
 
-<div about="http://dbpedia.org/resource/War_of_the_Quadruple_Alliance" typeof="ies:Event" rev="ies:isPartOf">
+<div about="dbp:War_of_the_Quadruple_Alliance" typeof="ies:Event" rev="ies:isPartOf">
 
-	<article about="http://dbpedia.org/resource/Battle_of_Cape_Passaro">
+	<article about="dbp:Battle_of_Cape_Passaro" typeof="time:Instant">
 		<h3 property="skos:prefLabel">Battle of Cape Passaro</h3>
 		<p class="dates">
-		<datetime property="time:inXSDDate" typeof="time:Instant" content="1718-08-11">11<sup>th</sup> August 1719</datetime> 
+		<datetime property="time:inXSDDate" content="1718-08-11">11<sup>th</sup> August 1719</datetime> 
 		</p>
 	</article>
 
-	<article about="#vigo">
+	<article about="#vigo" typeof="time:Instant">
 		<h3 property="skos:prefLabel">Capture of Vigo</h3>
 		<p class="dates">
-		<datetime property="time:inXSDMonth" typeof="time:Instant" content="1719-10">October 1719</datetime> 
+		<datetime property="time:inXSDMonth" content="1719-10">October 1719</datetime> 
 		</p>
 	</article>
 
