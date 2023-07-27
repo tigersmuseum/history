@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:svg="http://www.w3.org/2000/svg" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/2000/svg" version="1.0">
 
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 <xsl:template match="/">
-<svg:svg viewBox="0 0 720 480" preserveAspectRatio="none">
-<svg:style>
+<svg viewBox="0 0 720 480" preserveAspectRatio="none">
+<style>
 .sixThousand rect {
 	fill:pink;
 }
@@ -19,22 +19,22 @@
 	stroke-width:0;
 	fill:green;
 }
-</svg:style>
+</style>
 
-<svg:g id="A" class="sixThousand">
-<svg:rect width="120" height="120"/>
-<svg:text x="60" y="65" style="text-anchor:middle">A</svg:text>
-</svg:g>
+<g id="A" class="sixThousand">
+<rect width="120" height="120"/>
+<text x="60" y="65" style="text-anchor:middle">A</text>
+</g>
 
-<svg:g id="H" transform="translate(120,120)" class="sixThousand">
-<svg:rect width="120" height="120"/>
-<svg:text x="60" y="65" style="text-anchor:middle">H</svg:text>
-</svg:g>
+<g id="H" transform="translate(120,120)" class="sixThousand">
+<rect width="120" height="120"/>
+<text x="60" y="65" style="text-anchor:middle">H</text>
+</g>
 
 
 <xsl:apply-templates select="//mapref"/>
 
-</svg:svg>
+</svg>
 </xsl:template>
 
 
@@ -48,7 +48,7 @@
 		</xsl:call-template>
 	</xsl:variable>
 
-<svg:circle cx="{substring-before($offsets, ',')}" cy="{substring-after($offsets, ',')}" r="2" class="{@class}"/>
+<circle cx="{substring-before($offsets, ',')}" cy="{substring-after($offsets, ',')}" r="2" class="{@class}" content="{@content}"/>
 
 </xsl:template>
 
