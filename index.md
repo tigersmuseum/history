@@ -1,7 +1,7 @@
 # Historical data
 
 ## Introduction
-These are web pages for the **history** repository at the [Royal Hampshire Regiment Museum](https://www.royalhampshireregiment.org/). The repository is somewhere for us share data that is relevant to military museums in general, as well as tips and techniques for organising and presenting data. The *View on GitHub* button, in the title bar above, takes you to repository itself.
+These are web pages for the **history** repository at the [Royal Hampshire Regiment Museum](https://www.royalhampshireregiment.org/). The repository is somewhere for us to share data that is relevant to military museums in general, as well as tips and techniques for organising and presenting data. The *View on GitHub* button, in the title bar above, takes you to repository itself.
 
 Below are links to examples and further details. 
 
