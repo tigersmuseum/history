@@ -14,8 +14,8 @@
 		<xslt in="../events/events.xml" out="output/out.kml" style="../xsl/make-kml.xsl" force="yes"/>
 	</target>
 
-	<target name="tmap" description="trench map coordinate overlays">
-		<xslt in="output/scratch.xml" out="output/out.svg" style="../xsl/tmap.xsl" force="yes"/>
+	<target name="map overlay" description="Overlaying data on a WW1 British trench map">
+		<xslt in="../examples/51b-data.xml" out="output/51b.svg" style="../xsl/example-tmap.xsl" force="yes"/>
 	</target>
 	
 </project>
