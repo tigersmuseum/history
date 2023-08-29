@@ -14,7 +14,7 @@ Data about locations is *geospatial data*. The [Open Geospatial Consortium (OGC)
 
 ## Locations
 
-A location is what you need if you want to display a place on a map. if you push a pin into a map then the location is simply a *point*. A point has *coordinates* that position it on a map. There are various systems for geographic coordinates, but the most common is the [World Geodetic System (WGS84)](https://gisgeography.com/wgs84-world-geodetic-system/).
+A location is what you need if you want to display a place on a map. If you push a pin into a map then the location is simply a *point*. A point has *coordinates* that position it on a map. There are various systems for geographic coordinates, but the most common is the [World Geodetic System (WGS84)](https://gisgeography.com/wgs84-world-geodetic-system/).
 
 As well as points, You may want to show *lines* or *polygons* on a map, which means that a location has a *geometry*. Lines and polygons are constructed from multiple points. A general location is therefore a set of points and a geometry. 
 
@@ -38,19 +38,9 @@ As well as points, You may want to show *lines* or *polygons* on a map, which me
 
 ## Data
 
-We need place *names* or, more generally, place *labels*. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/).
+We need place *names* or, more generally, place *labels*. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). These assign a unique [Uniform Resource Identifier (URI)](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) to places, among other things, that can be used to discover more information about those places. 
 
-
-URI's allow different researchers to know when they're referring to the same thing, but they need to be agreed and managed. If you don't have a URI, then you can identify a place is by its name - but the name of a place might be ambiguous, and the same place might be referred to by different names in different contexts. Alternatively, you can identify a place by its location, if you can decide when two nearby points are the same or two polygons are the same.
-
-
-As KML. As OWL/RDF linked data.
-
-The advantage of using Geonames and RDF is that you get a URI that uniquely identifies the place, and that can be used to get more information about the place. Placemarks from Google Earth have id attributes. It's not clear if these can sensibly be used outside of Google Earth.
-
-Blank nodes?
-
-A place is defined by its associations and context. We can use SKOS to organise places by context, e.g. billets.
+URI's allow different researchers to know when they're referring to the same thing, but we won't always have them. If we can't share identity through a common unique identifier, and a place name is ambiguous, then we must use a place's associations and context as well its name to identify it. We can use SKOS to organise this contextual information.
 
 We don't need to get to a perfect model of the world in one go. We can gradually piece things together. Uncertain and loose associations may be useful in building a model, even if they aren't correct. Models should be validated and tested as they are built. Discovering a mistake often means discovering something new and useful about the model.
 
