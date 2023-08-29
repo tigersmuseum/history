@@ -14,10 +14,9 @@ Data about locations is *geospatial data*. The [Open Geospatial Consortium (OGC)
 
 ## Locations
 
-A location is what you need if you want to display a place on a map. if you push a pin into a map then the location is simply a *point*. A point has *coordinates* that position it on a map. There are various systems for geographic coordinates, but the most common (so most useful) is the [World Geodetic System (WGS84)](https://gisgeography.com/wgs84-world-geodetic-system/).
+A location is what you need if you want to display a place on a map. if you push a pin into a map then the location is simply a *point*. A point has *coordinates* that position it on a map. There are various systems for geographic coordinates, but the most common is the [World Geodetic System (WGS84)](https://gisgeography.com/wgs84-world-geodetic-system/).
 
 As well as points, You may want to show *lines* or *polygons* on a map, which means that a location has a *geometry*. Lines and polygons are constructed from multiple points. A general location is therefore a set of points and a geometry. 
-
 
 ### Locations from Google Earth
 
@@ -51,7 +50,7 @@ The advantage of using Geonames and RDF is that you get a URI that uniquely iden
 
 Blank nodes?
 
-A place is defined by its associations and context. We can use SKOS to organize places by context, e.g. billets.
+A place is defined by its associations and context. We can use SKOS to organise places by context, e.g. billets.
 
 We don't need to get to a perfect model of the world in one go. We can gradually piece things together. Uncertain and loose associations may be useful in building a model, even if they aren't correct. Models should be validated and tested as they are built. Discovering a mistake often means discovering something new and useful about the model.
 
