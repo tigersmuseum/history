@@ -1,6 +1,6 @@
 # Places
 
-A place is often important because of what it is, not where it is; and *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations.
+A *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations.
 
 There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. Here, we'll try not to get bogged down too soon.
 
@@ -10,7 +10,7 @@ The same place can have many labels. We need to collect the different labels for
 
 ## Geospatial data
 
-Data about locations is *geospatial data*. The [Open Geospatial Consortium (OGC)](https://www.ogc.org/) promotes geospatial standards and data sharing. These include a standard for "expressing geographic annotation and visualization" called [KML](https://www.ogc.org/standard/kml/). See [Google's KML Tutorial](https://developers.google.com/kml/documentation/kml_tut).
+Data about locations is *geospatial data*. The [Open Geospatial Consortium (OGC)](https://www.ogc.org/) promotes geospatial standards and data sharing. These include a standard for "expressing geographic annotation and visualization" called [KML](https://www.ogc.org/standard/kml/). See [Google's KML Tutorial](https://developers.google.com/kml/documentation/kml_tut) for details.
 
 ## Locations
 
@@ -20,7 +20,7 @@ As well as points, You may want to show *lines* or *polygons* on a map, which me
 
 ### Locations from Google Earth
 
-[Google Earth](https://earth.google.com/).
+To collect locations from [Google Earth](https://earth.google.com/):
 
 * Click the *Projects* icon, select *Create a new Project*, then *Create KML file*. Give it a name and description.
 * Search for places names. Click *Add to project* button at the bottom of the pop-up description pane for any that you want to keep.
@@ -30,15 +30,18 @@ As well as points, You may want to show *lines* or *polygons* on a map, which me
 
 ### Locations from GeoNames
 
-[GeoNames](https://www.geonames.org/)
+To collect locations from [GeoNames](https://www.geonames.org/):
+
+* Search for the location.
+* Click *.rdf* to download the RDF linked data, or *.kml* to download KML. The RDF will give you extra information over and above labelled coordinates.
 
 ## Trench Maps
 
-[The Long, Long Trail](https://www.longlongtrail.co.uk) has information on [how to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/), together with links to trench map sources. Another useful resource is [tMapper](https://www.tmapper.com/), which also lets you convert Western Front map references to latitudes and longitudes.
+[The Long, Long Trail](https://www.longlongtrail.co.uk) has information on [how to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/), together with links to trench map sources. Another useful resource is [tMapper](https://www.tmapper.com/), which also lets you convert trench map references to latitudes and longitudes. The [British Trench Map Ontology](https://rdf.muninn-project.org/ontologies/btmaps-en.html) models trench maps and their relationships to WGS84.
 
 ## Data
 
-We need place *names* or, more generally, place *labels*. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). These assign a unique [Uniform Resource Identifier (URI)](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) to places, among other things, that can be used to discover more information about those places. 
+We need place names or, more generally, place labels. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). These assign a unique [Uniform Resource Identifier (URI)](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) to places, among other things, that can be used to discover more information about those places. Sources such as GeoNames and DBpedia use their own URI's as identifiers, but will reference other equivalent URI's they know about (often each others). 
 
 URI's allow different researchers to know when they're referring to the same thing, but we won't always have them. If we can't share identity through a common unique identifier, and a place name is ambiguous, then we must use a place's associations and context as well its name to identify it. We can use SKOS to organise this contextual information.
 
