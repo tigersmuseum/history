@@ -33,7 +33,7 @@ To collect locations from [Google Earth](https://earth.google.com/):
 To collect locations from [GeoNames](https://www.geonames.org/):
 
 * Search for the location.
-* Click *.rdf* to download the RDF linked data, or *.kml* to download KML. The RDF will give you extra information over and above labelled coordinates.
+* Click *.rdf* to download the [RDF](https://www.w3schools.com/XML/xml_rdf.asp) linked data, or *.kml* to download KML. The RDF will give you extra information over and above labelled coordinates.
 
 ## Trench Maps
 
@@ -41,9 +41,11 @@ To collect locations from [GeoNames](https://www.geonames.org/):
 
 ## Data
 
-We need place names or, more generally, place labels. The simplest structure is a list of labels. We can add more structure by grouping together labels for the same place, and then perhaps assign the place some coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats). The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). These assign a unique [Uniform Resource Identifier (URI)](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) to places, among other things, that can be used to discover more information about those places. Sources such as GeoNames and DBpedia use their own URI's as identifiers, but will reference other equivalent URI's they know about (often each others). 
+We need place names or, more generally, place labels. The simplest data structure is a list of labels. We can add more structure to our data by grouping together labels for the same place, and then perhaps providing coordinates. See, for example, the [Baleen gazetteer formats](https://github.com/dstl/baleen/wiki/Gazetteer-Formats).
+
+The next step is to give each place an *identity*. This means assigning a unique identifier that can be used by a knowledge base to refer to that place. Ideally, this identifier is something that can be agreed and shared amongst researchers. See, for example, the [WW1LOD municipilaties](http://demo.seco.tkk.fi/ssaha/project/index.shtml?type=http%3A%2F%2Fldf.fi%2Fww1lod%2Fschema%23Municipality&model=ww1lod) in the WW1LOD dataset from [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). These assign a unique [Uniform Resource Identifier (URI)](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) to places, among other things, that can be used to discover more information about those places. Sources such as GeoNames and DBpedia use their own URI's as identifiers, but will reference other equivalent URI's they know about (often each others). 
 
 URI's allow different researchers to know when they're referring to the same thing, but we won't always have them. If we can't share identity through a common unique identifier, and a place name is ambiguous, then we must use a place's associations and context as well its name to identify it. We can use SKOS to organise this contextual information.
 
-We don't need to get to a perfect model of the world in one go. We can gradually piece things together. Uncertain and loose associations may be useful in building a model, even if they aren't correct. Models should be validated and tested as they are built. Discovering a mistake often means discovering something new and useful about the model.
+We don't need to get to a finished model of places in one go. We can gradually piece things together. Uncertain and loose associations may be useful in building a model, even if they aren't correct. Models should be validated and tested as they are built. Discovering a mistake often means discovering something new and useful about the model.
 
