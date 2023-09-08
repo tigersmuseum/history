@@ -1,0 +1,468 @@
+<svg viewBox="0 0 1240 620" width="1240" height="620" style="width: 100%; height: 100%; display: block; margin-left: auto; margin-right: auto; padding: 0" preserveAspectRatio="XMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<title>RHANTS</title>
+<style>
+.marker {
+	stroke:grey;
+	stroke-width: 0.5;
+	opacity: 0.8;
+}
+
+.ft37, .ft67, .hants, .rhants {
+	stroke: none;
+	fill: olive;
+	opacity: 0.6;
+}
+
+.yeomanry, .militia {
+	stroke: none;
+	fill: teal;
+	opacity: 0.4;
+}
+.embodied {
+	opacity: 0.6;
+}
+
+.war {
+	stroke: none;
+	fill: red;
+	opacity: 0.4;
+}
+.year {
+	text-anchor: middle;
+	font-size: 12px;
+}
+.event {
+	text-anchor: middle;
+	text-anchor: begin;
+	font-size: 10px;
+	font-weight: bold;
+	font-style: italic;
+}
+.label {
+	font-size: 10px;
+	stroke: none;
+	fill: black;
+	font-family: Arial;
+}
+.labelsmall {
+	font-size: 6px;
+	stroke: none;
+	fill: black;
+	font-family: Arial;
+}
+.note {
+	font-size: 8px;
+	stroke: none;
+	fill: black;
+	font-family: Arial;
+	font-style: italic;
+}
+.award {
+	fill:purple;
+}
+.title {
+	font-family: Arial;
+	font-size: 20px;
+	text-anchor: middle;
+}
+.honour {
+	fill: MediumPurple;
+	stroke: none;
+}
+.colour {
+	fill: red;
+	stroke: none;
+}
+.VC {
+	fill: purple;
+	stroke: none;
+}
+</style>
+
+<text x="620" y="80" class="title">Royal Hampshire Regiment</text>
+
+<g id="key" transform="translate(20,400)">
+ <circle cx="5" cy="5" r="3" class="VC"/>
+ <text x="10" y="8" class="note">Victoria Crosses</text>
+ <circle cx="5" cy="20" r="3" class="honour"/>
+ <text x="10" y="23" class="note">Battle Honours;</text>
+ <circle cx="75" cy="20" r="3" class="colour"/>
+ <text x="80" y="23" class="note">Borne on the Colours</text>
+</g>
+
+<g transform="translate(20,-50)">
+
+	<g id="37th" transform="translate(0,360)">
+		<!-- 1702 to 1881 = 179*4 = 716 -->
+		<rect class="ft37" x="0" y="-8" width="716" height="16"/>
+	</g>
+	
+	<g id="67th" transform="translate(0,340)">
+		<!-- 1756 to 1881 = 125*4 = 500 -->
+		<rect class="ft67" x="216" y="-8" width="500" height="16"/>
+	</g>
+	
+	<g id="hants" transform="translate(716,340)">
+		<!-- 1946 to 1992 = 65*4 = 260 -->
+		<rect class="hants" x="0" y="-8" width="260" height="36"/>
+	</g>
+	
+	<g id="rhants" transform="translate(976,360)">
+		<!-- 1946 to 1992 = 46*4 = 184 -->
+		<rect class="rhants" x="0" y="-8" width="184" height="16"/>
+	</g>
+	
+	<g id="yeomanry1" transform="translate(368,300)">
+		<!-- 1794 to 1908 = 114*4 = 456 -->
+		<rect class="yeomanry" x="0" y="-8" width="456" height="16"/>
+		<text class="label" x="5" y="4">Yeomanry</text>
+	</g>
+	
+	<g id="yeomanry2" transform="translate(824,300)">
+		<!-- 1908 to 1921 = 13*4 = 52 -->
+		<rect class="hants" x="0" y="-8" width="52" height="16"/>
+		<text class="labelsmall" x="0" y="2">4-7 (Reserve) Bns</text>
+	</g>
+	
+	<g id="yeomanry3" transform="translate(876,300)">
+		<text class="labelsmall" x="5" y="2">to Artillery</text>
+	</g>
+		
+	<g id="yeomanry3" transform="translate(948,300)">
+		<text class="labelsmall" x="5" y="2">to AA</text>
+	</g>
+		
+	<g transform="translate(0,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1702</text>
+		<text class="label" x="5" y="164">Meredith's</text>
+	</g>
+	
+	<g transform="translate(196,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1751</text>
+		<text class="label" x="5" y="164">37th Foot</text>
+		<text class="note" x="3" y="15">Royal Warrant</text>
+	</g>
+	
+	<g transform="translate(228,280)">
+	<!-- 
+		embodied 1759-1892
+	 -->
+		<rect class="militia embodied" x="0" y="32" width="12" height="16"/>
+	</g>	
+	<g transform="translate(360,280)">
+	<!-- 
+		embodied 1792-1802
+	 -->
+		<rect class="militia embodied" x="0" y="32" width="40" height="16"/>
+	</g>	
+	<g transform="translate(220,280)">
+		<rect class="militia" x="0" y="32" width="496" height="16"/>
+		<text class="label" x="2" y="44">Militia, North and South Hants</text>
+	</g>
+	<g transform="translate(604,280)">
+		<text class="label" x="0" y="44">1853: Amalgamated</text>
+	</g>
+	<g transform="translate(716,280)">
+		<rect class="hants" x="0" y="32" width="132" height="16"/>
+		<path class="hants" d="M132,32 l0,20 h16 z"/>
+		<text class="labelsmall" x="2" y="42">3 (Militia) Bn, 1908: 3 (Special Reserve) Bn</text>
+	</g>
+	
+	<g transform="translate(216,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1756</text>
+		<text class="label" x="2" y="84">67th Foot</text>
+		<text class="note" x="3" y="15">7 Years' War</text>
+	</g>
+	
+	<g transform="translate(360,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1792</text>
+		<text class="note" x="3" y="15"><tspan>French</tspan> <tspan x="3" y="24">Revolutionary Wars</tspan></text>
+	</g>
+	
+	
+	<g transform="translate(320,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1782</text>
+		<text class="label" x="5" y="144">67th (South Hampshire) Regiment of Foot</text>
+		<text class="label" x="5" y="164">37th (North Hampshire) Regiment of Foot</text>
+		<text class="note" x="3" y="15">County titles</text>
+	</g>
+	
+	<g transform="translate(600,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1852</text>
+		<text class="note" x="3" y="15">Militia Act</text>
+	</g>
+	
+	<g transform="translate(716,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1881</text>
+		<text class="note" x="3" y="15"><tspan>Childers</tspan> <tspan x="3" y="24">Reforms</tspan></text>
+		<text class="labelsmall" x="2" y="142">2 Bn</text>
+		<text class="label" x="18" y="154">Hampshire Regiment</text>
+		<text class="labelsmall" x="2" y="162">1 Bn</text>
+	</g>
+	
+	<g transform="translate(820,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1907</text>
+		<text class="note" x="3" y="15"><tspan>Haldane</tspan> <tspan x="3" y="24">Reforms</tspan></text>
+	</g>
+	
+	<g transform="translate(876,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1921</text>
+		<text class="note" x="3" y="15"><tspan>Territorial</tspan> <tspan x="3" y="24">Army</tspan></text>
+	</g>
+	
+	<g transform="translate(1160,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1992</text>
+		<text class="note" x="3" y="15"><tspan>Options</tspan> <tspan x="3" y="24">for Change</tspan></text>
+		<text class="label" x="5" y="164">to PWRR</text>
+	</g>
+	
+	<g transform="translate(496,200)">
+		<path class="marker" d="m0,5 v143"/>
+		<text class="year">1826</text>
+		<text class="note award" x="3" y="15"><tspan>Tiger badge</tspan><tspan x="3" y="24">(67th)</tspan></text>
+	</g>
+	
+	<g transform="translate(976,200)">
+		<path class="marker" d="m0,5 v163"/>
+		<text class="year">1946</text>
+		<text class="labelsmall" x="5" y="142">merged</text>
+		<text class="label" x="5" y="164">Royal Hampshire Regiment</text>
+		<text class="note award" x="3" y="15">Royal title</text>
+	</g>
+	
+	<g transform="translate(1160,200)">
+		<path class="marker" d="m0,5 v180"/>
+		<text class="year">1992</text>
+	</g>
+
+	<g transform="translate(788,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1899</text>
+		<text class="note" x="3" y="15"><tspan>Boer</tspan> <tspan x="3" y="24">War</tspan></text>
+		<rect class="war" x="0" y="72" width="12" height="36"/>
+		<rect class="war" x="0" y="32" width="12" height="16"/>
+	</g>
+
+	<g transform="translate(848,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1914</text>
+		<text class="note" x="3" y="15">WW 1</text>
+		<rect class="war" x="0" y="32" width="16" height="16"/>
+		<rect class="war" x="0" y="72" width="16" height="36"/>
+	</g>
+
+	<g transform="translate(948,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1939</text>
+		<text class="note" x="3" y="15">WW 2</text>
+		<rect class="war" x="0" y="72" width="24" height="36"/>
+	</g>
+
+</g>
+
+<g id="VCs" transform="translate(20, 350)">
+<circle cx="632" cy="0" class="VC" r="2"/>
+<circle cx="632" cy="-4" class="VC" r="2"/>
+<circle cx="632" cy="-8" class="VC" r="2"/>
+<circle cx="632" cy="-12" class="VC" r="2"/>
+<circle cx="852" cy="0" class="VC" r="2"/>
+<circle cx="860" cy="0" class="VC" r="2"/>
+<circle cx="860" cy="-4" class="VC" r="2"/>
+<circle cx="960" cy="0" class="VC" r="2"/>
+<circle cx="968" cy="0" class="VC" r="2"/>
+<circle cx="968" cy="-4" class="VC" r="2"/>
+</g>
+
+<g id="honours" transform="translate(20,360)">
+<circle cx="8" cy="0" class="honour colour" r="2"/>
+<circle cx="16" cy="0" class="honour colour" r="2"/>
+<circle cx="24" cy="0" class="honour colour" r="2"/>
+<circle cx="28" cy="0" class="honour colour" r="2"/>
+<circle cx="164" cy="0" class="honour colour" r="2"/>
+<circle cx="228" cy="0" class="honour colour" r="2"/>
+<circle cx="236" cy="0" class="honour colour" r="2"/>
+<circle cx="368" cy="0" class="honour colour" r="2"/>
+<circle cx="436" cy="0" class="honour colour" r="2"/>
+<circle cx="384" cy="0" class="honour colour" r="2"/>
+<circle cx="632" cy="0" class="honour colour" r="2"/>
+<circle cx="632" cy="4" class="honour colour" r="2"/>
+<circle cx="708" cy="0" class="honour colour" r="2"/>
+<circle cx="708" cy="4" class="honour colour" r="2"/>
+<circle cx="704" cy="0" class="honour colour" r="2"/>
+<circle cx="732" cy="0" class="honour colour" r="2"/>
+<circle cx="792" cy="0" class="honour colour" r="2"/>
+<circle cx="788" cy="0" class="honour colour" r="2"/>
+<circle cx="848" cy="0" class="honour" r="2"/>
+<circle cx="848" cy="4" class="honour colour" r="2"/>
+<circle cx="848" cy="8" class="honour" r="2"/>
+<circle cx="848" cy="12" class="honour" r="2"/>
+<circle cx="848" cy="16" class="honour" r="2"/>
+<circle cx="852" cy="0" class="honour colour" r="2"/>
+<circle cx="852" cy="4" class="honour" r="2"/>
+<circle cx="852" cy="8" class="honour" r="2"/>
+<circle cx="856" cy="0" class="honour colour" r="2"/>
+<circle cx="856" cy="4" class="honour" r="2"/>
+<circle cx="856" cy="8" class="honour" r="2"/>
+<circle cx="856" cy="12" class="honour" r="2"/>
+<circle cx="856" cy="16" class="honour" r="2"/>
+<circle cx="856" cy="20" class="honour" r="2"/>
+<circle cx="856" cy="24" class="honour" r="2"/>
+<circle cx="856" cy="28" class="honour" r="2"/>
+<circle cx="856" cy="32" class="honour" r="2"/>
+<circle cx="860" cy="0" class="honour colour" r="2"/>
+<circle cx="860" cy="4" class="honour" r="2"/>
+<circle cx="860" cy="8" class="honour" r="2"/>
+<circle cx="860" cy="12" class="honour" r="2"/>
+<circle cx="860" cy="16" class="honour colour" r="2"/>
+<circle cx="860" cy="20" class="honour" r="2"/>
+<circle cx="860" cy="24" class="honour" r="2"/>
+<circle cx="860" cy="28" class="honour" r="2"/>
+<circle cx="860" cy="32" class="honour" r="2"/>
+<circle cx="860" cy="36" class="honour" r="2"/>
+<circle cx="860" cy="40" class="honour" r="2"/>
+<circle cx="860" cy="44" class="honour" r="2"/>
+<circle cx="860" cy="48" class="honour colour" r="2"/>
+<circle cx="864" cy="0" class="honour colour" r="2"/>
+<circle cx="864" cy="4" class="honour" r="2"/>
+<circle cx="864" cy="8" class="honour" r="2"/>
+<circle cx="864" cy="12" class="honour" r="2"/>
+<circle cx="864" cy="16" class="honour colour" r="2"/>
+<circle cx="864" cy="20" class="honour" r="2"/>
+<circle cx="864" cy="24" class="honour" r="2"/>
+<circle cx="864" cy="28" class="honour" r="2"/>
+<circle cx="864" cy="32" class="honour" r="2"/>
+<circle cx="864" cy="36" class="honour" r="2"/>
+<circle cx="864" cy="40" class="honour" r="2"/>
+<circle cx="864" cy="44" class="honour" r="2"/>
+<circle cx="864" cy="48" class="honour" r="2"/>
+<circle cx="864" cy="52" class="honour" r="2"/>
+<circle cx="864" cy="56" class="honour" r="2"/>
+<circle cx="864" cy="60" class="honour" r="2"/>
+<circle cx="864" cy="64" class="honour" r="2"/>
+<circle cx="864" cy="68" class="honour" r="2"/>
+<circle cx="864" cy="72" class="honour colour" r="2"/>
+<circle cx="864" cy="76" class="honour colour" r="2"/>
+<circle cx="864" cy="80" class="honour" r="2"/>
+<circle cx="864" cy="84" class="honour" r="2"/>
+<circle cx="864" cy="88" class="honour" r="2"/>
+<circle cx="864" cy="92" class="honour" r="2"/>
+<circle cx="848" cy="20" class="honour" r="2"/>
+<circle cx="852" cy="12" class="honour" r="2"/>
+<circle cx="852" cy="16" class="honour" r="2"/>
+<circle cx="860" cy="52" class="honour colour" r="2"/>
+<circle cx="864" cy="96" class="honour colour" r="2"/>
+<circle cx="864" cy="100" class="honour" r="2"/>
+<circle cx="852" cy="20" class="honour" r="2"/>
+<circle cx="852" cy="24" class="honour colour" r="2"/>
+<circle cx="852" cy="28" class="honour" r="2"/>
+<circle cx="852" cy="32" class="honour colour" r="2"/>
+<circle cx="852" cy="36" class="honour" r="2"/>
+<circle cx="852" cy="40" class="honour" r="2"/>
+<circle cx="852" cy="44" class="honour" r="2"/>
+<circle cx="852" cy="48" class="honour" r="2"/>
+<circle cx="852" cy="52" class="honour" r="2"/>
+<circle cx="860" cy="56" class="honour colour" r="2"/>
+<circle cx="860" cy="60" class="honour" r="2"/>
+<circle cx="860" cy="64" class="honour" r="2"/>
+<circle cx="860" cy="68" class="honour" r="2"/>
+<circle cx="860" cy="72" class="honour" r="2"/>
+<circle cx="864" cy="104" class="honour" r="2"/>
+<circle cx="864" cy="108" class="honour" r="2"/>
+<circle cx="864" cy="112" class="honour" r="2"/>
+<circle cx="860" cy="76" class="honour" r="2"/>
+<circle cx="852" cy="56" class="honour" r="2"/>
+<circle cx="852" cy="60" class="honour" r="2"/>
+<circle cx="856" cy="36" class="honour" r="2"/>
+<circle cx="856" cy="40" class="honour colour" r="2"/>
+<circle cx="860" cy="80" class="honour" r="2"/>
+<circle cx="860" cy="84" class="honour" r="2"/>
+<circle cx="848" cy="24" class="honour" r="2"/>
+<circle cx="856" cy="44" class="honour colour" r="2"/>
+<circle cx="856" cy="48" class="honour" r="2"/>
+<circle cx="864" cy="116" class="honour" r="2"/>
+<circle cx="864" cy="120" class="honour" r="2"/>
+<circle cx="952" cy="0" class="honour colour" r="2"/>
+<circle cx="960" cy="0" class="honour" r="2"/>
+<circle cx="968" cy="0" class="honour colour" r="2"/>
+<circle cx="968" cy="4" class="honour" r="2"/>
+<circle cx="968" cy="8" class="honour colour" r="2"/>
+<circle cx="968" cy="12" class="honour" r="2"/>
+<circle cx="968" cy="16" class="honour" r="2"/>
+<circle cx="968" cy="20" class="honour" r="2"/>
+<circle cx="968" cy="24" class="honour" r="2"/>
+<circle cx="968" cy="28" class="honour" r="2"/>
+<circle cx="972" cy="0" class="honour" r="2"/>
+<circle cx="972" cy="4" class="honour" r="2"/>
+<circle cx="972" cy="8" class="honour" r="2"/>
+<circle cx="972" cy="12" class="honour colour" r="2"/>
+<circle cx="968" cy="32" class="honour" r="2"/>
+<circle cx="960" cy="4" class="honour colour" r="2"/>
+<circle cx="964" cy="0" class="honour" r="2"/>
+<circle cx="964" cy="4" class="honour" r="2"/>
+<circle cx="964" cy="8" class="honour colour" r="2"/>
+<circle cx="964" cy="12" class="honour" r="2"/>
+<circle cx="964" cy="16" class="honour" r="2"/>
+<circle cx="964" cy="20" class="honour" r="2"/>
+<circle cx="964" cy="24" class="honour" r="2"/>
+<circle cx="952" cy="4" class="honour" r="2"/>
+<circle cx="964" cy="28" class="honour" r="2"/>
+<circle cx="964" cy="32" class="honour" r="2"/>
+<circle cx="964" cy="36" class="honour" r="2"/>
+<circle cx="964" cy="40" class="honour colour" r="2"/>
+<circle cx="964" cy="44" class="honour" r="2"/>
+<circle cx="964" cy="48" class="honour" r="2"/>
+<circle cx="964" cy="52" class="honour" r="2"/>
+<circle cx="964" cy="56" class="honour" r="2"/>
+<circle cx="964" cy="60" class="honour" r="2"/>
+<circle cx="968" cy="36" class="honour" r="2"/>
+<circle cx="968" cy="40" class="honour" r="2"/>
+<circle cx="968" cy="44" class="honour" r="2"/>
+<circle cx="968" cy="48" class="honour" r="2"/>
+<circle cx="968" cy="52" class="honour" r="2"/>
+<circle cx="968" cy="56" class="honour colour" r="2"/>
+<circle cx="968" cy="60" class="honour" r="2"/>
+<circle cx="968" cy="64" class="honour" r="2"/>
+<circle cx="968" cy="68" class="honour colour" r="2"/>
+<circle cx="968" cy="72" class="honour" r="2"/>
+<circle cx="968" cy="76" class="honour" r="2"/>
+<circle cx="968" cy="80" class="honour" r="2"/>
+<circle cx="968" cy="84" class="honour" r="2"/>
+<circle cx="968" cy="88" class="honour" r="2"/>
+<circle cx="968" cy="92" class="honour" r="2"/>
+<circle cx="968" cy="96" class="honour" r="2"/>
+<circle cx="968" cy="100" class="honour" r="2"/>
+<circle cx="968" cy="104" class="honour" r="2"/>
+<circle cx="968" cy="108" class="honour" r="2"/>
+<circle cx="968" cy="112" class="honour" r="2"/>
+<circle cx="968" cy="116" class="honour" r="2"/>
+<circle cx="968" cy="120" class="honour" r="2"/>
+<circle cx="968" cy="124" class="honour" r="2"/>
+<circle cx="952" cy="8" class="honour colour" r="2"/>
+</g>
+
+
+<!-- 
+https://en.wikipedia.org/wiki/The_King%27s_Sole_Right_over_the_Militia_Act_1661
+
+https://en.wikipedia.org/wiki/Reserve_Forces_Act_1882 (no page)
+
+https://en.wikipedia.org/wiki/Regulation_of_the_Forces_Act_1871 (no page)
+
+https://en.wikipedia.org/wiki/Reserve_Forces_and_Militia_Act_1898
+
+https://en.wikipedia.org/wiki/Territorial_and_Reserve_Forces_Act_1907
+
+https://www.longlongtrail.co.uk/army/regiments-and-corps/the-british-infantry-regiments-of-1914-1918/hampshire-regiment/
+ -->
+
+</svg>
