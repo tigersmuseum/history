@@ -4,6 +4,7 @@
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:dbp="http://dbpedia.org/resource/"
     xmlns:ies="http://ies.data.gov.uk/ies4#"
     xmlns:foaf="http://xmlns.com/foaf/0.1/">
 <head>
@@ -16,14 +17,21 @@
 
 <article about="#1Bn" rel="skos:broader" resource="#regt">
 <p about="#1Bn">
-	<span property="skos:prefLabel">1st Battalion</span>, Hampshire Regiment was assigned to <span resource="#11Bde" rel="ies:isPartof">11th Brigade</span> 
+	<span property="skos:prefLabel">1<sup>st</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="dbp:11th_Security_Force_Assistance_Brigade" rel="ies:isPartof">11<sup>th</sup> Brigade</span> 
+	<span rel="time:intervalEquals" resource="http://dbpedia.org/resource/World_War_I">throughout the First World War</span>.
+</p>
+</article>
+
+<article about="#2Bn" rel="skos:broader" resource="#regt">
+<p about="#2Bn">
+	<span property="skos:prefLabel">2<sup>nd</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="dbp:88th_Brigade_(United_Kingdom)" rel="ies:isPartof">88<sup>th</sup> Brigade</span> 
 	<span rel="time:intervalEquals" resource="http://dbpedia.org/resource/World_War_I">throughout the First World War</span>.
 </p>
 </article>
 
 <article about="#14Bn">
 <p>
-	<span property="skos:prefLabel">14th Battalion</span>, Hampshire Regiment was assigned to <span resource="#116Bde" rel="ies:isPartof">116th Brigade</span> 
+	<span property="skos:prefLabel">14<sup>th</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="#116Bde" rel="ies:isPartof">116<sup>th</sup> Brigade</span> 
 	<span rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
 	<span rel="time:hasEnd">to <datetime property="time:inXSDDate" typeof="time:Instant" content="1918-03-22">22 March 1918</datetime>, when the 
 	battalion disbanded</span>.
@@ -32,40 +40,47 @@
 
 <article about="#15Bn">
 <p>
-	<span property="skos:prefLabel">15th Battalion</span>, Hampshire Regiment was assigned to <span resource="#122Bde" rel="ies:isPartof">122nd Brigade</span> 
+	<span property="skos:prefLabel">15<sup>th</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="#122Bde" rel="ies:isPartof">122<sup>nd</sup> Brigade</span> 
 	<span rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
 	<span rel="time:hasEnd">until <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 </article>
 
-<article about="#11Bde">
+<article about="dbp:11th_Security_Force_Assistance_Brigade">
 <p>
-	<span property="skos:prefLabel">11th Brigade</span> was part of <span resource="#4Div" rel="ies:isPartof">4th Division</span>
+	<span property="skos:prefLabel">11<sup>th</sup> Brigade</span> was part of <span resource="#4Div" rel="ies:isPartof">4<sup>th</sup> Division</span>
+	<span rel="time:intervalEquals" resource="http://dbpedia.org/resource/World_War_I">throughout the First World War</span>.
+</p>
+</article>
+
+<article about="dbp:88th_Brigade_(United_Kingdom)">
+<p>
+	<span property="skos:prefLabel">88<sup>th</sup> Brigade</span> was part of <span resource="dbp:29th_Division_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Division</span>
 	<span rel="time:intervalEquals" resource="http://dbpedia.org/resource/World_War_I">throughout the First World War</span>.
 </p>
 </article>
 
 <article about="#122Bde">
 <p>
-	<span property="skos:prefLabel">122nd Brigade</span> was part of <span resource="#41Div" rel="ies:isPartof">41st Division</span>
+	<span property="skos:prefLabel">122<sup>nd</sup> Brigade</span> was part of <span resource="dbp:41st_Division_(United_Kingdom)" rel="ies:isPartof">41<sup>st</sup> Division</span>
 	<span rel="time:intervalDuring" resource="http://dbpedia.org/resource/World_War_I">during the First World War</span>.
 </p>
 </article>
 
 <article about="#116Bde">
 <p>
-	<span property="skos:prefLabel">116th Brigade</span> was part of <span resource="#39Div" rel="ies:isPartof">39th Division</span>
+	<span property="skos:prefLabel">116<sup>th</sup> Brigade</span> was part of <span resource="#39Div" rel="ies:isPartof">39<sup>th</sup> Division</span>
 	<span rel="time:intervalDuring" resource="http://dbpedia.org/resource/World_War_I">during the First World War</span>.
 </p>
 </article>
 
-<article about="#41Div">
+<article about="dbp:41st_Division_(United_Kingdom)">
 <p>
-	<span property="skos:prefLabel">41st Division</span> was part of <span resource="#XCorps" rel="ies:isPartof">X Corps</span>
+	<span property="skos:prefLabel">41<sup>st</sup> Division</span> was part of <span resource="#XCorps" rel="ies:isPartof">X Corps</span>
 	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 <p>
-	41st Division was part of <span resource="#XVIICorps" rel="ies:isPartof">XVII Corps</span>
+	41<sup>st</sup> Division was part of <span resource="#XVIICorps" rel="ies:isPartof">XVII Corps</span>
 	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 </article>
