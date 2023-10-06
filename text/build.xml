@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<project name="HTML" basedir=".">
+
+	<description>
+		XSLT to extract information from HTML sources.
+	</description>
+
+	<target name="Battle Honours" description="Get places from KML constructed in Google Earth as SKOS">
+		<xslt in="input.xml" out="output/out.xml" style="../xsl/battle-honours.xsl" force="yes"/>
+	</target>
+	
+</project>
+

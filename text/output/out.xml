@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><doc>
+    <battle>
+        <title>Tangier, 1662-1680.</title>
+        <regiment>Royal Dragoons, 1662-1680.</regiment>
+        <regiment>Grenadier Guards, 1680.</regiment>
+        <regiment>Coldstream Guards, 1680.</regiment>
+        <regiment>Royal Scots, 1680.</regiment>
+        <regiment>The Queen's, 1662-1680.</regiment>
+        <regiment/>
+    </battle>
+    <battle>
+        <title>Gibraltar, 1704-05.</title>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment/>
+    </battle>
+</doc>
