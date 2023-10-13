@@ -1,0 +1,48 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1,h2,h3,h4,h5 {
+    text-align: center; /* all headings centered */
+    clear: both;
+}
+p {
+    margin-top: .51em;
+    text-align: justify;
+    margin-bottom: .49em;
+}
+p.note {
+	font-size: small;
+}
+hr.chap {
+	width: 45%;
+}
+.date {
+	font-weight: bold;
+}
+p:has(span.date) {
+	background: lightgrey;
+	text-align: right;
+}
+span.ref {
+	color:lightgrey;
+}
+.notation {
+	#color: red;
+}
+.person {
+	color: blue;
+}
+.vessel {
+	#color: Navy;
+}
+.polity {
+	#background: gold;
+}
+.op {
+	text-decoration: underline;
+}
+.role {
+	color: green
+}
+}
