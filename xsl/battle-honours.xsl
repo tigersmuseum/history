@@ -14,7 +14,7 @@
 </xsl:template>
 
 <xsl:template match="html:html">
-	<xsl:apply-templates select=".//html:p[@class = 'bhlist'][1]"/>
+	<xsl:apply-templates select=".//html:p[@class = 'bhlist']"/>
 </xsl:template>
 
 <xsl:template match="html:p[@class = 'bhlist']">
