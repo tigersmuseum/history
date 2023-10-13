@@ -1,14 +1,435 @@
 <?xml version="1.0" encoding="UTF-8"?><doc>
-    <battle>
+    <index>
+        <honour href=""/>
+        <honour href="#Page_135">Abu Klea</honour>
+        <honour href="#Page_370">Abyssinia</honour>
+        <honour href="#Page_235">Aden</honour>
+        <honour href="#Page_252">Afghanistan</honour>
+        <honour href="#Page_378">Afghanistan, 1879-80</honour>
+        <honour href="#Page_389">Ahmad Khel</honour>
+        <honour href="#Page_172">Albuera</honour>
+        <honour href="#Page_381">Ali Masjid</honour>
+        <honour href="#Page_281">Aliwal</honour>
+        <honour href="#Page_147">Ally Ghur</honour>
+        <honour href="#Page_297">Alma</honour>
+        <honour href="#Page_173">Almaraz</honour>
+        <honour href="#Page_458">Amboor</honour>
+        <honour href="#Page_221">Amboyna</honour>
+        <honour href="#Page_224">Arabia</honour>
+        <honour href="#Page_50">Arcot</honour>
+        <honour href="#Page_245">Arracan</honour>
+        <honour href="#Page_332">Arrah, Defence of</honour>
+        <honour href="#Page_174">Arroyos dos Molinos</honour>
+        <honour href="#Page_372">Ashantee</honour>
+        <honour href="#Page_376">Ashanti, 1900</honour>
+        <honour href="#Page_144">Assaye</honour>
+        <honour href="#Page_141">Atbara</honour>
+        <honour href="#Page_240">Ava</honour>
+        <honour href="#Page_177">Badajos</honour>
+        <honour href="#Page_57">Badara</honour>
+        <honour href="#Page_300">Balaclava</honour>
+        <honour href="#Page_224">Banda</honour>
+        <honour href="#Page_170">Barrosa</honour>
+        <honour href="#Page_92">Beaumont</honour>
+        <honour href="#Page_332">Behar</honour>
+        <honour href="#Page_233">Beni Boo Alli</honour>
+        <honour href="#Page_211">Bhurtpore</honour>
+        <honour href="#Page_46">Bladensburg</honour>
+        <honour href="#Page_16">Blenheim</honour>
+        <honour href="#Page_226">Bourbon</honour>
+        <honour href="#Page_376">British East Africa</honour>
+        <honour href="#Page_249">Burmah, 1885-1887</honour>
+        <honour href="#Page_168">Busaco</honour>
+        <honour href="#Page_237">Bushire</honour>
+        <honour href="#Page_63">Buxar</honour>
+        <honour href="#Page_263">Cabool, 1842</honour>
+        <honour href="#Page_261">Candahar, 1842</honour>
+        <honour href="#Page_339">Canton</honour>
+        <honour href="#Page_248">Cape of Good Hope, 1806</honour>
+        <honour href="#Page_67">Carnatic</honour>
+        <honour href="#Page_329">Central India</honour>
+        <honour href="#Page_386">Charasiah</honour>
+        <honour href="#Page_289">Chillianwallah</honour>
+        <honour href="#Page_336">China (with the Dragon)</honour>
+        <honour href="#Page_340">China, 1858-1862</honour>
+        <honour href="#Page_344">China, 1900</honour>
+        <honour href="#Page_393">Chitral, Defence of</honour>
+        <honour href="#Page_394">Chitral</honour>
+        <honour href="#Page_176">Ciudad Rodrigo</honour>
+        <honour href="#Page_154">Cochin</honour>
+        <honour href="#Page_55">Condore</honour>
+        <honour href="#Page_364">Copenhagen</honour>
+        <honour href="#Page_162">Corunna</honour>
+        <honour href="#Page_208">Corygaum</honour>
+        <honour href="#Page_265">Cutchee</honour>
+        <honour href="#Page_151">Deig</honour>
+        <honour href="#Page_148">Delhi, 1803</honour>
+        <honour href="#Page_312">[viii]Delhi</honour>
+        <honour href="#Page_44">Detroit</honour>
+        <honour href="#Page_24">Dettingen</honour>
+        <honour href="#Page_116">Dominica</honour>
+        <honour href="#Page_266">Douro</honour>
+        <honour href="#Page_95">Egmont-op-Zee</honour>
+        <honour href="#Page_122">Egypt (with the Sphinx)</honour>
+        <honour href="#Page_129">Egypt, 1882</honour>
+        <honour href="#Page_454">Egypt, 1884</honour>
+        <honour href="#Page_28">Emsdorff</honour>
+        <honour href="#Page_277">Ferozeshah</honour>
+        <honour href="#Page_363">Fishguard</honour>
+        <honour href="#Page_171">Fuentes d'Onor</honour>
+        <honour href="#Page_254">Ghuznee, 1839</honour>
+        <honour href="#Page_262">Ghuznee, 1842</honour>
+        <honour href="#Page_3">Gibraltar, 1704</honour>
+        <honour href="#Page_8">Gibraltar, 1778-1783</honour>
+        <honour href="#Page_292">Goojerat</honour>
+        <honour href="#Page_99">Guadeloupe, 1759</honour>
+        <honour href="#Page_120">Guadeloupe, 1810</honour>
+        <honour href="#Page_69">Guzerat</honour>
+        <honour href="#Page_139">Hafir</honour>
+        <honour href="#Page_104">Havana</honour>
+        <honour href="#Page_214">Hindoostan</honour>
+        <honour href="#Page_268">Hyderabad</honour>
+        <honour href="#Page_218">India</honour>
+        <honour href="#Page_302">Inkerman</honour>
+        <honour href="#Page_228">Java</honour>
+        <honour href="#Page_260">Jelalabad</honour>
+        <honour href="#Page_360">Jersey, 1781</honour>
+        <honour href="#Page_387">Kabul, 1879</honour>
+        <honour href="#Page_257">Kahun</honour>
+        <honour href="#Page_392">Kandahar, 1880</honour>
+        <honour href="#Page_242">Kemmendine</honour>
+        <honour href="#Page_141">Khartoum</honour>
+        <honour href="#Page_255">Khelat</honour>
+        <honour href="#Page_261">Khelat-i-Ghilzai, 1842</honour>
+        <honour href="#Page_456">Kimberley, Defence of</honour>
+        <honour href="#Page_422">Kimberley, Relief of</honour>
+        <honour href="#Page_135">Kirbekan</honour>
+        <honour href="#Page_203">Kirkee</honour>
+        <honour href="#Page_239">Koosh-ab</honour>
+        <honour href="#Page_426">Ladysmith, Defence of</honour>
+        <honour href="#Page_425">Ladysmith, Relief of</honour>
+        <honour href="#Page_150">Laswarree</honour>
+        <honour href="#Page_90">Lincelles</honour>
+        <honour href="#Page_36">Louisburg</honour>
+        <honour href="#Page_316">Lucknow</honour>
+        <honour href="#Page_270">Maharajpore</honour>
+        <honour href="#Page_207">Maheidpore</honour>
+        <honour href="#Page_10">Maida</honour>
+        <honour href="#Page_398">Malakand</honour>
+        <honour href="#Page_21">Malplaquet</honour>
+        <honour href="#Page_125">Mandora</honour>
+        <honour href="#Page_73">Mangalore</honour>
+        <honour href="#Page_127">Marabout</honour>
+        <honour href="#Page_102">Martinique, 1762</honour>
+        <honour href="#Page_111">Martinique, 1794</honour>
+        <honour href="#Page_118">Martinique, 1809</honour>
+        <honour href="#Page_56">Masulipatam</honour>
+        <honour href="#Page_11">Mediterranean</honour>
+        <honour href="#Page_11">Mediterranean, 1900-01</honour>
+        <honour href="#Page_266">Meeanee</honour>
+        <honour href="#Page_45">Miami</honour>
+        <honour href="#Page_26">Minden</honour>
+        <honour href="#Page_417">Modder River</honour>
+        <honour href="#Page_40">Monte Video</honour>
+        <honour href="#Page_276">Moodkee</honour>
+        <honour href="#Page_291">Mooltan</honour>
+        <honour href="#Page_108">Moro</honour>
+        <honour href="#Page_77">Mysore</honour>
+        <honour href="#Page_206">Nagpore</honour>
+        <honour href="#Page_12">Namur</honour>
+        <honour href="#Page_362">Naval Crown, April 12, 1782</honour>
+        <honour href="#Page_362">Naval Crown, June 1, 1794</honour>
+        <honour href="#Page_368">New Zealand</honour>
+        <honour href="#Page_45">Niagara</honour>
+        <honour href="#Page_91">[ix]Nieuport</honour>
+        <honour href="#Page_133">Nile, 1884-85</honour>
+        <honour href="#Page_186">Nive</honour>
+        <honour href="#Page_184">Nivelle</honour>
+        <honour href="#Page_209">Nowah</honour>
+        <honour href="#Page_79">Nundy Droog</honour>
+        <honour href="#Page_187">Orthes</honour>
+        <honour href="#Page_19">Oudenarde</honour>
+        <honour href="#Page_423">Paardeburg</honour>
+        <honour href="#Page_247">Pegu</honour>
+        <honour href="#Page_382">Peiwar Kotal</honour>
+        <honour href="#Page_343">Pekin</honour>
+        <honour href="#Page_346">Pekin, 1900</honour>
+        <honour href="#Page_190">Peninsula</honour>
+        <honour href="#Page_236">Persia</honour>
+        <honour href="#Page_230">Persian Gulf</honour>
+        <honour href="#Page_52">Plassey</honour>
+        <honour href="#Page_60">Pondicherry</honour>
+        <honour href="#Page_396">Punjab Frontier</honour>
+        <honour href="#Page_286">Punjaub</honour>
+        <honour href="#Page_272">Punniar</honour>
+        <honour href="#Page_182">Pyrenees</honour>
+        <honour href="#Page_38">Quebec</honour>
+        <honour href="#Page_44">Queenstown</honour>
+        <honour href="#Page_18">Ramillies</honour>
+        <honour href="#Page_238">Reshire</honour>
+        <honour href="#Page_66">Rohilcund, 1774</honour>
+        <honour href="#Page_81">Rohilcund, 1794</honour>
+        <honour href="#Page_157">Roleia</honour>
+        <honour href="#Page_161">Sahagun</honour>
+        <honour href="#Page_410">St. Helena</honour>
+        <honour href="#Page_109">St. Lucia, 1778</honour>
+        <honour href="#Page_114">St. Lucia, 1796</honour>
+        <honour href="#Page_115">St. Lucia, 1803</honour>
+        <honour href="#Page_184">St. Sebastian</honour>
+        <honour href="#Page_362">St. Vincent</honour>
+        <honour href="#Page_178">Salamanca</honour>
+        <honour href="#Page_403">Samana</honour>
+        <honour href="#Page_266">Scinde</honour>
+        <honour href="#Page_82">Seedaseer</honour>
+        <honour href="#Page_205">Seetabuldee</honour>
+        <honour href="#Page_84">Seringapatam</honour>
+        <honour href="#Page_306">Sevastopol</honour>
+        <honour href="#Page_71">Sholinghur</honour>
+        <honour href="#Page_373">Sierra Leone, 1898</honour>
+        <honour href="#Page_283">Sobraon</honour>
+        <honour href="#Page_351">South Africa, 1835</honour>
+        <honour href="#Page_352">South Africa, 1846-47</honour>
+        <honour href="#Page_353">South Africa, 1852-53</honour>
+        <honour href="#Page_355">South Africa, 1879-80</honour>
+        <honour href="#Page_408">South Africa, 1899-1902</honour>
+        <honour href="#Page_136">Suakin, 1885</honour>
+        <honour href="#Page_115">Surinam</honour>
+        <honour href="#Page_342">Taku Forts</honour>
+        <honour href="#Page_167">Talavera</honour>
+        <honour href="#Page_1">Tangier</honour>
+        <honour href="#Page_176">Tarifa</honour>
+        <honour href="#Page_130">Tel-el-Kebir</honour>
+        <honour href="#Page_223">Ternate</honour>
+        <honour href="#Page_404">Tirah</honour>
+        <honour href="#Page_138">Tofrek</honour>
+        <honour href="#Page_188">Toulouse</honour>
+        <honour href="#Page_93">Tournay</honour>
+        <honour href="#Page_91">Villers-en-Couche</honour>
+        <honour href="#Page_159">Vimiera</honour>
+        <honour href="#Page_180">Vittoria</honour>
+        <honour href="#Page_59">Wandewash</honour>
+        <honour href="#Page_29">Warburg</honour>
+        <honour href="#Page_192">Waterloo</honour>
+        <honour href="#Page_374">West Africa, 1887, 1892-93-94</honour>
+        <honour href="#Page_32">Wilhelmstahl</honour>
+        <honour href="#Page_93">Willems</honour>
+    </index>
+    <chronology>
+        <honour date="1662-80.">Tangier.</honour>
+        <honour date="1695.">Namur.</honour>
+        <honour date="1704.">Gibraltar.</honour>
+        <honour date="1704.">Blenheim.</honour>
+        <honour date="1706.">Ramillies.</honour>
+        <honour date="1708.">Oudenarde.</honour>
+        <honour date="1709.">Malplaquet.</honour>
+        <honour date="1743.">Dettingen.</honour>
+        <honour date="1751.">Arcot.</honour>
+        <honour date="1757.">Plassey.</honour>
+        <honour date="1758.">Louisburg.</honour>
+        <honour date="1758.">Condore.</honour>
+        <honour date="1759.">Masulipatam.</honour>
+        <honour date="1759.">Guadeloupe.</honour>
+        <honour date="1759.">Minden.</honour>
+        <honour date="1759.">Quebec.</honour>
+        <honour date="1759.">Badara.</honour>
+        <honour date="1760.">Carnatic.</honour>
+        <honour date="1760.">Wandewash.</honour>
+        <honour date="1760.">Emsdorff.</honour>
+        <honour date="1760.">Warburg.</honour>
+        <honour date="1762.">Martinique.</honour>
+        <honour date="1762.">Wilhelmstahl.</honour>
+        <honour date="1762.">Havana.</honour>
+        <honour date="1762.">Moro.</honour>
+        <honour date="1764.">Buxar.</honour>
+        <honour date="1774.">Rohilcund.</honour>
+        <honour date="1778.">St. Lucia.</honour>
+        <honour date="1779-83.">Gibraltar.</honour>
+        <honour date="1778-82.">Guzerat.</honour>
+        <honour date="1781.">Sholinghur.</honour>
+        <honour date="1781.">Jersey.</honour>
+        <honour date="1782.">Naval Victory.</honour>
+        <honour date="1783.">Mangalore.</honour>
+        <honour date="1791.">Nundy Droog.</honour>
+        <honour date="1792-99.">Mysore.</honour>
+        <honour date="1793.">Lincelles.</honour>
+        <honour date="1793.">Nieuport.</honour>
+        <honour date="1794.">Martinique.</honour>
+        <honour date="1794.">Lord Howe's Naval Victory.</honour>
+        <honour date="1794.">Villers-en-Couche.</honour>
+        <honour date="1794.">Beaumont.</honour>
+        <honour date="1794.">Willems.</honour>
+        <honour date="1794.">Tournay.</honour>
+        <honour date="1794.">Rohilcund.</honour>
+        <honour date="1796.">St. Lucia.</honour>
+        <honour date="1797.">St. Vincent.</honour>
+        <honour date="1797.">Fishguard.</honour>
+        <honour date="1798.">Seedaseer.</honour>
+        <honour date="1798.">Seringapatam.</honour>
+        <honour date="1798.">Mysore.</honour>
+        <honour date="1798.">Egmont-op-Zee.</honour>
+        <honour date="1800.">"1800" Defence of Malta.</honour>
+        <honour date="1801.">Egypt.</honour>
+        <honour date="1801.">Mandora.</honour>
+        <honour date="1801.">Copenhagen.</honour>
+        <honour date="1803.">St. Lucia.</honour>
+        <honour date="1803.">Ally Ghur.</honour>
+        <honour date="1803.">Delhi.</honour>
+        <honour date="1803.">Assaye.</honour>
+        <honour date="1803.">Laswarree.</honour>
+        <honour date="1803.">Deig.</honour>
+        <honour date="1804.">Surinam.</honour>
+        <honour date="1806.">Monte Video.</honour>
+        <honour date="1806.">Cape of Good Hope.</honour>
+        <honour date="1806.">Maida.</honour>
+        <honour date="1808.">Roleia.</honour>
+        <honour date="1808.">Vimiera.</honour>
+        <honour date="1808.">Sahagun.</honour>
+        <honour date="1808-14.">Peninsula.</honour>
+        <honour date="1809.">Arabia.</honour>
+        <honour date="1809.">Corunna.</honour>
+        <honour date="1809.">Cochin.</honour>
+        <honour date="1809.">Douro.</honour>
+        <honour date="1809.">Talavera.</honour>
+        <honour date="1809.">Bourbon.</honour>
+        <honour date="1809.">Martinique.</honour>
+        <honour date="1810.">Amboyna.</honour>
+        <honour date="1810.">Guadeloupe.</honour>
+        <honour date="1810.">Ternate.</honour>
+        <honour date="1810.">Banda.</honour>
+        <honour date="1811.">Java.</honour>
+        <honour date="1811.">Barrosa</honour>
+        <honour date="1811.">Fuentes d'Onor.</honour>
+        <honour date="1811.">Albuera.</honour>
+        <honour date="1811.">Almaraz.</honour>
+        <honour date="1811.">Busaco.</honour>
+        <honour date="1811.">Arroyos dos Molinos.</honour>
+        <honour date="1811.">Tarifa.</honour>
+        <honour date="1812.">Ciudad Rodrigo.</honour>
+        <honour date="1812.">Badajos.</honour>
+        <honour date="1812.">Detroit.</honour>
+        <honour date="1812.">Salamanca.</honour>
+        <honour date="1813.">Vittoria.</honour>
+        <honour date="1813.">Miami.</honour>
+        <honour date="1813.">Pyrenees.</honour>
+        <honour date="1813.">St. Sebastian.</honour>
+        <honour date="1813.">Nivelle.</honour>
+        <honour date="1813.">Nive.</honour>
+        <honour date="1813.">Niagara.</honour>
+        <honour date="1814.">Orthes.</honour>
+        <honour date="1814.">Toulouse.</honour>
+        <honour date="1814.">Bladensburg.</honour>
+        <honour date="1815.">Waterloo.</honour>
+        <honour date="1817.">Kirkee.</honour>
+        <honour date="1817.">Seetabuldee.</honour>
+        <honour date="1817.">Nagpore.</honour>
+        <honour date="1817.">Maheidpore.</honour>
+        <honour date="1818.">Corygaum.</honour>
+        <honour date="1819.">Nowah.</honour>
+        <honour date="1819.">Persian Gulf.</honour>
+        <honour date="1821.">Arabia.</honour>
+        <honour date="1823.">Beni Boo Alli.</honour>
+        <honour date="1824.">Ava.</honour>
+        <honour date="1824.">Kemmendine.</honour>
+        <honour date="1825.">Arracan.</honour>
+        <honour date="1826.">Bhurtpore.</honour>
+        <honour date="1835.">South Africa.</honour>
+        <honour date="1839-42.">Afghanistan.</honour>
+        <honour date="1839.">Ghuznee.</honour>
+        <honour date="1839.">Kelat.</honour>
+        <honour date="1839.">Aden.</honour>
+        <honour date="1840.">Kahun.</honour>
+        <honour date="1842.">Jelalabad.</honour>
+        <honour date="1842.">Khelat-i-Ghilzai.</honour>
+        <honour date="1842.">Candahar.</honour>
+        <honour date="1842.">Cabool.</honour>
+        <honour date="1842.">Cutchee.</honour>
+        <honour date="1842.">China.</honour>
+        <honour date="1843.">Scinde.</honour>
+        <honour date="1843.">Meeanee.</honour>
+        <honour date="1843.">Hyderabad.</honour>
+        <honour date="1843.">Maharajpore.</honour>
+        <honour date="1843.">Punniar.</honour>
+        <honour date="1845.">Moodkee.</honour>
+        <honour date="1845.">Ferozeshah.</honour>
+        <honour date="1846.">Aliwal.</honour>
+        <honour date="1846.">Sobraon.</honour>
+        <honour date="1846-47.">South Africa.</honour>
+        <honour date="1846.">New Zealand.</honour>
+        <honour date="1849.">Chillianwallah.</honour>
+        <honour date="1849.">Mooltan.</honour>
+        <honour date="1849.">Goojerat.</honour>
+        <honour date="1849.">Punjaub.</honour>
+        <honour date="1851-53.">South Africa.</honour>
+        <honour date="1852.">Pegu.</honour>
+        <honour date="1854.">Alma.</honour>
+        <honour date="1854.">Balaclava.</honour>
+        <honour date="1854.">Inkerman.</honour>
+        <honour date="1854.">Sevastopol.</honour>
+        <honour date="1856.">Reshire.</honour>
+        <honour date="1856.">Bushire.</honour>
+        <honour date="1856-57.">Persia.</honour>
+        <honour date="1857.">Koosh-ab.</honour>
+        <honour date="1857.">Delhi.</honour>
+        <honour date="1857.">Lucknow.</honour>
+        <honour date="1857.">Central India.</honour>
+        <honour date="1857.">Defence of Arrah.</honour>
+        <honour date="1857.">Behar.</honour>
+        <honour date="1857.">Canton.</honour>
+        <honour date="1858-60.">China.</honour>
+        <honour date="1860.">Taku Forts.</honour>
+        <honour date="1860.">Pekin.</honour>
+        <honour date="1861-65.">New Zealand.</honour>
+        <honour date="1867.">Abyssinia.</honour>
+        <honour date="1873-74.">Ashantee.</honour>
+        <honour date="1877-79.">South Africa.</honour>
+        <honour date="1878-80.">Afghanistan.</honour>
+        <honour date="1878.">Ali Masjid.</honour>
+        <honour date="1878.">Peiwar Kotal.</honour>
+        <honour date="1878.">Charasia.</honour>
+        <honour date="1879.">Kabul.</honour>
+        <honour date="1879.">Ahmed Khel.</honour>
+        <honour date="1880.">Kandahar.</honour>
+        <honour date="1882.">Egypt.</honour>
+        <honour date="1882.">Tel-el-Kebir.</honour>
+        <honour date="1884.">Egypt.</honour>
+        <honour date="1884-85.">Nile.</honour>
+        <honour date="1885.">Abu Klea.</honour>
+        <honour date="1885.">Kirbekan.</honour>
+        <honour date="1885.">Suakin.</honour>
+        <honour date="1885.">Tofrek.</honour>
+        <honour date="1885-87.">Burmah.</honour>
+        <honour date="1887.">West Africa.</honour>
+        <honour date="1892-1894.">West Africa.</honour>
+        <honour date="1895.">Defence of Chitral.</honour>
+        <honour date="1895.">Chitral.</honour>
+        <honour date="1897-98.">Punjab Frontier.</honour>
+        <honour date="1897.">Malakand.</honour>
+        <honour date="1897.">Samana.</honour>
+        <honour date="1897.">Tirah.</honour>
+        <honour date="1897.">Hafir.</honour>
+        <honour date="1898.">Atbara.</honour>
+        <honour date="1898.">Khartoum.</honour>
+        <honour date="1898.">Sierra Leone.</honour>
+        <honour date="1899-1902.">South Africa.</honour>
+        <honour date="1899.">Modder River.</honour>
+        <honour date="1900.">China.</honour>
+        <honour date="1900.">Pekin.</honour>
+        <honour date="1900.">Ashanti.</honour>
+        <honour date="1900.">Defence of Kimberley.</honour>
+        <honour date="1900.">Relief of Kimberley.</honour>
+        <honour date="1900.">Paardeburg.</honour>
+        <honour date="1900.">Defence of Ladysmith.</honour>
+        <honour date="1900.">Relief of Ladysmith.</honour>
+    </chronology>
+    <entitlement>
         <title>Tangier, 1662-1680.</title>
         <regiment>Royal Dragoons, 1662-1680.</regiment>
         <regiment>Grenadier Guards, 1680.</regiment>
         <regiment>Coldstream Guards, 1680.</regiment>
         <regiment>Royal Scots, 1680.</regiment>
         <regiment>The Queen's, 1662-1680.</regiment>
-        <regiment/>
-    </battle>
-    <battle>
+    </entitlement>
+    <entitlement>
         <title>Gibraltar, 1704-05.</title>
         <regiment>Grenadier Guards.</regiment>
         <regiment>Coldstream Guards.</regiment>
@@ -18,6 +439,3478 @@
         <regiment>East Surrey.</regiment>
         <regiment>Cornwall Light Infantry.</regiment>
         <regiment>Royal Sussex.</regiment>
-        <regiment/>
-    </battle>
+    </entitlement>
+    <entitlement>
+        <title>Gibraltar, 1779-1783.</title>
+        <regiment>Suffolk.</regiment>
+        <regiment>Dorset.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Maida, July 4, 1806.</title>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gloucestershire Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Mediterranean.</title>
+        <regiment>3rd Batt. the Buffs.</regiment>
+        <regiment>3rd Batt. the King's Own (Royal Lancaster).</regiment>
+        <regiment>5th Batt. Royal Fusiliers.</regiment>
+        <regiment>3rd Batt. South Stafford.</regiment>
+        <regiment>3rd Batt. West Yorkshire.</regiment>
+        <regiment>3rd Batt. Loyal North Lancashire.</regiment>
+        <regiment>3rd Batt. Oxford Light Infantry.</regiment>
+        <regiment>3rd Batt. Northamptons.</regiment>
+        <regiment>3rd Batt. Royal Berkshire.</regiment>
+        <regiment>3rd Batt. Wiltshire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Mediterranean, 1901-02.</title>
+        <regiment>3rd Batt. Northumberland Fusiliers.</regiment>
+        <regiment>5th Batt. Royal Fusiliers</regiment>
+        <regiment>3rd Loyal North Lancashire.</regiment>
+        <regiment>3rd Batt. West Yorkshire.</regiment>
+        <regiment>3rd Batt. King's Own Yorkshire Light Infantry.</regiment>
+        <regiment>3rd Royal West Kent.</regiment>
+        <regiment>3rd Batt. Seaforth Highlanders.</regiment>
+        <regiment>5th Batt. Royal Munster Fusiliers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Namur, 1695.</title>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's (Royal West Surrey).</regiment>
+        <regiment>King's Own (Lancasters).</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>King's Own Scottish Borderers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Blenheim, August 2, 1704.</title>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>5th Lancers.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Cameronians.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ramillies, May 12, 1706.</title>
+        <regiment>1st King's Dragoon Guards.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>6th Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>5th R.I. Lancers.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Liverpool Regiment.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>Hampshire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Oudenarde, June 30, 1708.</title>
+        <regiment>1st King's Dragoon Guards.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>5th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Hampshire Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Malplaquet, September 11, 1709.</title>
+        <regiment>1st King's Dragoon Guards.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>5th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Yorkshire Regiment.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>Hampshire Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Dettingen, June 27, 1743.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>1st King's Dragoon Guards.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>6th Inniskillings.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Suffolk.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding Regiment.</regiment>
+        <regiment>Hampshire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Minden, August 1, 1759.</title>
+        <regiment>Suffolks.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>King's Own Scottish Borderers.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>King's Own Yorkshire L.I.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Emsdorff, July 16, 1760.</title>
+        <regiment>15th Hussars,</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Warburg, July 31, 1760.</title>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>Queen's Bays.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>Inniskillings.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Wilhelmstahl, June 24, 1762.</title>
+        <regiment>The Northumberland Fusiliers</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Louisburg, July 25, 1758.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>Cheshire.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Wiltshire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Quebec, September 12, 1759.</title>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>Gloucester.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Monte Video, 1807.</title>
+        <regiment>South Staffords.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Niagara</title>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Royal Warwick.</regiment>
+        <regiment>Welsh Regiment.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Royal Canadians.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>South Lancashire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Bladensburg, August 24, 1814.</title>
+        <regiment>King's Own (Royal Lancaster).</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Plassey, June 23, 1757.</title>
+        <regiment>The Dorsetshire Regiment.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Condore, December 9, 1758.</title>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Buxar, October 23, 1764.</title>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>The Carnatic.</title>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>27th Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>62nd Punjabis.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>64th Pioneers.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>67th Punjabis.</regiment>
+        <regiment>69th Punjabis.</regiment>
+        <regiment>72nd Punjabis.</regiment>
+        <regiment>73rd Carnatic Infantry.</regiment>
+        <regiment>74th Punjabis.</regiment>
+        <regiment>75th Carnatic Infantry.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>80th Carnatic Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Sholinghur, September 27, 1781.</title>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>27th Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>64th Pioneers.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>69th Punjabis.</regiment>
+        <regiment>72nd Punjabis.</regiment>
+        <regiment>73rd Carnatic Infantry.</regiment>
+        <regiment>74th Punjabis.</regiment>
+        <regiment>75th Carnatic Infantry.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>80th Carnatic Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Mysore.</title>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>26th Light Cavalry.</regiment>
+        <regiment>27th Light Cavalry.</regiment>
+        <regiment>28th Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>61st P.W.O. Pioneers.</regiment>
+        <regiment>62nd Punjabis.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>64th Pioneers.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>67th Punjabis.</regiment>
+        <regiment>68th Punjabis.</regiment>
+        <regiment>73rd Carnatic Infantry.</regiment>
+        <regiment>74th Punjabis.</regiment>
+        <regiment>75th Carnatic Infantry.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>80th Carnatic Infantry.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>82nd Punjabis.</regiment>
+        <regiment>101st Grenadiers.</regiment>
+        <regiment>103rd Light Infantry.</regiment>
+        <regiment>104th Rifles.</regiment>
+        <regiment>105th Light Infantry.</regiment>
+        <regiment>107th Pioneers.</regiment>
+        <regiment>108th Infantry.</regiment>
+        <regiment>109th Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Seedaseer, March 6, 1799.</title>
+        <regiment>103rd Mahratta L.I.</regiment>
+        <regiment>105th Mahratta L.I.</regiment>
+        <regiment>107th Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Seringapatam, May 4, 1799.</title>
+        <regiment>Suffolks.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>26th Light Cavalry.</regiment>
+        <regiment>27th Light Cavalry.</regiment>
+        <regiment>28th Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>73rd Carnatic Infantry.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>80th Carnatic Infantry.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>82nd Punjabis.</regiment>
+        <regiment>83rd Light Infantry.</regiment>
+        <regiment>84th Punjabis.</regiment>
+        <regiment>103rd Light Infantry.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>105th Light Infantry.</regiment>
+        <regiment>107th Pioneers.</regiment>
+        <regiment>109th Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Lincelles, August 18, 1793.</title>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Beaumont, April 26, 1794.</title>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>1st King's Dragoon Guards.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>16th Lancers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Willems, May 10, 1794.</title>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>2nd Queen's Bays.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>6th Inniskilling Dragoons.</regiment>
+        <regiment>6th Carabiniers.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>15th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Tournay, May 22, 1794.</title>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Egmont-op-Zee, October 2, 1799.</title>
+        <regiment>15th Hussars.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>King's Own Scottish Borderers.</regiment>
+        <regiment>Berkshire.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Guadeloupe, 1759.</title>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>York and Lancaster.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Martinique, 1762.</title>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>Cheshire.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>South Stafford.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Havana.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>Cheshire.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>St. Lucia, 1778.</title>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Border Regiment.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Martinique, 1794.</title>
+        <regiment>Royal Warwick.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>North Stafford.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>Dorset.</regiment>
+        <regiment>York and Lancaster.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Martinique, 1809.</title>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>East Yorkshires.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>King's Own Scottish Borderers.</regiment>
+        <regiment>King's Own Royal Rifles.</regiment>
+        <regiment>Manchesters.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>West India Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Guadeloupe, 1810.</title>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>West India.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Egypt (with the Sphinx).</title>
+        <regiment>11th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>King's Liverpool Regiment.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Stafford.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Manchesters.</regiment>
+        <regiment>Cameron Highlanders</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>102nd King Edward's Own Grenadiers.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>113th Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Egypt, 1882.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>4th Dragoon Guards.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>South Stafford.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Manchesters.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>2nd (Gardner's Horse).</regiment>
+        <regiment>6th King Edward's Own Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>13th (Watson's Horse).</regiment>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>20th (Brownlow's Punjabis).</regiment>
+        <regiment>129th Baluchis.</regiment>
+        <regiment>Royal Malta Artillery.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Tel-el-Kebir, September 12, 1882.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>4th Dragoon Guards.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>13th (Watson's Horse).</regiment>
+        <regiment>2nd (Gardner's Horse).</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>6th King Edward's Own Cavalry.</regiment>
+        <regiment>20th (Brownlow's Punjabis).</regiment>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>129th Baluchis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Nile, 1884-85.</title>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>South Staffordshire.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Suakin, 1885.[11]</title>
+        <regiment>5th Lancers.</regiment>
+        <regiment>20th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>9th Hodson's Horse.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>15th Ludhiana Sikhs.</regiment>
+        <regiment>17th (Loyal Regiment).</regiment>
+        <regiment>128th Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Tofrek, March 22, 1885.</title>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>Queen's Own Sappers and Miners.</regiment>
+        <regiment>17th (Loyal Regiment).</regiment>
+        <regiment>15th Ludhiana Sikhs.</regiment>
+        <regiment>128th Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Atbara, April 8, 1898.</title>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Khartoum, 1898.</title>
+        <regiment>21st Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Lincolnshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Assaye, September 23, 1803.</title>
+        <regiment>19th Hussars.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>62nd Punjabis.</regiment>
+        <regiment>64th Pioneers.</regiment>
+        <regiment>84th Punjabis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Laswarree, November 1, 1803.</title>
+        <regiment>8th Hussars.</regiment>
+        <regiment>West Riding Regiment.</regiment>
+        <regiment>1st Brahmins.</regiment>
+        <regiment>2nd Queen's Own Light Infantry.</regiment>
+        <regiment>4th Rajputs.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Deig, November 13 to December 23, 1804.</title>
+        <regiment>West Riding Regiment.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>2nd Queen's Own Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Cochin, 1809.</title>
+        <regiment>Roleia.</regiment>
+        <regiment>Vimiera.</regiment>
+        <regiment>Sahagun.</regiment>
+        <regiment>Benevente.</regiment>
+        <regiment>Corunna.</regiment>
+        <regiment>Talavera.</regiment>
+        <regiment>Busaco.</regiment>
+        <regiment>Barrosa.</regiment>
+        <regiment>Fuentes d'Onor.</regiment>
+        <regiment>Albuera.</regiment>
+        <regiment>Ciudad Rodrigo.</regiment>
+        <regiment>Badajoz.</regiment>
+        <regiment>Salamanca.</regiment>
+        <regiment>Vittoria.</regiment>
+        <regiment>Pyrenees.</regiment>
+        <regiment>San Sebastian.</regiment>
+        <regiment>Nivelle.</regiment>
+        <regiment>Nive.</regiment>
+        <regiment>Orthes.</regiment>
+        <regiment>Toulouse.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Roleia, August 17, 1808.</title>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwick.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>South Stafford.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Vimiera, August 21, 1808.</title>
+        <regiment>20th Hussars.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>South Stafford.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Corunna, January 16, 1809.</title>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's R.W. Surrey.</regiment>
+        <regiment>King's Own.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>West Yorkshires.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>K.O. (Yorkshire Light Infantry).</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Argyll and Suth. Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Douro.</title>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Douro.</title>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Busaco, September 27, 1810.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Barrosa, March 4, 1811.</title>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Hampshires.</regiment>
+        <regiment>Royal Irish Fusiliers</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Fuentes d'Onor, May 5, 1811.</title>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Albuera, May 16, 1811.</title>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Border Regiment.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Almaraz, May 19, 1811.</title>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ciudad Rodrigo, January, 1812.</title>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Middlesex Regiment.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Badajoz, March and April, 1812.</title>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Salamanca, July 22, 1812.</title>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>King's Own.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>East Lancashires.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Vittoria, June 21, 1813.</title>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>15th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Own.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Pyrenees, July 28 to August 2, 1813.</title>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>San Sebastian, August, 1813.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>North Lancashire.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Nivelle, November 10, 1813.</title>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Highland L.I.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Nive, December 9 to 13, 1813.</title>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Dorset.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Loyal North Lancashires.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Wiltshires.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Orthes, February 27, 1814.</title>
+        <regiment>7th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Toulouse, April 10, 1814.</title>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Peninsula, 1808-1814.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>4th Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>1st Royal Dragoons.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>15th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>18th Hussars.</regiment>
+        <regiment>20th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's (Royal West Surrey).</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>K.O. (Royal Lancaster).</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Lincoln.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>South Staffordshire.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Dorset.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Loyal North Lancashire.</regiment>
+        <regiment>Northampton.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>K.O. (Yorkshire L.I.).</regiment>
+        <regiment>King's (Shropshire L.I.).</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Wiltshire.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Durham L.I.</regiment>
+        <regiment>Highland L.I.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Waterloo, June 18, 1815.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>1st Dragoon Guards.</regiment>
+        <regiment>Royal Dragoons.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>Inniskilling Dragoons.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>15th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>18th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>King's Own Royal Lancasters.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding Regiment.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>King's Own (Yorkshire Light Infantry).</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Kirkee, November 5, 1817.</title>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>102nd Grenadiers.</regiment>
+        <regiment>113th Infantry.</regiment>
+        <regiment>112th Infantry.</regiment>
+        <regiment>123rd Outram's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Nagpore, December 16, 1817.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>6th Jat Light Infantry.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>62nd Punjabis.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>83rd Light Infantry.</regiment>
+        <regiment>86th Infantry.</regiment>
+        <regiment>88th Infantry.</regiment>
+        <regiment>97th Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Maheidpore, December 23, 1817.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>28th Light Cavalry.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>74th Punjabis.</regiment>
+        <regiment>87th Punjabis.</regiment>
+        <regiment>88th Infantry.</regiment>
+        <regiment>91st Light Infantry.</regiment>
+        <regiment>94th Russell's Infantry.</regiment>
+        <regiment>95th Russell's Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Bhurtpore, January, 1826.</title>
+        <regiment>11th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>1st Skinner's Horse.</regiment>
+        <regiment>1st Prince of Wales's Own Sappers and Miners.</regiment>
+        <regiment>2nd Queen's Own Rajput Light Infantry.</regiment>
+        <regiment>1st Brahmins.</regiment>
+        <regiment>3rd Brahmins.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>9th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Hindoostan.</title>
+        <regiment>8th Hussars.</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>West Riding Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>India.</title>
+        <regiment>Suffolks.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Bourbon, July 8, 1810.[18]</title>
+        <regiment>Welsh Regiment.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>84th Punjabis.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Java, 1811.</title>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Governor-General's Bodyguard.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Beni Boo Alli, March, 1821.</title>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>103rd Mahratta Light Infantry.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>105th Mahratta Light Infantry.</regiment>
+        <regiment>107th Pioneers.</regiment>
+        <regiment>113th Infantry.</regiment>
+        <regiment>121st Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Aden, 1839.</title>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>121st Pioneers.</regiment>
+        <regiment>124th Baluchistan Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Persia, 1856-57.</title>
+        <regiment>14th Hussars.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>33rd Queen's Own Light Cavalry.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>35th Scinda Horse.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>120th Rajputana Infantry.</regiment>
+        <regiment>123rd Outram's Rifles.</regiment>
+        <regiment>126th Baluchistan Infantry.</regiment>
+        <regiment>129th Duke of Connaught's Own Baluchis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Bushire, December 5, 1856.</title>
+        <regiment>North Stafford.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>33rd Queen's Own Light Cavalry.</regiment>
+        <regiment>34th P.A.V.O. Poona Horse.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>120th Rajputana Infantry.</regiment>
+        <regiment>129th P.W.O. Baluchis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Reshire, December 7, 1856.</title>
+        <regiment>North Staffords.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>33rd Queen's Own Light Cavalry.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>120th Rajputana Infantry.</regiment>
+        <regiment>129th Baluchis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Koosh-ab, February 8, 1857.</title>
+        <regiment>North Staffords.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>33rd Queen's Own Light Cavalry.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>120th Rajputana Infantry.</regiment>
+        <regiment>126th Baluchis.</regiment>
+        <regiment>129th Baluchis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ava, 1824-1826.</title>
+        <regiment>Royal Scots.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>Governor-General's Bodyguard.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>26th Light Cavalry.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>67th Punjabis.</regiment>
+        <regiment>69th Punjabis.</regiment>
+        <regiment>72nd Punjabis.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>82nd Punjabis.</regiment>
+        <regiment>86th Carnatic Infantry.</regiment>
+        <regiment>88th Carnatic Infantry.</regiment>
+        <regiment>90th Punjabis.</regiment>
+        <regiment>92nd Punjabis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Pegu.</title>
+        <regiment>Royal Irish.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>King's Own Yorkshire Light Infantry.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>54th Sikhs.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>69th Punjabis.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>86th Carnatic Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Burmah, 1885-1887.</title>
+        <regiment>The Queen's (R.W. Surrey).</regiment>
+        <regiment>King's Liverpool.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>King's Own Yorkshire L.I.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+        <regiment>7th Hurriana Lancers.</regiment>
+        <regiment>26th P.W.O. Light Cavalry.</regiment>
+        <regiment>27th Light Cavalry.</regiment>
+        <regiment>31st Lancers.</regiment>
+        <regiment>2nd Q.O. Rajput Light Infantry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>1st Brahmins.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>10th Jats.</regiment>
+        <regiment>11th Jats.</regiment>
+        <regiment>12th Pioneers.</regiment>
+        <regiment>16th Rajputs.</regiment>
+        <regiment>18th Infantry.</regiment>
+        <regiment>26th Punjabis.</regiment>
+        <regiment>27th Punjabis.</regiment>
+        <regiment>33rd Punjabis.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>72nd Punjabis.</regiment>
+        <regiment>73rd Carnatic Infantry.</regiment>
+        <regiment>74th Punjabis.</regiment>
+        <regiment>75th Carnatic Infantry.</regiment>
+        <regiment>76th Punjabis.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>83rd Light Infantry.</regiment>
+        <regiment>86th Carnatic Infantry.</regiment>
+        <regiment>87th Punjabis.</regiment>
+        <regiment>90th Punjabis.</regiment>
+        <regiment>95th Russell's Infantry.</regiment>
+        <regiment>96th Berar Infantry.</regiment>
+        <regiment>101st Grenadiers.</regiment>
+        <regiment>105th Mahratta Light Infantry.</regiment>
+        <regiment>107th Pioneers.</regiment>
+        <regiment>123rd Outram's Rifles.</regiment>
+        <regiment>125th Napier's Rifles.</regiment>
+        <regiment>127th Baluch Light Infantry.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+        <regiment>8th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Afghanistan.</title>
+        <regiment>4th Hussars.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>The Queen's.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>31st D.C.O. Lancers.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Light Infantry.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>119th Multan Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ghuznee, 1839.</title>
+        <regiment>4th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>The Queen's (R.W. Surrey).</regiment>
+        <regiment>13th Somerset L.I.</regiment>
+        <regiment>17th Leicesters.</regiment>
+        <regiment>1st Bengal Fus. (Munsters).</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>31st Duke of Connaught's Lancers.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>119th Multan Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Khelat, November 13, 1839.</title>
+        <regiment>Queen's (Royal West Surrey).</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Rajput L.I.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Candahar, 1842.</title>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>1st Skinner's Horse.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Light Infantry.</regiment>
+        <regiment>12th Pioneers (Khelat-i-Ghilzai Regiment).</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ghuznee, 1842.</title>
+        <regiment>South Lancashire.</regiment>
+        <regiment>The Welsh.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Jat Light Infantry.</regiment>
+        <regiment>12th Khelat-i-Ghilzais.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Cabool, 1842.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Light Infantry.</regiment>
+        <regiment>12th Khelat-i-Ghilzai.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Meeanee, February 17, 1843.</title>
+        <regiment>Cheshires.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>112th Infantry.</regiment>
+        <regiment>125th Outram's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Hyderabad, March 24, 1843.</title>
+        <regiment>Cheshires.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>101st Grenadiers.</regiment>
+        <regiment>108th Infantry.</regiment>
+        <regiment>112th Infantry.</regiment>
+        <regiment>121st Pioneers.</regiment>
+        <regiment>125th Outram's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Maharajpore and Punniar, December 29, 1843.</title>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Dorsetshire.</regiment>
+        <regiment>East Lancashires.</regiment>
+        <regiment>Governor-General's Bodyguard.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>2nd Q.O. Rajput Light Infantry.</regiment>
+        <regiment>6th Jat Light Infantry.</regiment>
+        <regiment>12th Khelat-i-Ghilzai.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Maharajpore and Punniar, December 29, 1843.</title>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>6th P.W.O. Cavalry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Moodkee, December 18, 1845.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Gov.-General's Bodyguard.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>6th K.E.O. Cavalry.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>7th Rajputs.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ferozeshah, December 21, 1845.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Wiltshire.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Governor-General's Bodyguard.</regiment>
+        <regiment>3rd (Skinner's Horse).</regiment>
+        <regiment>6th K.E.O. Cavalry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>5th Rajputs.</regiment>
+        <regiment>7th Rajputs.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Aliwal, January 28, 1868.</title>
+        <regiment>16th Lancers.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Gov.-General's Bodyguard.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>13th Shekhawati Regiment.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Sobraon, February 10, 1846.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Lincoln.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>Wiltshires.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Gov.-General's Bodyguard.</regiment>
+        <regiment>2nd (Gardner's Horse).</regiment>
+        <regiment>6th K.E.O. Cavalry.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Jat Light Infantry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>8th Rajputs.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>9th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Punjaub.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Worcester.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>2nd Gardner's Horse.</regiment>
+        <regiment>5th Cavalry.</regiment>
+        <regiment>31st Lancers.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sap and Min.</regiment>
+        <regiment>2nd Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>11th Rajputs.</regiment>
+        <regiment>51st Sikhs.</regiment>
+        <regiment>52nd Sikhs.</regiment>
+        <regiment>103rd Light Infantry.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>109th Infantry.</regiment>
+        <regiment>119th Multan Regiment.</regiment>
+        <regiment>121st Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Chillianwallah, January 13, 1849.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>11th Rajputs.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Mooltan, January, 1849.</title>
+        <regiment>Lincolns.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>5th Cavalry.</regiment>
+        <regiment>31st Lancers.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>103rd Mahratta L.I.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>109th Infantry.</regiment>
+        <regiment>119th Multan Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Goojerat, February 21, 1849.</title>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>11th Rajputs.</regiment>
+        <regiment>103rd Light Infantry.</regiment>
+        <regiment>119th Multan Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Alma, September 20, 1854.</title>
+        <regiment>4th Hussars.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>King's Own (Lancasters).</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashires.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Royal Berkshire.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll and Sutherland Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Balaclava, October 25, 1854.</title>
+        <regiment>4th Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Royal Dragoons.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>Inniskilling Dragoons.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Sutherland Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Inkerman, November 5, 1854.</title>
+        <regiment>4th Hussars.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>King's Own.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Manchesters.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Sevastopol.</title>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>4th Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>Royal Dragoons.</regiment>
+        <regiment>Royal Scots Greys.</regiment>
+        <regiment>4th Hussars.</regiment>
+        <regiment>Inniskilling Dragoons.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Own (Lancaster).</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>Wiltshire.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll and Sutherland Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Delhi, May to September, 1857.</title>
+        <regiment>Carabiniers.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>King's (Liverpool).</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>9th Hodson's Horse.</regiment>
+        <regiment>10th Lancers.</regiment>
+        <regiment>21st Daly's Horse.</regiment>
+        <regiment>22nd Sam Browne's Horse.</regiment>
+        <regiment>25th Cavalry.</regiment>
+        <regiment>Q.O. Corps of Guides,</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>54th Sikhs.</regiment>
+        <regiment>55th Coke's Rifles.</regiment>
+        <regiment>56th Punjab Rifles.</regiment>
+        <regiment>57th Wilde's Rifles.</regiment>
+        <regiment>127th Baluch Light Infantry.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Lucknow.</title>
+        <regiment>Queen's Bays.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>King's Liverpools.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Shropshire Light Infantry.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Sutherland Highlanders.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+        <regiment>9th Hodson's Horse.</regiment>
+        <regiment>10th Hodson's Horse.</regiment>
+        <regiment>11th Probyn's Lancers.</regiment>
+        <regiment>21st Daly's Horse.</regiment>
+        <regiment>22nd Sam Browne's Horse.</regiment>
+        <regiment>25th Cavalry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>14th Sikhs.</regiment>
+        <regiment>16th Lucknow.</regiment>
+        <regiment>32nd Pioneers.</regiment>
+        <regiment>56th Punjabi Rifles.</regiment>
+        <regiment>57th Wilde's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Central India, 1857-58.</title>
+        <regiment>8th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Leinster.</regiment>
+        <regiment>30th Gordon's Horse.</regiment>
+        <regiment>31st Duke of Connaught's Own Lancers.</regiment>
+        <regiment>32nd Lancers.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>44th Merwara Infantry.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>79th Carnatic Infantry.</regiment>
+        <regiment>96th Berar</regiment>
+        <regiment>.</regiment>
+        <regiment>98th Infantry.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>110th Mahratta L.I.</regiment>
+        <regiment>112th Infantry.</regiment>
+        <regiment>113th Infantry.</regiment>
+        <regiment>124th Baluchis.</regiment>
+        <regiment>125th Napier's Rifles.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>China, 1840 (with the Dragon).</title>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>Border Regiment.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>62nd Punjabis.</regiment>
+        <regiment>66th Punjabis.</regiment>
+        <regiment>74th Punjabis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>China (1857-1860).</title>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>10th Jats.</regiment>
+        <regiment>11th Rajputs.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>22nd Punjabis.</regiment>
+        <regiment>27th Punjabis.</regiment>
+        <regiment>105th Mahratta L.I.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Taku Forts (August 12, 1860).</title>
+        <regiment>King's Own Dragoon Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>11th Probyn's Horse.</regiment>
+        <regiment>19th Fane's Horse.</regiment>
+        <regiment>2nd Queen's Own Sappers and Miners.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Pekin (October 12, 1860).</title>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's R.W. Surrey.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Wiltshire.</regiment>
+        <regiment>11th K.E.O. Lancers (Probyn's Horse).</regiment>
+        <regiment>19th Lancers (Fane's Horse).</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>China, 1900.</title>
+        <regiment>15th Cavalry.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>1st K.E.O. Sappers and Min.</regiment>
+        <regiment>2nd Q.O. Sappers and Min.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>6th Jat. Light Infantry.</regiment>
+        <regiment>14th Sikhs.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>34th Pioneers.</regiment>
+        <regiment>57th Wilde's</regiment>
+        <regiment>.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>63rd Light Infantry.</regiment>
+        <regiment>88th Carnatic Infantry.</regiment>
+        <regiment>91st Punjabis.</regiment>
+        <regiment>98th Infantry.</regiment>
+        <regiment>122nd Rajputana Infantry.</regiment>
+        <regiment>130th Baluchis.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Pekin, 1900.</title>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>1st Duke of York's Own Lancers.</regiment>
+        <regiment>7th Rajputs.</regiment>
+        <regiment>51st Sikhs.</regiment>
+        <regiment>24th Punjabis.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Cape of Good Hope, 1806.</title>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Sutherland Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1835.</title>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1846-47.</title>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1851-52-53.</title>
+        <regiment>12th Lancers.</regiment>
+        <regiment>Queen's Royal West Surrey.</regiment>
+        <regiment>Royal Warwick.</regiment>
+        <regiment>Suffolks.</regiment>
+        <regiment>Royal Highlanders.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Highland Light Infantry.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1879.</title>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Own Lancasters.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Own Royal Rifles.</regiment>
+        <regiment>Wiltshires.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Jersey, 1781.</title>
+        <regiment>1st Royal Jersey Light Infantry.</regiment>
+        <regiment>2nd Royal Jersey Light Infantry.</regiment>
+        <regiment>3rd Royal Jersey Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Copenhagen, 1807.</title>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>K.O. Royal Lancaster.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>King's Liverpool.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>New Zealand, 1846-47.</title>
+        <regiment>Northamptons.</regiment>
+        <regiment>Manchesters.</regiment>
+        <regiment>Wiltshires.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>New Zealand, 1860-61.</title>
+        <regiment>Suffolk.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>York and Lancaster.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>New Zealand, 1863-1866.</title>
+        <regiment>Suffolks.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Abyssinia, 1867-68.</title>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>King's Own Lancasters.</regiment>
+        <regiment>Cameronians.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>10th Hodson's Horse.</regiment>
+        <regiment>12th Cavalry.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>21st Punjabis.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>102nd K.E.O. Grenadiers.</regiment>
+        <regiment>103rd Mahratta Light Infantry.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>121st Pioneers.</regiment>
+        <regiment>125th Napier's Rifles.</regiment>
+        <regiment>127th Baluch Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ashantee, 1873.</title>
+        <regiment>23rd (Royal Welsh Fusiliers).</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+        <regiment>West India Regiment.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>British East Africa, 1896-1899, 1901.</title>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>116th Mahrattas.</regiment>
+        <regiment>124th D.C.O. Baluchistan Infantry.</regiment>
+        <regiment>127th P.W.O. Baluch Light Infantry.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Afghanistan, 1878-1880.</title>
+        <regiment>Carabiniers.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>11th Hussars.</regiment>
+        <regiment>15th Hussars.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>King's Liverpool.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Suffolks.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>East Yorkshire.</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>K.O. Scottish Borderers.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>North Lancashire.</regiment>
+        <regiment>Berkshire.</regiment>
+        <regiment>K.O. Yorkshire L.I.</regiment>
+        <regiment>Shropshire L.I.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+        <regiment>1st Skinner's Horse.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>4th Cavalry.</regiment>
+        <regiment>5th Cavalry.</regiment>
+        <regiment>8th Cavalry.</regiment>
+        <regiment>10th Hodson's Horse.</regiment>
+        <regiment>11th Probyn's Lancers.</regiment>
+        <regiment>12th Cavalry.</regiment>
+        <regiment>13th Watson's Horse.</regiment>
+        <regiment>14th Murray's Lancers.</regiment>
+        <regiment>15th Cureton's Lancers.</regiment>
+        <regiment>17th Cavalry.</regiment>
+        <regiment>18th Tiwana Lancers.</regiment>
+        <regiment>19th Fane's Lancers.</regiment>
+        <regiment>21st Daly's Horse.</regiment>
+        <regiment>22nd Sam Browne's Horse.</regiment>
+        <regiment>23rd Cavalry.</regiment>
+        <regiment>25th Cavalry.</regiment>
+        <regiment>26th Light Cavalry.</regiment>
+        <regiment>32nd Lancers.</regiment>
+        <regiment>33rd Light Cavalry.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>35th Scinde Horse.</regiment>
+        <regiment>36th Jacob's Horse.</regiment>
+        <regiment>38th Central India Horse.</regiment>
+        <regiment>39th Central India Horse.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Sappers and Miners.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>2nd Q.O. Light Infantry.</regiment>
+        <regiment>3rd Brahmins.</regiment>
+        <regiment>4th Rajputs.</regiment>
+        <regiment>5th Light Infantry.</regiment>
+        <regiment>6th Light Infantry.</regiment>
+        <regiment>8th Rajputs.</regiment>
+        <regiment>9th Bhopal Infantry.</regiment>
+        <regiment>11th Rajputs.</regiment>
+        <regiment>12th Pioneers.</regiment>
+        <regiment>13th Rajputs.</regiment>
+        <regiment>14th Sikhs.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>16th Rajputs.</regiment>
+        <regiment>17th Loyal Regiment.</regiment>
+        <regiment>19th Punjabis.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>21st Punjabis.</regiment>
+        <regiment>22nd Punjabis.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>24th Punjabis.</regiment>
+        <regiment>25th Punjabis.</regiment>
+        <regiment>26th Punjabis.</regiment>
+        <regiment>27th Punjabis.</regiment>
+        <regiment>28th Punjabis.</regiment>
+        <regiment>29th Punjabis.</regiment>
+        <regiment>30th Punjabis.</regiment>
+        <regiment>31st Punjabis.</regiment>
+        <regiment>32nd Pioneers.</regiment>
+        <regiment>42nd Deoli Infantry.</regiment>
+        <regiment>44th Merwara Infantry.</regiment>
+        <regiment>45th Sikhs.</regiment>
+        <regiment>51st Sikhs.</regiment>
+        <regiment>52nd Sikhs.</regiment>
+        <regiment>53rd Sikhs.</regiment>
+        <regiment>55th Coke's Rifles.</regiment>
+        <regiment>56th Punjab Rifles.</regiment>
+        <regiment>57th Wilde's Rifles.</regiment>
+        <regiment>58th Vaughan's Rifles.</regiment>
+        <regiment>61st Pioneers.</regiment>
+        <regiment>64th Pioneers.</regiment>
+        <regiment>75th Carnatic Infantry.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>90th Punjabis.</regiment>
+        <regiment>101st Grenadiers.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>105th Mahratta L.I.</regiment>
+        <regiment>108th Infantry.</regiment>
+        <regiment>109th Infantry.</regiment>
+        <regiment>110th Mahratta L.I.</regiment>
+        <regiment>113th Infantry.</regiment>
+        <regiment>115th Mahrattas.</regiment>
+        <regiment>119th Multan.</regiment>
+        <regiment>124th Baluchistan.</regiment>
+        <regiment>127th Baluch L.I.</regiment>
+        <regiment>128th Pioneers.</regiment>
+        <regiment>130th Baluchis.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Sirmoor Rifles.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+        <regiment>5th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Ali Masjid.</title>
+        <regiment>10th Hussars.</regiment>
+        <regiment>Loyal North Lancashires.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>K.O. Yorkshire L.I.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+        <regiment>11th Probyn's Lancers.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>6th Light Infantry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>14th Sikhs.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>27th Punjabis.</regiment>
+        <regiment>45th Rattray's Sikhs.</regiment>
+        <regiment>51st Sikhs.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Peiwar Kotal, December 2, 1879.</title>
+        <regiment>King's Liverpool.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>12th Cavalry.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>29th Punjabis.</regiment>
+        <regiment>56th Punjab Rifles.</regiment>
+        <regiment>58th Vaughan's Rifles.</regiment>
+        <regiment>5th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Charasiah, October 6, 1879.</title>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Hampshires.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>12th Cavalry.</regiment>
+        <regiment>14th Murray's Lancers.</regiment>
+        <regiment>25th Cavalry.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>28th Punjabis.</regiment>
+        <regiment>58th Vaughan's Rifles.</regiment>
+        <regiment>5th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Kabul, 1879.</title>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Norfolk.</regiment>
+        <regiment>Hampshires.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>12th Cavalry.</regiment>
+        <regiment>14th Murray's Lancers.</regiment>
+        <regiment>25th Cavalry P.F.F.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>28th Punjabis.</regiment>
+        <regiment>53rd Sikhs.</regiment>
+        <regiment>58th Vaughan's Rifles.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+        <regiment>5th Gurkhas P.F.F.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Kabul, 1879.</title>
+        <regiment>East Lancashires.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>19th Fane's Horse.</regiment>
+        <regiment>21st Daly's Horse.</regiment>
+        <regiment>22nd Sam Browne's Horse.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>19th Punjabis.</regiment>
+        <regiment>25th Punjabis.</regiment>
+        <regiment>52nd Sikhs.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Kandahar, September 1, 1880.</title>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>3rd Sappers and Miners.</regiment>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>23rd Cavalry.</regiment>
+        <regiment>33rd Q.O. Light Cavalry.</regiment>
+        <regiment>34th Poona Horse.</regiment>
+        <regiment>38th Central India Horse.</regiment>
+        <regiment>39th Central India Horse.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>24th Punjabis.</regiment>
+        <regiment>25th Punjabis.</regiment>
+        <regiment>52nd Sikhs.</regiment>
+        <regiment>53rd Sikhs.</regiment>
+        <regiment>101st Grenadiers.</regiment>
+        <regiment>104th Wellesley's Rifles.</regiment>
+        <regiment>119th Multan.</regiment>
+        <regiment>128th Pioneers.</regiment>
+        <regiment>129th Baluchis.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+        <regiment>5th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Chitral, 1895.</title>
+        <regiment>Buffs.</regiment>
+        <regiment>Bedfords.</regiment>
+        <regiment>K.O. Scottish Borderers.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>9th Hodson's Horse.</regiment>
+        <regiment>11th Probyn's Lancers.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>13th Rajputs.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>23rd Pioneers.</regiment>
+        <regiment>25th Punjabis.</regiment>
+        <regiment>29th Punjabis.</regiment>
+        <regiment>30th Punjabis.</regiment>
+        <regiment>32nd Pioneers.</regiment>
+        <regiment>34th Pioneers.</regiment>
+        <regiment>37th Dogras.</regiment>
+        <regiment>54th Sikhs.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Punjab Frontier.</title>
+        <regiment>3rd Skinner's Horse.</regiment>
+        <regiment>6th K.E. Cavalry.</regiment>
+        <regiment>9th Hodson's Horse.</regiment>
+        <regiment>11th Probyn's Lancers.</regiment>
+        <regiment>13th Watson's Horse.</regiment>
+        <regiment>18th Tiwana Lancers.</regiment>
+        <regiment>38th Central India Horse.</regiment>
+        <regiment>39th Central India Horse.</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>12th Khelat-i-Ghilzai.</regiment>
+        <regiment>15th Ludhiana Sikhs.</regiment>
+        <regiment>20th Brownlow's Punjabis.</regiment>
+        <regiment>22nd Punjabis.</regiment>
+        <regiment>24th Punjabis.</regiment>
+        <regiment>30th Punjabis.</regiment>
+        <regiment>31st Punjabis.</regiment>
+        <regiment>34th Pioneers.</regiment>
+        <regiment>35th Sikhs.</regiment>
+        <regiment>36th Sikhs.</regiment>
+        <regiment>37th Dogras.</regiment>
+        <regiment>38th Dogras.</regiment>
+        <regiment>39th Gharwal Rifles.</regiment>
+        <regiment>45th Rattray's Sikhs.</regiment>
+        <regiment>53rd Sikhs.</regiment>
+        <regiment>56th Punjabi Rifles.</regiment>
+        <regiment>81st Pioneers.</regiment>
+        <regiment>128th Pioneers.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+        <regiment>5th Gurkhas.</regiment>
+        <regiment>9th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Malakand, 1897.</title>
+        <regiment>11th K.E.O. Lancers (Probyn's Horse).</regiment>
+        <regiment>Q.O. Corps of Guides.</regiment>
+        <regiment>24th Punjabis.</regiment>
+        <regiment>31st Punjabis.</regiment>
+        <regiment>35th Sikhs.</regiment>
+        <regiment>38th Dogras.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Tirah, 1897-98</title>
+        <regiment>Queen's.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>K.O. Scottish Borderers.</regiment>
+        <regiment>Sherwood Foresters.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>18th Tiwana Lancers.</regiment>
+        <regiment>1st P.W.O. Sappers and Miners.</regiment>
+        <regiment>15th Sikhs.</regiment>
+        <regiment>30th Punjabis.</regiment>
+        <regiment>36th Sikhs.</regiment>
+        <regiment>53rd Sikhs.</regiment>
+        <regiment>56th Rifles.</regiment>
+        <regiment>128th Pioneers.</regiment>
+        <regiment>1st Gurkhas.</regiment>
+        <regiment>2nd Gurkhas.</regiment>
+        <regiment>3rd Gurkhas.</regiment>
+        <regiment>4th Gurkhas.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1899-1902.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>King's Dragoon Guards.</regiment>
+        <regiment>Queen's Bays.</regiment>
+        <regiment>3rd Dragoon Guards.</regiment>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>7th Dragoon Guards.</regiment>
+        <regiment>Royal Dragoons.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>3rd Hussars.</regiment>
+        <regiment>5th Lancers.</regiment>
+        <regiment>Inniskillings.</regiment>
+        <regiment>7th Hussars.</regiment>
+        <regiment>8th Hussars.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>13th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>17th Lancers.</regiment>
+        <regiment>18th Hussars.</regiment>
+        <regiment>19th Hussars.</regiment>
+        <regiment>20th Hussars.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Royal Scots.</regiment>
+        <regiment>Queen's.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>King's Own.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Royal Warwicks.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>King's Liverpools.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Suffolks.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>West Yorks.</regiment>
+        <regiment>East Yorks.</regiment>
+        <regiment>Bedfordshire.</regiment>
+        <regiment>Leicesters.</regiment>
+        <regiment>Royal Irish.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Cheshire.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>South Wales Borderers.</regiment>
+        <regiment>K.O. Scottish Borderers.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>Royal Inniskilling Fusiliers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Worcesters.</regiment>
+        <regiment>East Lancashire.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Cornwall Light Infantry.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Royal Sussex.</regiment>
+        <regiment>Hampshires.</regiment>
+        <regiment>South Staffords.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>East Lancashires.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Derbyshire.</regiment>
+        <regiment>Loyal North Lancashire.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>Royal Berkshires.</regiment>
+        <regiment>Royal West Kent.</regiment>
+        <regiment>K.O. Yorkshire L.I.</regiment>
+        <regiment>Shropshire L.I.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Wiltshire.</regiment>
+        <regiment>North Staffords.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Durham L.I.</regiment>
+        <regiment>Highland L.I.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Cameron Highlanders.</regiment>
+        <regiment>Royal Irish Rifles.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Argyll and Sutherland Highlanders.</regiment>
+        <regiment>Leinster.</regiment>
+        <regiment>Royal Munster Fusiliers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1899-1902.</title>
+        <regiment>Ayrshire.</regiment>
+        <regiment>Berks.</regiment>
+        <regiment>Buckinghamshire.</regiment>
+        <regiment>Cheshire.</regiment>
+        <regiment>Denbighshire.</regiment>
+        <regiment>Derbyshire.</regiment>
+        <regiment>1st Royal Devon.</regiment>
+        <regiment>Royal North Devon.</regiment>
+        <regiment>Dorset.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Fife.</regiment>
+        <regiment>Gloucestershire.</regiment>
+        <regiment>Hampshire.</regiment>
+        <regiment>Herts.</regiment>
+        <regiment>Royal East Kent.</regiment>
+        <regiment>West Kent.</regiment>
+        <regiment>Lanarkshire.</regiment>
+        <regiment>Royal Lanarkshire.</regiment>
+        <regiment>Lancashire Hussars.</regiment>
+        <regiment>Duke of Lancaster's.</regiment>
+        <regiment>Leicestershire.</regiment>
+        <regiment>City of London.</regiment>
+        <regiment>1st County of London.</regiment>
+        <regiment>2nd County of London.</regiment>
+        <regiment>3rd County of London.</regiment>
+        <regiment>Lothian and Border Horse.</regiment>
+        <regiment>Lovat's Scouts.</regiment>
+        <regiment>Montgomeryshire.</regiment>
+        <regiment>Northumberland.</regiment>
+        <regiment>Nottingham Rangers.</regiment>
+        <regiment>South Nottingham Hussars.</regiment>
+        <regiment>Oxford.</regiment>
+        <regiment>Pembroke.</regiment>
+        <regiment>Scottish Horse.</regiment>
+        <regiment>Shropshire.</regiment>
+        <regiment>North Somerset.</regiment>
+        <regiment>West Somerset.</regiment>
+        <regiment>Suffolk.</regiment>
+        <regiment>Warwickshire.</regiment>
+        <regiment>Westmorland and Cumberland.</regiment>
+        <regiment>Worcestershire.</regiment>
+        <regiment>Yorkshire Dragoons.</regiment>
+        <regiment>Yorkshire Hussars.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>South Africa, 1899-1902.</title>
+        <regiment>3rd Royal Scots.</regiment>
+        <regiment>3rd Queen's (West Surrey).</regiment>
+        <regiment>3rd Buffs.</regiment>
+        <regiment>3rd King's Own (Lancaster).</regiment>
+        <regiment>3rd Royal Warwicks.</regiment>
+        <regiment>4th Royal Warwicks.</regiment>
+        <regiment>5th Royal Fusiliers.</regiment>
+        <regiment>4th King's Liverpool.</regiment>
+        <regiment>3rd Norfolks.</regiment>
+        <regiment>4th Norfolks.</regiment>
+        <regiment>3rd Lincolns.</regiment>
+        <regiment>4th West Yorkshire.</regiment>
+        <regiment>3rd East Yorkshire.</regiment>
+        <regiment>4th Bedfords.</regiment>
+        <regiment>3rd Leicester.</regiment>
+        <regiment>3rd Yorkshire.</regiment>
+        <regiment>3rd Lancashire Fusiliers.</regiment>
+        <regiment>4th Lancashire Fusiliers.</regiment>
+        <regiment>3rd Cheshire.</regiment>
+        <regiment>3rd South Wales Borderers.</regiment>
+        <regiment>3rd Scottish Borderers.</regiment>
+        <regiment>3rd Scottish Rifles.</regiment>
+        <regiment>4th Scottish Rifles.</regiment>
+        <regiment>6th Worcester.</regiment>
+        <regiment>3rd East Lancashire.</regiment>
+        <regiment>3rd East Surrey.</regiment>
+        <regiment>3rd West Riding.</regiment>
+        <regiment>3rd Royal Sussex.</regiment>
+        <regiment>3rd South Stafford.</regiment>
+        <regiment>3rd South Lancashire.</regiment>
+        <regiment>3rd Welsh.</regiment>
+        <regiment>3rd Essex.</regiment>
+        <regiment>4th Derbyshire.</regiment>
+        <regiment>3rd Loyal North Lancashire.</regiment>
+        <regiment>3rd Northampton.</regiment>
+        <regiment>5th Middlesex.</regiment>
+        <regiment>6th Middlesex.</regiment>
+        <regiment>3rd Manchester.</regiment>
+        <regiment>4th Manchester.</regiment>
+        <regiment>3rd North Stafford.</regiment>
+        <regiment>3rd York and Lancaster.</regiment>
+        <regiment>3rd Durham L.I.</regiment>
+        <regiment>3rd Highland L.I.</regiment>
+        <regiment>5th Royal Irish Rifles.</regiment>
+        <regiment>3rd Argyll Highlanders.</regiment>
+        <regiment>4th Argyll Highlanders.</regiment>
+        <regiment>4th Royal Munster Fusiliers.</regiment>
+        <regiment>4th Royal Dublin Fusiliers.</regiment>
+        <regiment>5th Royal Dublin Fusiliers.</regiment>
+        <regiment>5th Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Modder River, November 28, 1899.</title>
+        <regiment>9th Lancers.</regiment>
+        <regiment>Grenadier Guards.</regiment>
+        <regiment>Coldstream Guards.</regiment>
+        <regiment>Scots Guards.</regiment>
+        <regiment>Northumberland Fusiliers.</regiment>
+        <regiment>Northamptons.</regiment>
+        <regiment>K.O. Yorkshire L.I.</regiment>
+        <regiment>Highland Light Infantry</regiment>
+        <regiment>Argyll and Sutherland Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Relief of Kimberley, February 15, 1900.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Yorkshire.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Oxford Light Infantry.</regiment>
+        <regiment>Essex.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Paardeburg, February 18 to 27, 1900.</title>
+        <regiment>1st Life Guards.</regiment>
+        <regiment>2nd Life Guards.</regiment>
+        <regiment>Royal Horse Guards.</regiment>
+        <regiment>Carabiniers.</regiment>
+        <regiment>Scots Greys.</regiment>
+        <regiment>9th Lancers.</regiment>
+        <regiment>10th Hussars.</regiment>
+        <regiment>12th Lancers.</regiment>
+        <regiment>16th Lancers.</regiment>
+        <regiment>Buffs.</regiment>
+        <regiment>Norfolks.</regiment>
+        <regiment>Lincolns.</regiment>
+        <regiment>Yorkshires.</regiment>
+        <regiment>K.O. Scot. Borderers.</regiment>
+        <regiment>Gloucesters.</regiment>
+        <regiment>Cornwall L.I.</regiment>
+        <regiment>West Riding.</regiment>
+        <regiment>Hampshires.</regiment>
+        <regiment>Welsh.</regiment>
+        <regiment>Black Watch.</regiment>
+        <regiment>Oxford L.I.</regiment>
+        <regiment>Essex.</regiment>
+        <regiment>Shropshire L.I.</regiment>
+        <regiment>Seaforth Highlanders.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Argyll and Sutherland Highlanders.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>Relief of Ladysmith.</title>
+        <regiment>13th Hussars.</regiment>
+        <regiment>14th Hussars.</regiment>
+        <regiment>The Queens.</regiment>
+        <regiment>The King's Own.</regiment>
+        <regiment>Royal Fusiliers.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Somerset Light Infantry.</regiment>
+        <regiment>West Yorkshire.</regiment>
+        <regiment>Lancashire Fusiliers.</regiment>
+        <regiment>Royal Scots Fusiliers.</regiment>
+        <regiment>Royal Welsh Fusiliers.</regiment>
+        <regiment>Scottish Rifles.</regiment>
+        <regiment>Inniskilling Fusiliers.</regiment>
+        <regiment>East Surrey.</regiment>
+        <regiment>Border.</regiment>
+        <regiment>Dorsets.</regiment>
+        <regiment>South Lancashire.</regiment>
+        <regiment>Middlesex.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>York and Lancaster.</regiment>
+        <regiment>Durham Light Infantry.</regiment>
+        <regiment>Royal Irish Fusiliers.</regiment>
+        <regiment>Connaught Rangers.</regiment>
+        <regiment>Royal Dublin Fusiliers.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <entitlement>
+        <title>The Defence of Ladysmith, October 29, 1899, to February 27, 1900.</title>
+        <regiment>5th Dragoon Guards.</regiment>
+        <regiment>5th Lancers.</regiment>
+        <regiment>18th Hussars.</regiment>
+        <regiment>19th Hussars.</regiment>
+        <regiment>King's Liverpool.</regiment>
+        <regiment>Devons.</regiment>
+        <regiment>Leicester.</regiment>
+        <regiment>Gloucester.</regiment>
+        <regiment>King's Royal Rifles.</regiment>
+        <regiment>Manchester.</regiment>
+        <regiment>Gordon Highlanders.</regiment>
+        <regiment>Rifle Brigade.</regiment>
+    </entitlement>
+    <casualties>
+        <list>
+            <engagement>Casualties in Action at Tangier, October 27, 1680.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of and Subsequent Operations at Gibraltar, 1704-05.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Defence of Gibraltar, 1779-1783.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of Namur, 1695.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Schellenberg, June 21, 1704.</engagement>
+            <regiment ko="4" wo="10" km="17" wm="61">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at Blenheim.</engagement>
+            <regiment ko="-" wo="3" km="-" wm="-">Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Ramillies.</engagement>
+            <regiment ko="" wo="" km="" wm="">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Oudenarde, June 30, 1708.</engagement>
+            <regiment ko="" wo="" km="" wm="">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Malplaquet, September 11, 1709.</engagement>
+            <regiment ko="1" wo="-" km="-" wm="-">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Dettingen, June 27, 1743.</engagement>
+            <regiment ko="-" wo="1" km="4" wm="14">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at Minden.</engagement>
+            <regiment ko="3" wo="12" km="43" wm="188">37th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at Warburg.</engagement>
+            <regiment ko="-" wo="2" km="10" wm="20">Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at Wilhelmstahl.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Louisburg, July 25, 1758.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Operations at Quebec, 1759.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Operations at Monte Video.</engagement>
+        </list>
+        <list>
+            <engagement>Losses at Niagara.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Bladensburg.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Plassey.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Condore.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties incurred during the Operations at Masulipatam, ending with the Action of April 8, 1759.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Wandewash.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Pondicherry, 1778.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Pondicherry, 1793.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Buxar.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Cuddalore.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of Bangalore, March, 1791.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Seringapatam, 1792.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Betourah.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Seedaseer.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Seringapatam in May, 1799.</engagement>
+        </list>
+        <list>
+            <engagement>Present at Lincelles.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Lincelles, August 18, 1793.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Villers-en-Couches.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Beaumont, April 26, 1794.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Willems, May 10, 1794.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Tournay, May 22, 1794.</engagement>
+            <regiment ko="-" wo="3" km="1" wm="30">37th Hampsh.</regiment>
+        </list>
+        <list>
+            <engagement>Casualties during Expedition to Guadeloupe, 1759.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Expedition to Havana, from Date of Landing to Capitulation on August 13, 1762.</engagement>
+        </list>
+        <list>
+            <engagement>Distribution of Prize-Money for the Capture of Havana.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of the Island of St. Lucia in 1778.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of Surinam, 1804.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of Martinique, 1809.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of Guadeloupe, 1810.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties of the 90th and 92nd at Mandora.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Three Principal Engagements in Egypt.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Tel-el-Kebir, September 12, 1882.</engagement>
+        </list>
+        <list>
+            <engagement>Turkish Decorations bestowed for the Campaign of 1882.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Abu Klea.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Kirbekan.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Tofrek.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Khartoum.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Laswarree amongst Regiments still borne on the Army List, November 1, 1803.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Roleia.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Vimiera.</engagement>
+        </list>
+        <list>
+            <engagement>Cavalry Division: Lord Paget.</engagement>
+        </list>
+        <list>
+            <engagement>First Division: Sir David Baird.</engagement>
+        </list>
+        <list>
+            <engagement>Second Division: Sir James Hope.</engagement>
+        </list>
+        <list>
+            <engagement>Third Division: Lieutenant-General Fraser.</engagement>
+        </list>
+        <list>
+            <engagement>Reserve Division: Major-General E. Paget.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Corunna.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Passage of the Douro, May 10, 11, and 12, 1809.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Talavera, July 27 and 28, 1809.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Busaco, September 27, 1810.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Barrosa, March 4, 1811.</engagement>
+            <regiment ko="-" wo="4" km="10" wm="30">67th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Fuentes d'Onor, May 3-5, 1811.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Albuera.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Almaraz, May 19, 1811.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties of the Action of Arroyos dos Molinos, October 28, 1811.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Tarifa, December, 1811.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Ciudad Rodrigo.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of Badajoz.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Salamanca, July 22, 1812.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Vittoria, June 21, 1813.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Actions in the Pyrenees, July 25 to August 2, 1813.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of San Sebastian, July and August, 1813.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of the Nivelle, November 13, 1813.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Crossing of the Nive, December 9 to 13, 1813.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Orthes, February 27, 1814.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Toulouse, April 10, 1814.</engagement>
+        </list>
+        <list>
+            <engagement>Roll of the Principal Actions during the Peninsular War.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Waterloo Campaign.</engagement>
+        </list>
+        <list>
+            <engagement>The First Regimental Recipients of the Bath.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action at Kirkee, November 5, 1817.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action at Poona, November 17, 1817.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Seetabuldee.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Engagements in the Neighbourhood of Nagpore, November 16-24, 1817.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Maheidpore, December 22, 1817.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Corygaum, January 1, 1818.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of Nowah, January, 1819.</engagement>
+        </list>
+        <list>
+            <engagement>Distribution of Prize-Money.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Beni Boo Alli, 1809.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of the Island of Bourbon, 1810.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Attack on the Island in 1809.</engagement>
+        </list>
+        <list>
+            <engagement>Honourable East India Company's Cruisers.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Expedition to Java, 1811.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Expedition to the Persian Gulf in 1819.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Beni Boo Alli.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Reshire, December 7, 1856.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties of the Arracan Field Force.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in Action during the Operations in Burmah, 1824.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Mandalay.</engagement>
+            <regiment ko="-" wo="-" km="-" wm="-">Hampshires</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Storming of Ghuznee, July 28, 1839.</engagement>
+        </list>
+        <list>
+            <engagement>Strength of British Troops.</engagement>
+        </list>
+        <list>
+            <engagement>Strength of Native Troops.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Storming of Khelat.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Ghuznee, 1842.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Meeanee.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Hyderabad.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Maharajpore, December 29, 1843.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Punniar.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Moodkee.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Ferozeshah.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Aliwal.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Sobraon.</engagement>
+        </list>
+        <list>
+            <engagement>Distribution of the Army of the Punjab, 1849.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Chillianwallah, January 13, 1849.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Multan, January 22, 1849.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Goojerat.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of the Alma.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Balaclava.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Inkerman.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Campaign in the Crimea (including the Battles of Alma, Balaclava, and Inkerman).</engagement>
+        </list>
+        <list>
+            <engagement>Decorations bestowed by our Allies during the Crimean War.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of Delhi, May to September, 1857.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Defence of Lucknow.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Relief of Lucknow by Havelock.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Relief of Lucknow by Sir Colin Campbell, November, 1857.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Capture of Lucknow, March, 1858.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in Central India.</engagement>
+        </list>
+        <list>
+            <engagement>Victoria Crosses for the Mutiny.</engagement>
+        </list>
+        <list>
+            <engagement>List of Casualties.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Operations in China, 1858-1861.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Storming of the Taku Forts.</engagement>
+            <regiment ko="-" wo="8" km="6" wm="63">67th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Other Casualties in Action during the March to Pekin.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of the Cape of Good Hope in 1795.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Capture of the Cape of Good Hope in 1806.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in South Africa, 1877-1879.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in Jersey, January 6, 1781.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties on June 1, 1794.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Copenhagen, 1801.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Expedition to Copenhagen, 1807.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in New Zealand, 1864.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in Abyssinia, 1867-68.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in Ashantee War, 1873.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during the Operations in East Africa.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of the Peiwar Kotal, December 2, 1879.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action of Charasiah, October 6, 1879.</engagement>
+            <regiment ko="-" wo="-" km="-" wm="-">67th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties in the Engagements near Kabul, December 11 to 23, 1879.</engagement>
+            <regiment ko="-" wo="-" km="1" wm="11">67th Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Maiwand, July 27, 1880.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Sortie from Kandahar, August 16, 1880.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Battle of Kandahar, September 1, 1880.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Swat, Mohmand, and Kuram Valley Expeditions in 1897.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties in the Tirah Expedition.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Action on the Modder River.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties during French's Relief of Kimberley.</engagement>
+            <regiment ko="-" wo="-" km="1" wm="1">Hampshires</regiment>
+        </list>
+        <list>
+            <engagement>Casualties during the Operations at Paardeburg, February 18 to 27, 1900.</engagement>
+            <regiment ko="-" wo="-" km="1" wm="4">Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Casualties at the Relief of Ladysmith.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Defence of Ladysmith.</engagement>
+        </list>
+        <list>
+            <engagement>Decorations for the War in South Africa, 1899-1902.</engagement>
+            <regiment ko="-" wo="1" km="-" wm="3">Hampshire</regiment>
+        </list>
+        <list>
+            <engagement>Total Casualties during the War in South Africa, 1899-1902.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Siege and Assault of Douai.</engagement>
+        </list>
+        <list>
+            <engagement>Tanjore, 1771.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at El Teb, February 24, 1884.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at Tamai, March 14, 1884.</engagement>
+        </list>
+        <list>
+            <engagement>Casualties at the Defence of Kimberley.</engagement>
+        </list>
+    </casualties>
 </doc>
