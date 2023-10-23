@@ -20,7 +20,7 @@ hr.chap {
 .date {
 	font-weight: bold;
 }
-p:has(span.date) {
+p:has(span.date), p.date {
 	background: lightgrey;
 	text-align: right;
 }
@@ -34,7 +34,7 @@ span.ref {
 	color: blue;
 }
 .vessel {
-	#color: Navy;
+	color: Navy;
 }
 .polity {
 	#background: gold;
