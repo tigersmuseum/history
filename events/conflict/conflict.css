@@ -9,3 +9,7 @@ div {
 .battleHonour {
   font-style: italic;
 }
+
+sup {
+	font-size: small;
+}
