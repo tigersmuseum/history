@@ -1,8 +1,6 @@
 # Places
 
-A *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations.
-
-There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. Here, we'll try not to get bogged down too soon.
+A *place* is not always the same as *location*. For example, an important place to a military unit is its headquarters (HQ). Although it moves from time to time, there's really just one HQ for each unit. We can think about it as one place associated with many locations. There are philosophical fun and games to be had in considering [the concept of place](https://www.oxfordbibliographies.com/display/document/obo-9780199874002/obo-9780199874002-0159.xml) and the various relationships places might have to each other. Here, we'll try not to get bogged down too soon.
 
 Places are mentioned in historical texts. A simple first step is to consider the mention of a place as a *label* that names or describes it. See, for example, the list of [WW1 places](../lists/ww1-places.txt) in this project. This might be all we need in some circumstances, or it might be the first rung on the ladder to a more esoteric model of place.
 
@@ -26,7 +24,7 @@ To collect locations from [Google Earth](https://earth.google.com/):
 * Search for places names. Click *Add to project* button at the bottom of the pop-up description pane for any that you want to keep.
 * You can use the *Add placemark* icon at the bottom-left of the map to add any places that aren't in the search index.
 * When you're happy, you can open the *Projects* pane and select *Export as KML file*.
-* Later, you can pick up where you left off by using the *Import KML file from computer* option and adding new placemarks as above.
+* Later, you can pick up where you left off by using the *Import KML file from computer* option and add new placemarks as above.
 
 ### Locations from GeoNames
 
