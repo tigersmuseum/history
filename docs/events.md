@@ -6,11 +6,11 @@ We can consider events at various scales, with 'larger' events composed of 'smal
 
 Events have labels that name or describe them, and that can be used in explanation.  For example,
 
-  The assassination of Archduke Franz Ferdinand started World War I.
+	The assassination of Archduke Franz Ferdinand started World War I.
 
 Whether this explanation is correct is arguable, and the answer might be different in different circumstances. For example, we might prefer
 
-  The assassination of Archduke Franz Ferdinand prompted the Austrian ultimatum to Serbia.
+	The assassination of Archduke Franz Ferdinand prompted the Austrian ultimatum to Serbia.
 
 as part of a much longer chain of cause and effect leading to World War I.
 
