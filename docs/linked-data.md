@@ -45,3 +45,9 @@ Human readable - RDFa.
 
 We should be able to express information as text and diagrams. If text is HTML and diagrams are SVG, then we can use [RDFa](https://www.w3.org/TR/rdfa-primer/) semantic mark-up.
 
+## Date and Time
+See the [OWL-Time](https://www.w3.org/TR/owl-time/) ontology.
+
+## Entities and Relationships
+
+See the [Information Exchange Standard (IES4)] (https://github.com/dstl/IES4/blob/master/ies.md)
