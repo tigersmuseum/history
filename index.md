@@ -15,4 +15,4 @@ Below are links to examples and further details. The *View on GitHub* button, in
 
 - **[Regimental Timeline](examples/rhants.svg)**, overlaid with dots representing battle honours and VC's derived from a [list of campaigns](events/rhants/battles.xhtml) and a [diary of events](events/rhants/eventdiary.xhtml).
 
-- **[Battalion timelines in World War I](examples/ww1.svg)**.
+- **[Battalion timelines in World War I](examples/ww1.svg)**. This takes the [diary of events](events/rhants/eventdiary.xhtml) and links each event to the next one that mentions the same unit. The result is timelines that interlink at major engagements (such as Gallipoli, Yprese and the Somme) where more than one Hampshire Regiment battalion was involved.
