@@ -14,3 +14,5 @@ Below are links to examples and further details. The *View on GitHub* button, in
 - **[Zeppelin raids in 1915](examples/zeppelin.svg)**. These are taken from *[A Concise Chronicle of Events of The Great War](events/ww1/rowe.xhtml)*, by R. P. P. Rowe. The red dots are on days that a raid took place, and they link to the relevant line of the document.
 
 - **[Regimental Timeline](examples/rhants.svg)**, overlaid with dots representing battle honours and VC's derived from a [list of campaigns](events/rhants/battles.xhtml) and a [diary of events](events/rhants/eventdiary.xhtml).
+
+- **[Battalion timelines in World War I](examples/ww1.svg)**.
