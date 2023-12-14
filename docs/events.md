@@ -8,7 +8,7 @@ Events have labels that name or describe them, and that can be used in explanati
 
 	The assassination of Archduke Franz Ferdinand started World War I.
 
-Whether this explanation is correct is arguable, and the answer might be different in different circumstances. For example, we might prefer
+Whether this explanation is correct is arguable, and the answer might be different in different circumstances. Instead, we might prefer
 
 	The assassination of Archduke Franz Ferdinand prompted the Austrian ultimatum to Serbia.
 
