@@ -27,8 +27,16 @@ p:has(span.date), p.date {
 span.ref {
 	color:lightgrey;
 }
+.op {
+	text-decoration: underline;
+}
+
+/*
+
+Below are helpful for debugging:
+
 .notation {
-	#color: red;
+	color: red;
 }
 .person {
 	color: blue;
@@ -37,12 +45,14 @@ span.ref {
 	color: Navy;
 }
 .polity {
-	#background: gold;
-}
-.op {
-	text-decoration: underline;
+	background: gold;
 }
 .role {
 	color: green
 }
+
+*/
+
+.vessel {
+	color: Navy;
 }
