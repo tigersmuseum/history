@@ -17,4 +17,4 @@ Below are links to examples and further details. The *View on GitHub* button, in
 
 - **[Battalion timelines in World War I](examples/ww1.svg)**. This takes the [diary of events](events/rhants/eventdiary.xhtml) and creates a diagram linking events that mention the same unit. The resulting timelines merge at major engagements (such as Gallipoli, Ypres and the Somme) where more than one Hampshire Regiment battalion was involved.
 
-- **[Battalion timelines in World War II](examples/ww2-top.svg)**. As above, this takes the [diary of events](events/rhants/eventdiary.xhtml) and creates timelines; but this the diagram depicts the campaigns the regiment took part in, and these in turn link to the battalion timelines for each campaign.
+- **[Battalion timelines in World War II](examples/ww2-top.svg)**. As above, this takes the [diary of events](events/rhants/eventdiary.xhtml) and creates timelines; but this time the diagram depicts the campaigns the regiment took part in, and these in turn link to the battalion timelines for each campaign.
