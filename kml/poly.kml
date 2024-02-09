@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[Testing...]]></name>
+    <Style id="yellowLineGreenPoly">
+      <LineStyle>
+        <color>7f00ffff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+<Placemark> 
+ <LineString>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<extrude>1</extrude>
+  <coordinates>
+   2.738726, 50.363053, 0,
+   3.18851, 50.368493, 0,
+   2.744857, 50.183268, 0,
+   3.192951, 50.188687, 0
+  </coordinates>
+ </LineString>
+</Placemark>
+</Document>
+</kml>
