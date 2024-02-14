@@ -15,7 +15,7 @@
 	</target>
 
 	<target name="map overlay" description="Overlaying data on a WW1 British trench map">
-		<xslt in="../examples/51b-data.xml" out="output/51b.svg" style="../xsl/example-tmap.xsl" force="yes"/>
+		<xslt in="../examples/51b-data.xml" out="output/51b.svg" style="../xsl/maps/example-tmap.xsl" force="yes"/>
 	</target>
 	
 </project>
