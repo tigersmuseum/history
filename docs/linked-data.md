@@ -50,4 +50,4 @@ See the [OWL-Time](https://www.w3.org/TR/owl-time/) ontology.
 
 ## Entities and Relationships
 
-See the [Information Exchange Standard (IES4)] (https://github.com/dstl/IES4/blob/master/ies.md)
+See the [Information Exchange Standard (IES4)](https://github.com/dstl/IES4/blob/master/ies.md)
