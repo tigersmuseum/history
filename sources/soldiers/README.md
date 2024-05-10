@@ -4,11 +4,11 @@ These are the public sources used to create a [Soldiers](https://github.com/tige
 
 ## Commonwealth War Graves Commission (CWGC)
 
-You can download results from the [Find War Dead](https://www.cwgc.org/find-records/find-war-dead/) tool as a CSV file. The **Id** field is CWGC's unique casualty identifier. Appending the casualty identifier to the URL:
+You can download results from the [Find War Dead](https://www.cwgc.org/find-records/find-war-dead/) tool as a CSV file. The **Id** field is CWGC's unique casualty identifier. You can append the casualty identifier to the URL:
 
   https://www.cwgc.org/find-records/find-war-dead/casualty-details/
   
-creates a URL pointing to the results page for the casualty. We use this both as a web link in a HTML report, and as a URI to represent the CWGC record for the soldier.
+to create a URL pointing to the results page for the casualty. We use this both as a web link in a HTML report, and as a URI to represent the CWGC record for the soldier.
 
 ## The National Archive
 
