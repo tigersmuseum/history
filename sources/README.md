@@ -1,5 +1,5 @@
 # Sources
 
-## The National Archive
+Links to source material...
 
-* [Hospital Admission and Discharge registers](hospital-books.md)
+* [Military Records](soldiers)
