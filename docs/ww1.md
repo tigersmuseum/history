@@ -4,8 +4,8 @@
 
 This site hosts two chronologies of the war:
 
-* [Rowe, R P P. A Concise Chronicle of Events of the Great War.](https://tigersmuseum.github.io/history/events/ww1/rowe.xhtml)
-* [Principle Events 1914-1918, compiled by The Historical Section of the Committee of Imperial Defence.](https://tigersmuseum.github.io/history/events/ww1/events-1914-15.xhtml)
+* Rowe, R P P. _[A Concise Chronicle of Events of the Great War.](https://tigersmuseum.github.io/history/events/ww1/rowe.xhtml)_
+* _[Principle Events 1914-1918](https://tigersmuseum.github.io/history/events/ww1/events-1914-15.xhtml)_, compiled by The Historical Section of the Committee of Imperial Defence.
 
 These are XHTML documents, which means they are valid XML, so are readily processed in software. This "machine readability" is further aided by use of [semantic markup](https://en.wikipedia.org/wiki/Semantic_HTML). Currently, the date of each entry is easily recovered, and also some of the entities. The aim is to improve and extend the semantic markup over time in the light of lessons learned from trying to extract information from these chronologies.
 
