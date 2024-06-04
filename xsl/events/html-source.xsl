@@ -21,9 +21,11 @@
 
 <xsl:template match="html:p">
 <xsl:variable name="id"><xsl:call-template name="getId"/></xsl:variable>
-<event uri="{concat($source, '#', $id)}" date="{../html:p[1]//@content}">
+<xsl:variable name="date" select="../html:p[1]//@content"/>
+<event source="{preceding::html:title[1]}" uri="{concat($source, '#', $id)}" date="{$date}" fm="{$date}" to="{$date}">
 	<text><xsl:apply-templates select="." mode="copy"/></text>
 	<xsl:apply-templates select="html:span"/>
+	<xsl:apply-templates select="html:i/html:span"/>
 </event>
 </xsl:template>
 
