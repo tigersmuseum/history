@@ -29,16 +29,16 @@
 </event>
 </xsl:template>
 
-
 <xsl:template match="html:span">
 <xsl:if test="not(preceding-sibling::html:span[. = current()])">
-	<xsl:variable name="entity">
-		<xsl:choose>
-			<xsl:when test="@content"><xsl:value-of select="@content"/></xsl:when>
-			<xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
-		</xsl:choose>
-	</xsl:variable>
-	<entity type="{@class}"><xsl:value-of select="$entity"/></entity>
+	<xsl:choose>
+		<xsl:when test="@content">
+			<entity type="{@class}" surface="{normalize-space(.)}"><xsl:value-of select="@content"/></entity>
+		</xsl:when>
+		<xsl:otherwise>
+			<entity type="{@class}"><xsl:value-of select="normalize-space(.)"/></entity>
+		</xsl:otherwise>
+	</xsl:choose>
 </xsl:if>
 </xsl:template>
 
