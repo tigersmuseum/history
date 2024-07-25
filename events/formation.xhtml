@@ -15,120 +15,151 @@
 </head>
 <body>
 
-<article about="#1Bn" rel="skos:broader" resource="#regt">
-<p about="#1Bn">
-	<span property="skos:prefLabel">1<sup>st</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="dbp:11th_Security_Force_Assistance_Brigade" rel="ies:isPartof">11<sup>th</sup> Brigade</span> 
+<div>
+	<p about="#regt" typeof="skos:Concept" rev="skos:broader">
+		<span about="#hants" property="skos:prefLabel">Hampshire Regiment</span>:
+		<ul about="#hants" rev="ies:partOf">
+			<li><span about="#1Bn" property="skos:prefLabel">1<sup>st</sup> Battalion</span></li>
+			<li><span about="#2Bn" property="skos:prefLabel">2<sup>nd</sup> Battalion</span></li>
+		</ul>
+	</p>
+</div>
+
+<div>
+	<p about="#army" typeof="skos:Concept" rev="skos:broader">
+		<span>Armies</span>:
+		<span about="dbp:Second_Army_(United_Kingdom)" property="skos:prefLabel">Second Army</span>,
+		<span about="dbp:Third_Army_(United_Kingdom)" property="skos:prefLabel">Third Army</span>.
+	</p>
+</div>
+
+<div>
+	<p about="#corps" typeof="skos:Concept" rev="skos:broader">
+		<span>Corps</span>:
+	</p>
+</div>
+
+<div>
+	<p about="#division" typeof="skos:Concept" rev="skos:broader">
+		<span>Divisions</span>:
+		<span about="#4Div" property="skos:prefLabel">4<sup>th</sup> Division</span>,
+		<span about="dbp:29th_Division_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Division</span>,
+		<span about="#39Div" property="skos:prefLabel">39<sup>th</sup> Division</span>.
+	</p>
+</div>
+
+<article>
+<p class="claim" typeof="ies:State" about="#1bn11bde" rel="ies:stateOf" resource="#1Bn">
+	<span class="unit">1<sup>st</sup> Battalion</span>, Hampshire Regiment, was assigned to <span class="unit" resource="dbp:11th_Security_Force_Assistance_Brigade" rel="ies:isPartof">11<sup>th</sup> Brigade</span> 
 	<span rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
 </p>
-</article>
 
-<article about="#2Bn" rel="skos:broader" resource="#regt">
-<p about="#2Bn">
-	<span property="skos:prefLabel">2<sup>nd</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="dbp:88th_Brigade_(United_Kingdom)" rel="ies:isPartof">88<sup>th</sup> Brigade</span> 
-	<span rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
+<p class="claim" typeof="ies:State" about="#2bn88bde" rel="ies:stateOf" resource="#2Bn">
+	<span about="#2Bn" property="skos:prefLabel">2<sup>nd</sup> Battalion</span>, Hampshire Regiment, was assigned to <span about="#2bn88bde" resource="dbp:88th_Brigade_(United_Kingdom)" rel="ies:isPartof">88<sup>th</sup> Brigade</span> 
+	<span about="#2bn88bde" rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
 </p>
 </article>
 
-<article about="#2nd5Bn" rel="skos:broader" resource="#regt">
-<p about="#2Bn">
-	<span property="skos:prefLabel">2<sup>nd</sup>/5<sup>th</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="#232Bde" rel="ies:isPartof">232<sup>nd</sup> Brigade</span> 
-	<span rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1917-04">April 1917</datetime></span>
-	to <span rel="time:intervalFinishedBy" resource="dbp:World_War_I">the end of the First World War</span>.
+<article about="#2nd5Bn" rel="skos:broader" resource="#battalion">
+<p typeof="ies:State" about="#2nd5bn232bde" rel="ies:stateOf" resource="#2nd5Bn">
+	<span about="#2nd5Bn" property="skos:prefLabel">2/5<sup>th</sup> Battalion</span>, Hampshire Regiment, was assigned to <span about="#2nd5bn232bde" resource="#232Bde" rel="ies:isPartof">232<sup>nd</sup> Brigade</span> 
+	<span about="#2nd5bn232bde" rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1917-04">April 1917</datetime></span>
+	to <span about="#2nd5bn232bde" rel="time:intervalFinishes" resource="dbp:World_War_I">the end of the First World War</span>.
 </p>
 </article>
 
-<article about="#14Bn">
-<p>
-	<span property="skos:prefLabel">14<sup>th</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="#116Bde" rel="ies:isPartof">116<sup>th</sup> Brigade</span> 
-	<span rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
-	<span rel="time:hasEnd">to <datetime property="time:inXSDDate" typeof="time:Instant" content="1918-03-22">22 March 1918</datetime>, when the 
+<article>
+<p typeof="ies:State" about="#14bn116bde" rel="ies:stateOf" resource="#14Bn">
+	<span about="#14Bn" property="skos:prefLabel">14<sup>th</sup> Battalion</span>, Hampshire Regiment, was assigned to <span about="#14bn116bde" resource="#116Bde" rel="ies:isPartof">116<sup>th</sup> Brigade</span> 
+	<span about="#14bn116bde" rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
+	<span about="#14bn116bde" rel="time:hasEnd">to <datetime property="time:inXSDDate" typeof="time:Instant" content="1918-02-23">23 February 1918</datetime>, when the 
 	battalion disbanded</span>.
 </p>
 </article>
 
-<article about="#15Bn">
-<p>
-	<span property="skos:prefLabel">15<sup>th</sup> Battalion</span>, Hampshire Regiment was assigned to <span resource="#122Bde" rel="ies:isPartof">122<sup>nd</sup> Brigade</span> 
-	<span rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
-	<span rel="time:hasEnd">until <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
+<article>
+<p typeof="ies:State" about="#15bn122bde" rel="ies:stateOf" resource="#15Bn">
+	<span about="#15Bn" property="skos:prefLabel">15<sup>th</sup> Battalion</span>, Hampshire Regiment, was assigned to <span about="#15bn122bde" resource="#122Bde" rel="ies:isPartof">122<sup>nd</sup> Brigade</span> 
+	<span about="#15bn122bde" rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-10">October 1915</datetime></span>
+	<span about="#15bn122bde" rel="time:hasEnd">until <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 </article>
 
-<article about="dbp:11th_Security_Force_Assistance_Brigade">
-<p>
-	<span property="skos:prefLabel">11<sup>th</sup> Brigade</span> was part of <span resource="#4Div" rel="ies:isPartof">4<sup>th</sup> Division</span>
-	<span rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
+<article about="dbp:11th_Security_Force_Assistance_Brigade" rel="skos:broader" resource="#brigade">
+<p about="#11bde4div"  typeof="ies:State" rel="ies:stateOf" resource="dbp:11th_Security_Force_Assistance_Brigade">
+	<span about="dbp:11th_Security_Force_Assistance_Brigade" property="skos:prefLabel">11<sup>th</sup> Brigade</span> was part of <span about="#11bde4div" resource="#4Div" rel="ies:isPartof">4<sup>th</sup> Division</span>
+	<span about="#11bde4div" rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
 </p>
 </article>
 
-<article about="dbp:88th_Brigade_(United_Kingdom)">
-<p>
-	<span property="skos:prefLabel">88<sup>th</sup> Brigade</span> was part of <span resource="dbp:29th_Division_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Division</span>
-	<span rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
+<article>
+<p typeof="ies:State" about="88bde29div" rel="ies:stateOf" resource="dbp:88th_Brigade_(United_Kingdom)">
+	<span about="dbp:88th_Brigade_(United_Kingdom)" property="skos:prefLabel">88<sup>th</sup> Brigade</span> was part of <span about="88bde29div" resource="dbp:29th_Division_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Division</span>
+	<span about="88bde29div" rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
 </p>
 </article>
 
 <article about="#122Bde">
-<p>
-	<span property="skos:prefLabel">122<sup>nd</sup> Brigade</span> was part of <span resource="dbp:41st_Division_(United_Kingdom)" rel="ies:isPartof">41<sup>st</sup> Division</span>
-	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+<p typeof="ies:State" about="122bde41div" rel="ies:stateOf" resource="#122Bde">
+	<span about="#122Bde" property="skos:prefLabel">122<sup>nd</sup> Brigade</span> was part of <span about="122bde41div" resource="dbp:41st_Division_(United_Kingdom)" rel="ies:isPartof">41<sup>st</sup> Division</span>
+	<span about="122bde41div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
 </article>
 
-<article about="#128Bde">
-<p>
-	<span property="skos:prefLabel">128<sup>th</sup> Brigade</span> was part of <span resource="dbp:46th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">46<sup>th</sup> Division</span>
-	<span rel="time:intervalDuring" resource="dbp:World_War_II">during the Second World War</span>.
+<article about="#128Bde" rel="skos:broader" resource="#brigade">
+<p class="claim" typeof="ies:State" about="128bde46div" rel="ies:stateOf" resource="#128Bde">
+	<span about="#128Bde" property="skos:prefLabel">128<sup>th</sup> Brigade</span> was part of <span about="128bde46div" resource="dbp:46th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">46<sup>th</sup> Division</span>
+	<span about="128bde46div" rel="time:intervalDuring" resource="dbp:World_War_II">during the Second World War</span>.
 </p>
 </article>
 
-<article about="#116Bde">
-<p>
-	<span property="skos:prefLabel">116<sup>th</sup> Brigade</span> was part of <span resource="#39Div" rel="ies:isPartof">39<sup>th</sup> Division</span>
-	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+<article about="#116Bde" rel="skos:broader" resource="#brigade">
+<p typeof="ies:State" about="116bde39div" rel="ies:stateOf" resource="#116Bde">
+	<span about="#116Bde" property="skos:prefLabel">116<sup>th</sup> Brigade</span> was part of <span about="116bde39div" resource="#39Div" rel="ies:isPartof">39<sup>th</sup> Division</span>
+	<span about="116bde39div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
 </article>
 
-<article about="#232Bde">
-<p>
-	<span property="skos:prefLabel">232<sup>nd</sup> Brigade</span> was part of <span resource="dbp:75th_Division_(United_Kingdom)" rel="ies:isPartof">75<sup>th</sup> Division</span>
-	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+<article about="#232Bde" rel="skos:broader" resource="#brigade">
+<p typeof="ies:State" about="232bde75div" rel="ies:stateOf" resource="#232Bde">
+	<span about="#232Bde" property="skos:prefLabel">232<sup>nd</sup> Brigade</span> was part of <span about="232bde75div" resource="dbp:75th_Division_(United_Kingdom)" rel="ies:isPartof">75<sup>th</sup> Division</span>
+	<span about="232bde75div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
 </article>
 
-<article about="dbp:41st_Division_(United_Kingdom)">
-<p>
-	<span property="skos:prefLabel">41<sup>st</sup> Division</span> was part of <span resource="#XCorps" rel="ies:isPartof">X Corps</span>
-	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
+<article typeof="rdf:Seq">
+<p class="claim" typeof="ies:State" about="232bde75divA" rel="ies:stateOf" resource="dbp:41st_Division_(United_Kingdom)">
+	<span about="dbp:41st_Division_(United_Kingdom)" property="skos:prefLabel">41<sup>st</sup> Division</span> was part of <span about="232bde75divA" resource="#XCorps" rel="ies:isPartof">X Corps</span>
+	<span about="232bde75divA" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
-<p>
-	41<sup>st</sup> Division was part of <span resource="#XVIICorps" rel="ies:isPartof">XVII Corps</span>
-	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
-</p>
-</article>
-
-<article about="dbp:46th_Infantry_Division_(United_Kingdom)">
-<p>
-	<span property="skos:prefLabel">46<sup>th</sup> Division</span> was part of <span resource="#XCorps" rel="ies:isPartof">X Corps</span>
-	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1943">1943</datetime></span>.
+<p class="claim" typeof="ies:State" about="232bde75divB" rel="ies:stateOf" resource="dbp:41st_Division_(United_Kingdom)">
+	41<sup>st</sup> Division was part of <span about="232bde75divB" resource="#XVIICorps" rel="ies:isPartof">XVII Corps</span>
+	<span about="232bde75divB" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 </article>
 
-<article about="dbp:75th_Division_(United_Kingdom)">
-<span property="skos:prefLabel">75<sup>th</sup> Division</span> was raised in the field by the Egyptian Expeditionary Force in <span rel="time:hasBeginning"><datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span> and existed until <span rel="time:hasEnd"><datetime property="time:inXSDYear" typeof="time:Instant" content="1920">1920</datetime></span>.
-</article>
-
-<article about="#XCorps">
-<p>
-	<span property="skos:prefLabel">X Corps</span> was part of the <span resource="dbp:Second_Army_(United_Kingdom)" rel="ies:isPartof">Second Army</span>
-	<span rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
+<article about="dbp:46th_Infantry_Division_(United_Kingdom)" rel="skos:broader" resource="#division">
+<p typeof="ies:State" about="46div10corps" rel="ies:stateOf" resource="dbp:41st_Division_(United_Kingdom)">
+	<span about="dbp:46th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">46<sup>th</sup> Division</span> was part of <span about="46div10corps" resource="#XCorps" rel="ies:isPartof">X Corps</span>
+	<span about="46div10corps" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1943">1943</datetime></span>.
 </p>
 </article>
 
-<article about="#XVIICorps">
-<p>
-	<span property="skos:prefLabel">XVII Corps</span> was part of the <span resource="dbp:Third_Army_(United_Kingdom)" rel="ies:isPartof">Third Army</span>
-	<span rel="time:inside">in <datetime property="time:inXSDDate" typeof="time:Instant" content="1917-03-16">March 1917</datetime></span>.
+<article about="dbp:75th_Division_(United_Kingdom)" rel="skos:broader" resource="#division">
+	<span property="skos:prefLabel">75<sup>th</sup> Division</span> was raised in the field by the Egyptian Expeditionary Force in <span rel="time:hasBeginning"><datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span> and existed until <span rel="time:hasEnd"><datetime property="time:inXSDYear" typeof="time:Instant" content="1920">1920</datetime></span>.
+</article>
+
+<article about="#XCorps" rel="skos:broader" resource="#corps">
+<p typeof="ies:State" about="10corps2army" rel="ies:stateOf" resource="#XCorps">
+	<span about="#XCorps" property="skos:prefLabel">X Corps</span> was part of the <span about="10corps2army" resource="dbp:Second_Army_(United_Kingdom)" rel="ies:isPartof">Second Army</span>
+	<span about="10corps2army" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
+</p>
+</article>
+
+<article about="#XVIICorps" rel="skos:broader" resource="#corps">
+<p typeof="ies:State" about="10corps3army" rel="ies:stateOf" resource="#XVIICorps">
+	<span about="#XVIICorps" property="skos:prefLabel">XVII Corps</span> was part of the <span about="10corps3army" resource="dbp:Third_Army_(United_Kingdom)" rel="ies:isPartof">Third Army</span>
+	<span about="10corps3army" rel="time:inside">in <datetime property="time:inXSDDate" typeof="time:Instant" content="1917-03-16">March 1917</datetime></span>.
 </p>
 </article>
 
