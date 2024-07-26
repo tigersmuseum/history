@@ -21,6 +21,8 @@
 		<ul about="#hants" rev="ies:partOf">
 			<li><span about="#1Bn" property="skos:prefLabel">1<sup>st</sup> Battalion</span></li>
 			<li><span about="#2Bn" property="skos:prefLabel">2<sup>nd</sup> Battalion</span></li>
+			<li><span about="#2nd4Bn" property="skos:prefLabel">2/4<sup>th</sup> Battalion</span></li>
+			<li><span about="#2nd5Bn" property="skos:prefLabel">2/5<sup>th</sup> Battalion</span></li>
 		</ul>
 	</p>
 </div>
@@ -45,6 +47,13 @@
 		<span about="#4Div" property="skos:prefLabel">4<sup>th</sup> Division</span>,
 		<span about="dbp:29th_Division_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Division</span>,
 		<span about="#39Div" property="skos:prefLabel">39<sup>th</sup> Division</span>.
+	</p>
+</div>
+
+<div>
+	<p about="#brigade" typeof="skos:Concept" rev="skos:broader">
+		<span>Brigades</span>:
+		<span about="dbp:28th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">28<sup>th</sup> Infantry Brigade</span>.
 	</p>
 </div>
 
@@ -124,6 +133,17 @@
 <p typeof="ies:State" about="232bde75div" rel="ies:stateOf" resource="#232Bde">
 	<span about="#232Bde" property="skos:prefLabel">232<sup>nd</sup> Brigade</span> was part of <span about="232bde75div" resource="dbp:75th_Division_(United_Kingdom)" rel="ies:isPartof">75<sup>th</sup> Division</span>
 	<span about="232bde75div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="2nd5bn28bdefeb44" rel="ies:stateOf" resource="#2nd4bn">
+	<span about="#2nd4bn">2/4<sup>th</sup> Battalion</span> was part of <span about="2nd5bn28bdefeb44" resource="dbp:28th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">28<sup>th</sup> Brigade</span>
+	<span about="2nd5bn28bdefeb44" rel="time:inside">in <datetime property="time:inXSDMonth" typeof="time:Instant" content="1944-02">February 1944</datetime></span>.
+</p>
+<p class="claim" typeof="ies:State" about="28bde4divfeb44" rel="ies:stateOf" resource="dbp:28th_Infantry_Brigade_(United_Kingdom)">
+	<span>28<sup>th</sup> Brigade</span> was part of <span about="28bde4divfeb44" resource="dbp:4th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">4<sup>th</sup> Division</span>
+	<span about="28bde4divfeb44" rel="time:inside">in <datetime property="time:inXSDMonth" typeof="time:Instant" content="1944-02">February 1944</datetime></span>.
 </p>
 </article>
 
