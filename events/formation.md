@@ -22,6 +22,9 @@ I can use *time:inside* in cases where I know a state is valid at some particula
 
 	75th Division was raised in the field by the Egyptian Expeditionary Force in 1917 and existed until 1920.
 	
+	The 2nd, 1/4th and 5th battalions were part of 128th Brigade in in March 1944.
+	
+This can be modelled as a separate state for each of the battalions, or one state of the brigade...
 ...
 
 We can construct a history of an entity by piecing together information about its state over time. I don't expect to ever have complete information, so the history will be fragmentary.

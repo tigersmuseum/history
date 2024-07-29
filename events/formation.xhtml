@@ -21,8 +21,10 @@
 		<ul about="#hants" rev="ies:partOf">
 			<li><span about="#1Bn" property="skos:prefLabel">1<sup>st</sup> Battalion</span></li>
 			<li><span about="#2Bn" property="skos:prefLabel">2<sup>nd</sup> Battalion</span></li>
+			<li><span about="#1st4Bn" property="skos:prefLabel">1/4<sup>th</sup> Battalion</span></li>
 			<li><span about="#2nd4Bn" property="skos:prefLabel">2/4<sup>th</sup> Battalion</span></li>
 			<li><span about="#2nd5Bn" property="skos:prefLabel">2/5<sup>th</sup> Battalion</span></li>
+			<li><span about="#5Bn" property="skos:prefLabel">5<sup>th</sup> Battalion</span></li>
 		</ul>
 	</p>
 </div>
@@ -44,7 +46,7 @@
 <div>
 	<p about="#division" typeof="skos:Concept" rev="skos:broader">
 		<span>Divisions</span>:
-		<span about="#4Div" property="skos:prefLabel">4<sup>th</sup> Division</span>,
+		<span about="dbp:4th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">4<sup>th</sup> Division</span>,
 		<span about="dbp:29th_Division_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Division</span>,
 		<span about="#39Div" property="skos:prefLabel">39<sup>th</sup> Division</span>.
 	</p>
@@ -53,7 +55,8 @@
 <div>
 	<p about="#brigade" typeof="skos:Concept" rev="skos:broader">
 		<span>Brigades</span>:
-		<span about="dbp:28th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">28<sup>th</sup> Infantry Brigade</span>.
+		<span about="dbp:28th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">28<sup>th</sup> Infantry Brigade</span>,
+		<span about="dbp:Hampshire_Brigade" property="skos:prefLabel">128<sup>th</sup> (Hampshire) Brigade</span>.
 	</p>
 </div>
 
@@ -96,7 +99,7 @@
 
 <article about="dbp:11th_Security_Force_Assistance_Brigade" rel="skos:broader" resource="#brigade">
 <p about="#11bde4div"  typeof="ies:State" rel="ies:stateOf" resource="dbp:11th_Security_Force_Assistance_Brigade">
-	<span about="dbp:11th_Security_Force_Assistance_Brigade" property="skos:prefLabel">11<sup>th</sup> Brigade</span> was part of <span about="#11bde4div" resource="#4Div" rel="ies:isPartof">4<sup>th</sup> Division</span>
+	<span about="dbp:11th_Security_Force_Assistance_Brigade" property="skos:prefLabel">11<sup>th</sup> Brigade</span> was part of <span about="#11bde4div" resource="dbp:4th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">4<sup>th</sup> Division</span>
 	<span about="#11bde4div" rel="time:intervalEquals" resource="dbp:World_War_I">throughout the First World War</span>.
 </p>
 </article>
@@ -115,9 +118,9 @@
 </p>
 </article>
 
-<article about="#128Bde" rel="skos:broader" resource="#brigade">
-<p class="claim" typeof="ies:State" about="128bde46div" rel="ies:stateOf" resource="#128Bde">
-	<span about="#128Bde" property="skos:prefLabel">128<sup>th</sup> Brigade</span> was part of <span about="128bde46div" resource="dbp:46th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">46<sup>th</sup> Division</span>
+<article>
+<p class="claim" typeof="ies:State" about="128bde46div" rel="ies:stateOf" resource="dbp:Hampshire_Brigade">
+	<span about="dbp:Hampshire_Brigade" property="skos:prefLabel">128<sup>th</sup> Brigade</span> was part of <span about="128bde46div" resource="dbp:46th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">46<sup>th</sup> Division</span>
 	<span about="128bde46div" rel="time:intervalDuring" resource="dbp:World_War_II">during the Second World War</span>.
 </p>
 </article>
@@ -137,8 +140,8 @@
 </article>
 
 <article>
-<p class="claim" typeof="ies:State" about="2nd5bn28bdefeb44" rel="ies:stateOf" resource="#2nd4bn">
-	<span about="#2nd4bn">2/4<sup>th</sup> Battalion</span> was part of <span about="2nd5bn28bdefeb44" resource="dbp:28th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">28<sup>th</sup> Brigade</span>
+<p class="claim" typeof="ies:State" about="2nd5bn28bdefeb44" rel="ies:stateOf" resource="#2nd4Bn">
+	<span about="#2nd4Bn">2/4<sup>th</sup> Battalion</span> was part of <span about="2nd5bn28bdefeb44" resource="dbp:28th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">28<sup>th</sup> Brigade</span>
 	<span about="2nd5bn28bdefeb44" rel="time:inside">in <datetime property="time:inXSDMonth" typeof="time:Instant" content="1944-02">February 1944</datetime></span>.
 </p>
 <p class="claim" typeof="ies:State" about="28bde4divfeb44" rel="ies:stateOf" resource="dbp:28th_Infantry_Brigade_(United_Kingdom)">
@@ -180,6 +183,23 @@
 <p typeof="ies:State" about="10corps3army" rel="ies:stateOf" resource="#XVIICorps">
 	<span about="#XVIICorps" property="skos:prefLabel">XVII Corps</span> was part of the <span about="10corps3army" resource="dbp:Third_Army_(United_Kingdom)" rel="ies:isPartof">Third Army</span>
 	<span about="10corps3army" rel="time:inside">in <datetime property="time:inXSDDate" typeof="time:Instant" content="1917-03-16">March 1917</datetime></span>.
+</p>
+</article>
+
+<article>
+<p about="#128bdeA" typeof="ies:State" rel="ies:stateOf" resource="dbp:Hampshire_Brigade">
+	The
+		<span about="#2Bn" resource="#128bdeA" rel="ies:isPartof">2<sup>nd</sup></span>, 
+		<span about="#1st4Bn" resource="#128bdeA" rel="ies:isPartof">1/4<sup>th</sup></span> and 
+		<span about="#5Bn" resource="#128bdeA" rel="ies:isPartof">5<sup>th</sup></span>
+	battalions were part of <span>128th Brigade</span> in 
+		<span about="#128bdeA" rel="time:inside">in <datetime property="time:inXSDDate" typeof="time:Instant" content="1944-03-07">March 1944</datetime></span>.
+</p>
+</article>
+
+<article>
+<p about="dbp:Hampshire_Brigade" rev="ies:stateOf">
+	<span about="_:1" typeof="ies:State"><span about="#2Bn" rel="ies:isPartof" resource="_:1">2<sup>nd</sup></span>, </span>
 </p>
 </article>
 
