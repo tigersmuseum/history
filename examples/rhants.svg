@@ -118,6 +118,16 @@
 		<text class="label" x="5" y="4">Yeomanry</text>
 	</g>
 	
+	<g transform="translate(632,230)">
+		<path class="marker" d="m0,5 v150"/>
+		<text class="year">1860</text>
+		<text class="note" x="3" y="15">Volunteer Force</text>
+	</g>
+
+	<g id="volunteers" transform="translate(632,300)">
+		<text class="label" x="5" y="4">RVC, AVC</text>
+	</g>
+	
 	<g id="yeomanry2" transform="translate(824,300)">
 		<!-- 1908 to 1921 = 13*4 = 52 -->
 		<rect class="hants" x="0" y="-8" width="52" height="16"/>
@@ -136,6 +146,12 @@
 		<path class="marker" d="m0,5 v180"/>
 		<text class="year">1702</text>
 		<text class="label" x="5" y="164">Meredith's</text>
+	</g>
+
+	<g transform="translate(-4,260)">
+		<path class="marker" d="m0,5 v120"/>
+		<text class="year">1701</text>
+		<text class="note" x="3" y="15"><tspan>War of the</tspan> <tspan x="3" y="24">Spanish Succession</tspan></text>
 	</g>
 	
 	<g transform="translate(196,200)">
@@ -182,7 +198,6 @@
 		<text class="year">1792</text>
 		<text class="note" x="3" y="15"><tspan>French</tspan> <tspan x="3" y="24">Revolutionary Wars</tspan></text>
 	</g>
-	
 	
 	<g transform="translate(320,200)">
 		<path class="marker" d="m0,5 v180"/>
@@ -258,14 +273,17 @@
 		<text class="year">1914</text>
 		<text class="note" x="3" y="15">WW 1</text>
 		<rect class="war" x="0" y="32" width="16" height="16"/>
-		<rect class="war" x="0" y="72" width="16" height="36"/>
+		<rect class="war" x="0" y="72" width="16" height="54"/>
+		<text class="labelsmall" x="2" y="116">8,9 Bns</text>
+		<text class="labelsmall" x="1" y="124">10-12,14,15 Bns (New Army)</text>
 	</g>
 
 	<g transform="translate(948,260)">
 		<path class="marker" d="m0,5 v120"/>
 		<text class="year">1939</text>
 		<text class="note" x="3" y="15">WW 2</text>
-		<rect class="war" x="0" y="72" width="24" height="36"/>
+		<rect class="war" x="0" y="72" width="24" height="54"/>
+		<text class="labelsmall" x="2" y="120">1/4,2/4,5,7 Bns</text>
 	</g>
 
 </g>
