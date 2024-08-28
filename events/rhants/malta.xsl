@@ -14,7 +14,13 @@
 	</xsl:copy>
 </xsl:template>
 
- 
+<xsl:template match="temporal">
+	<xsl:copy>
+		<description>1st Battalion Hampshire Regiment in the Siege of Malta</description>
+		<xsl:apply-templates select="*|@*|comment()|processing-instruction()|text()"/>
+	</xsl:copy>
+</xsl:template>
+
  <xsl:template match="event[interval/@fm &gt;= 19410214 and interval/@to &lt;= 19430330]">
  	<!-- Only consider events in this data range -->
  	<xsl:apply-templates select="." mode="choose" />
