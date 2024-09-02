@@ -8,7 +8,7 @@ Events have labels that name or describe them, and that can be used in explanati
 
 	The assassination of Archduke Franz Ferdinand started World War I.
 
-Whether this explanation is correct is arguable, and the answer might be different in different circumstances. Instead, we might prefer
+Whether this explanation is correct is arguable. Instead, we might prefer
 
 	The assassination of Archduke Franz Ferdinand prompted the Austrian ultimatum to Serbia.
 
@@ -20,7 +20,7 @@ The basic idea is to model events in a way that supports [reasoning about time](
 
 We consider the 'when' aspect of an event in one of two ways; either as an *instant* or an *interval*. An *instant* is a point in time. An *interval* is a duration of time that may have instants or other intervals within it, and that may overlap with other intervals. An interval has a beginning and an end, both of which are instants. We don't have to be precise about the time of an instant. For example, we might say World War I is an interval that starts in the year 1914, without saying on which day. This is treating 1914 as though it were an instant. More precisely, it is saying that the start of World War I is *inside* the interval between 1st January and 31st December 1914.
 
-We will use the [OWL-Time](https://www.w3.org/TR/owl-time/) ontology to model the times of events. This gives all the flexibility we need in terms of modelling time; and it also allows us to start constructing event objects and reasoning about them before we have complete information. For example, we can say 'World War I' is an event that covers the interval 'start of World War I' to 'end of World War I' without knowing the dates. We can assert relationships to other events, such as World War I is 'interval before' World War II (i.e. WW1 ended before WW2 began), and reason about them. Later, we might discover and add the information that 'start of World War I' is in the year 1914 - and we can check this is consistent with the 'interval before' relationship we asserted earlier.
+We use the [OWL-Time](https://www.w3.org/TR/owl-time/) ontology to model the times of events. This gives all the flexibility we need in terms of modelling time; and it also allows us to start constructing event objects and reasoning about them before we have complete information. For example, we can say 'World War I' is an event that covers the interval 'start of World War I' to 'end of World War I' without knowing the dates. We can assert relationships to other events, such as World War I is 'interval before' World War II (i.e. WW1 ended before WW2 began), and reason about them. Later, we might discover and add the information that 'start of World War I' is in the year 1914 - and we can check this is consistent with the 'interval before' relationship we asserted earlier.
 
 ## Places and Actors
 
