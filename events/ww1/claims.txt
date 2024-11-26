@@ -1,6 +1,6 @@
 Arabis is a British mine-sweeper.
 Nur el Bahr is an Egyptian coastguard cruiser.
-S.S. Gulflight is American.
+S.S. Gulflight is an American oil tanker.
 Paragon is a British Destroyer.
 The Intrepid, Thetis, and Iphigenia are three obsolete British cruisers.
 The Brilliant and Sirius are British block ships.
@@ -11,3 +11,8 @@ The Orama is a British armed merchant-cruiser.
 There are 3 different ships called Ariadne.
 L21, L45, L44, L49, SL11, L70, L50, L4, L32, L34, and L33 are German airships.
 "Sir D. Haig" is the same person as "Sir Douglas Haig".
+"Mohtashem ed Douleh" is the same person as "Mohtashim ed Douleh".
+"Va." is the abbreviation for "Virginia".
+"Kiao-Chau" refers to the Kiautschou Bay Leased Territory. Tsingtau is the administrative centre of Kiao-Chau.
+Tsingtau is in Shantung Province.
+"Rumania" is the same place as "Roumania".
