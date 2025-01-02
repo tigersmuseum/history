@@ -16,3 +16,18 @@ L21, L45, L44, L49, SL11, L70, L50, L4, L32, L34, and L33 are German airships.
 "Kiao-Chau" refers to the Kiautschou Bay Leased Territory. Tsingtau is the administrative centre of Kiao-Chau.
 Tsingtau is in Shantung Province.
 "Rumania" is the same place as "Roumania".
+"Tekrit" is the same place as "Tikrit".
+"Windhuk" is the same place as "Windhoek".
+"Werwick" is the same place as "Werwicq".
+"Jassin" is the same place as "Jasin".
+"Péronne" is the same place as "Peronne".
+"Sanna-i-Yat" is the same place as "Sannaiyat" and "Sunayat". Sanna-i-Yat is a place in Mesopotamia.
+"Ramadi" is the same place as "Ramadieh" and "Ramadie". Ramadi is a place in Mesopotamia.
+"Kut" is the same place as "Kut-el-Amara" and "Kut al Amara". Kut is a place in Mesopotamia.
+"Nasiriyah" is the same place as "Nasiriya" and "Nasiriyeh". Nasiriyah is a place in Mesopotamia.
+"Es Sinn" is the same place as "As Sinn". Es Sinn is in Mesopotamia.
+"Hanna" is the same place as "Um-el-Hannah". Hanna is in Mesopotamia.
+"Falahiya" is the same place as "Falahiyah". Falahiya is in Mesopotamia.
+"Khan Baghdadi" is the same place as "Khan Baghdadie". Khan Baghdadi is in Mesopotamia.
+Amara, Azizie, Bait Aissa, Basra, Baghdad, Ctesiphon, Fao, Gurneh, Saihan, Samarra, Mezera, Shaiba and Qurna are places in Mesopotamia.
+Ana, Deli Abbas, Deltawa, Hit, Istabulat, Khan Abu Rayat, Kifri, Lajj, Mushaidiya, Khanaqin, Kirkuk, Mosul, Tuz Khartmatli and Rowanduz are places in Mesopotamia.
