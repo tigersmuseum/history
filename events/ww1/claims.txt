@@ -31,3 +31,6 @@ Tsingtau is in Shantung Province.
 "Khan Baghdadi" is the same place as "Khan Baghdadie". Khan Baghdadi is in Mesopotamia.
 Amara, Azizie, Bait Aissa, Basra, Baghdad, Ctesiphon, Fao, Gurneh, Saihan, Samarra, Mezera, Sahil, Shaiba, Sharqat and Qurna are places in Mesopotamia.
 Ana, Deli Abbas, Deltawa, Hit, Istabulat, Khan Abu Rayat, Kifri, Lajj, Mushaidiya, Khanaqin, Kirkuk, Mosul, Tuz Khartmatli and Rowanduz are places in Mesopotamia.
+"Tanaka Giichi" is the same person as "Lieut.-General Giichi Tanaka".
+"Gotō Shinpei" is the same person as "Baron Goto".
+Tripoli is a place in Syria. Tripoli is a place in Libya.

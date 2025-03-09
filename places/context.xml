@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?><context>
+<object name="Armentières">
+<attribute>Armentières</attribute>
+<attribute>Armentieres</attribute>
+</object>
+<object name="Bordeaux">
+<attribute>Bordeaux</attribute>
+</object>
+<object name="Gretz-Armainvilliers">
+<attribute>Graitz</attribute>
+<attribute>Gretz-Armainvilliers</attribute>
+</object>
+<object name="Godewaersvelde">
+<attribute>Godewaersvelde</attribute>
+</object>
+<object name="Bailleul">
+<attribute>Bailleul</attribute>
+</object>
+<object name="Valenciennes">
+<attribute>Valenciennes</attribute>
+</object>
+<object name="Billy-sur-Aisne">
+<attribute>Billy</attribute>
+<attribute>Billy-sur-Aisne</attribute>
+</object>
+<object name="Ourcq">
+<attribute>Ourcq</attribute>
+</object>
+<object name="29th August 1914">
+<attribute>29th August 1914</attribute>
+</object>
+<object name="Léalvillers">
+<attribute>Léalvillers</attribute>
+</object>
+<object name="Wytschaete">
+<attribute>Wytschaete</attribute>
+</object>
+<object name="Château d'Hédauville">
+<attribute>Château d'Hédauville</attribute>
+</object>
+<object name="Voyennes">
+<attribute>Voyennes</attribute>
+</object>
+<object name="Martinsart">
+<attribute>Martinsart</attribute>
+</object>
+<object name="Reims">
+<attribute>Reims</attribute>
+</object>
+<object name="La Haute-Maison">
+<attribute>La Haute Maison</attribute>
+<attribute>La Haute-Maison</attribute>
+</object>
+<object name="Béthisy-Saint-Pierre">
+<attribute>Béthisy-Saint-Pierre</attribute>
+<attribute>Bethisy St Pierre</attribute>
+</object>
+<object name="Lagny-sur-Marne">
+<attribute>Lagny</attribute>
+<attribute>Lagny-sur-Marne</attribute>
+</object>
+<object name="Forest of Compiègne">
+<attribute>Forest of Compiègne</attribute>
+<attribute>Forest of Compiegne</attribute>
+</object>
+<object name="Le Souich">
+<attribute>Le Souich</attribute>
+</object>
+<object name="Coullemont">
+<attribute>Coullemont</attribute>
+</object>
+<object name="La Montagne Farm">
+<attribute>La Montagne Farm</attribute>
+</object>
+<object name="Saint Yvon">
+<attribute>Saint Yvon</attribute>
+</object>
+<object name="Hamel">
+<attribute>Hamel</attribute>
+</object>
+<object name="Busigny">
+<attribute>Busigny</attribute>
+</object>
+<object name="27th August 1914 (A Company)">
+<attribute>27th August 1914 (A Company)</attribute>
+</object>
+<object name="Kasteel du Parc">
+<attribute>Kasteel du Parc</attribute>
+</object>
+<object name="Le Havre">
+<attribute>Havre</attribute>
+<attribute>Le Havre</attribute>
+</object>
+<object name="Mortagne">
+<attribute>Mortagne</attribute>
+</object>
+<object name="Billy-sur-Ourcq">
+<attribute>Billy-sur-Ourcq</attribute>
+</object>
+<object name="Lille">
+<attribute>Lille</attribute>
+</object>
+<object name="Péronne">
+<attribute>Péronne</attribute>
+</object>
+<object name="Zeebrugge">
+<attribute>Zeebrugge</attribute>
+</object>
+<object name="Vaucelle">
+<attribute>Vaucelles</attribute>
+<attribute>Vaucelle</attribute>
+</object>
+<object name="Hazebrouck">
+<attribute>Hazebrouck</attribute>
+</object>
+<object name="Ghent">
+<attribute>Ghent</attribute>
+</object>
+<object name="7th September 1914">
+<attribute>7th September 1914</attribute>
+</object>
+<object name="Kasteel van Elverdinge">
+<attribute>Kasteel van Elverdinge</attribute>
+</object>
+<object name="25th August 1914">
+<attribute>25th August 1914</attribute>
+</object>
+<object name="Potijze Chateau Wood Cemetery">
+<attribute>Potijze Chateau Wood Cemetery</attribute>
+</object>
+<object name="Serain">
+<attribute>Serain</attribute>
+</object>
+<object name="Houplines">
+<attribute>Houplines</attribute>
+<attribute>Nouvel Houplines</attribute>
+</object>
+<object name="Caullery">
+<attribute>Caullery</attribute>
+</object>
+<object name="Canadian Headquarters 1915 -Chateau des Trois Tours">
+<attribute>Canadian Headquarters 1915 -Chateau des Trois Tours</attribute>
+</object>
+<object name="Beaussart">
+<attribute>Beaussart</attribute>
+</object>
+<object name="Venizel">
+<attribute>Venizel</attribute>
+<attribute>Venezil</attribute>
+</object>
+<object name="Vermand">
+<attribute>Vermand</attribute>
+</object>
+<object name="Canizy">
+<attribute>Canizy</attribute>
+</object>
+<object name="Vlamertinge">
+<attribute>Vlamertinge</attribute>
+</object>
+<object name="Busseboom">
+<attribute>Busseboom</attribute>
+</object>
+<object name="St Yves">
+<attribute>St Yves</attribute>
+</object>
+<object name="Miraumont">
+<attribute>Miraumont</attribute>
+</object>
+<object name="Southampton">
+<attribute>Southampton</attribute>
+</object>
+<object name="Ham">
+<attribute>Ham</attribute>
+</object>
+<object name="Sus-Saint-Léger">
+<attribute>Sus-Saint-Léger</attribute>
+</object>
+<object name="Tertry, Somme">
+<attribute>Tertry</attribute>
+</object>
+<object name="Prayelle">
+<attribute>Prayelle</attribute>
+</object>
+<object name="Folemprise">
+<attribute>Folemprise</attribute>
+</object>
+<object name="Fortuinhoek">
+<attribute>Fortuinhoek</attribute>
+</object>
+<object name="Saint-Jean-aux-Bois">
+<attribute>St Jean-aux-Bois</attribute>
+<attribute>Saint-Jean-aux-Bois</attribute>
+</object>
+<object name="Le Verguier">
+<attribute>Le Verquier</attribute>
+<attribute>Le Verguier</attribute>
+</object>
+<object name="Longwy">
+<attribute>Longwy</attribute>
+</object>
+<object name="Varennes">
+<attribute>Varennes</attribute>
+</object>
+<object name="The Mound">
+<attribute>The Mound</attribute>
+</object>
+<object name="2nd, 3rd September 1914">
+<attribute>2nd</attribute>
+</object>
+<object name="Dammartin-en-Goële">
+<attribute>Dammartin</attribute>
+<attribute>Dammartin-en-Goële</attribute>
+</object>
+<object name="Sermaize">
+<attribute>Sermaize</attribute>
+</object>
+<object name="Briastre">
+<attribute>Briastre</attribute>
+<attribute>Braistre</attribute>
+</object>
+<object name="Mesnil-Martinsart">
+<attribute>Mesnil-Martinsart</attribute>
+</object>
+<object name="Rozières-sur-Crise">
+<attribute>Rozières-sur-Crise</attribute>
+<attribute>Rozieres</attribute>
+</object>
+<object name="Le Cateau-Cambrésis">
+<attribute>Le Cateau-Cambrésis</attribute>
+</object>
+<object name="9th September 2014">
+<attribute>9th September 2014</attribute>
+</object>
+<object name="Signy-Signets">
+<attribute>Signy-Signets</attribute>
+</object>
+<object name="Moyvillers">
+<attribute>Moyvillers</attribute>
+</object>
+<object name="Lucheux">
+<attribute>Lucheux</attribute>
+</object>
+<object name="Dendermonde">
+<attribute>Dendermonde</attribute>
+</object>
+<object name="Meuse">
+<attribute>Meuse</attribute>
+</object>
+<object name="Sentier de Montdenis">
+<attribute>Sentier de Montdenis</attribute>
+<attribute>Montdenis</attribute>
+</object>
+<object name="Méteren">
+<attribute>Méteren</attribute>
+<attribute>Meteren</attribute>
+</object>
+<object name="La Cauchie">
+<attribute>La Cauchie</attribute>
+</object>
+<object name="Beaumont-Hamel">
+<attribute>Beaumont-Hamel</attribute>
+</object>
+<object name="5th September 1914">
+<attribute>5th September 1914</attribute>
+</object>
+<object name="Chemin de Folemprise">
+<attribute>Chemin de Folemprise</attribute>
+</object>
+<object name="Beauval">
+<attribute>Beauval</attribute>
+</object>
+<object name="Harrow">
+<attribute>Harrow</attribute>
+</object>
+<object name="Elverdinge">
+<attribute>Elverdinge</attribute>
+</object>
+<object name="Festubert">
+<attribute>Festubert</attribute>
+</object>
+<object name="Ostend">
+<attribute>Ostend</attribute>
+</object>
+<object name="Septmonts">
+<attribute>Septmonts</attribute>
+</object>
+<object name="Charleroi">
+<attribute>Charleroi</attribute>
+</object>
+<object name="Viesly">
+<attribute>Viesly</attribute>
+</object>
+<object name="!2th September 1914 (Cont'd)">
+<attribute>!2th September 1914 (Cont'd)</attribute>
+</object>
+<object name="Claye-Souilly">
+<attribute>Claye-Souilly</attribute>
+</object>
+<object name="Bienvillers-au-Bois">
+<attribute>Bienvillers-au-Bois</attribute>
+</object>
+<object name="26th August 1914">
+<attribute>26th August 1914</attribute>
+</object>
+<object name="Jossigny">
+<attribute>Jossigny</attribute>
+</object>
+<object name="Freschevillers">
+<attribute>Freschevillers</attribute>
+</object>
+<object name="Watou">
+<attribute>Watou</attribute>
+</object>
+<object name="Beauvois-en-Cambrésis">
+<attribute>Beauvoir</attribute>
+<attribute>Beauvois-en-Cambrésis</attribute>
+<attribute>Beauvais</attribute>
+</object>
+<object name="Pierre-Levée">
+<attribute>Pierre-Levee</attribute>
+<attribute>Pierre-Levée</attribute>
+</object>
+<object name="Rosières">
+<attribute>Roziers</attribute>
+<attribute>Rosières</attribute>
+</object>
+<object name="La Ferté-sous-Jouarre">
+<attribute>La Ferte</attribute>
+<attribute>La Ferté-sous-Jouarre</attribute>
+</object>
+<object name="Serre Road Cemetery No.2">
+<attribute>Serre Road Cemetery No.2</attribute>
+</object>
+<object name="1st September 1914">
+<attribute>1st September 1914</attribute>
+</object>
+<object name="Rouen">
+<attribute>Rouen</attribute>
+</object>
+<object name="Lagny-le-Sec">
+<attribute>Lagny-le-Sec</attribute>
+</object>
+<object name="Craonne">
+<attribute>Craonne</attribute>
+</object>
+<object name="Bellewaerde">
+<attribute>Bellewaerde</attribute>
+</object>
+<object name="La Chapelle-d'Armentières">
+<attribute>CHAPL 'D ARMENTIERE</attribute>
+</object>
+<object name="Flanders">
+<attribute>Flanders</attribute>
+</object>
+<object name="Loos">
+<attribute>Loos</attribute>
+</object>
+<object name="Chanteloup-en-Brie">
+<attribute>Chanteloup-en-Brie</attribute>
+<attribute>Chantal</attribute>
+</object>
+<object name="Noyon">
+<attribute>Noyon</attribute>
+</object>
+<object name="Alsace">
+<attribute>Alsace</attribute>
+</object>
+<object name="Caëstre">
+<attribute>Caestre</attribute>
+<attribute>Caëstre</attribute>
+</object>
+<object name="Montagny-Sainte-Félicité">
+<attribute>Mongagny</attribute>
+<attribute>Montagny</attribute>
+<attribute>Montagny-Sainte-Félicité</attribute>
+</object>
+<object name="Wizernes">
+<attribute>Wizernes</attribute>
+</object>
+<object name="Villemontoire">
+<attribute>Villemontoire</attribute>
+<attribute>Ville-montoire</attribute>
+</object>
+<object name="Messines">
+<attribute>Messines</attribute>
+</object>
+<object name="28th August 1914">
+<attribute>28th August 1914</attribute>
+</object>
+<object name="Béthencourt">
+<attribute>Bethencourt</attribute>
+<attribute>Béthencourt</attribute>
+</object>
+<object name="La Brique Military Cemetery No.2">
+<attribute>La Brique Military Cemetery No.2</attribute>
+</object>
+<object name="Hondeghem">
+<attribute>Hondeghem</attribute>
+<attribute>Hondeghine</attribute>
+</object>
+<object name="Villeneuve-le-Comte">
+<attribute>Villeneuve-le-Comte</attribute>
+<attribute>Villeneau le Conte</attribute>
+</object>
+<object name="Mézières">
+<attribute>Mézières</attribute>
+</object>
+<object name="Champagne">
+<attribute>Champagne</attribute>
+</object>
+<object name="Hénu">
+<attribute>Hénu</attribute>
+</object>
+<object name="Messy">
+<attribute>Messy</attribute>
+</object>
+<object name="Coulombs-en-Valois">
+<attribute>Coulombs</attribute>
+<attribute>Coulombs-en-Valois</attribute>
+</object>
+<object name="Merville">
+<attribute>Merville</attribute>
+</object>
+<object name="Arquèves">
+<attribute>Arquèves</attribute>
+</object>
+<object name="Ypres">
+<attribute>Ypres</attribute>
+</object>
+<object name="4th September 1914">
+<attribute>4th September 1914</attribute>
+</object>
+<object name="Antwerp">
+<attribute>Antwerp</attribute>
+</object>
+<object name="Solesmes">
+<attribute>Solesme</attribute>
+<attribute>Solesmes</attribute>
+</object>
+<object name="St Amand">
+<attribute>St Amand</attribute>
+</object>
+<object name="Sarrebourg">
+<attribute>Sarrebourg</attribute>
+</object>
+<object name="Ardennes">
+<attribute>Ardennes</attribute>
+</object>
+<object name="Les Corbiers">
+<attribute>Les Corbieres</attribute>
+<attribute>Les Corbiers</attribute>
+</object>
+<object name="Zonnebeke">
+<attribute>Zonnebeke</attribute>
+</object>
+<object name="Cocherel">
+<attribute>Chorchel</attribute>
+<attribute>Cocherel</attribute>
+</object>
+<object name="Marizy-Sainte-Geneviève">
+<attribute>Marizy</attribute>
+<attribute>Marizy-Sainte-Geneviève</attribute>
+</object>
+<object name="Sedan">
+<attribute>Sedan</attribute>
+</object>
+<object name="Marne">
+<attribute>Marne</attribute>
+</object>
+<object name="Verdun">
+<attribute>Verdun</attribute>
+</object>
+<object name="Douai">
+<attribute>Douai</attribute>
+</object>
+<object name="Hédauville">
+<attribute>Hédauville</attribute>
+</object>
+<object name="Malines">
+<attribute>Malines</attribute>
+</object>
+<object name="Béthisy-Saint-Martin">
+<attribute>Béthisy-Saint-Martin</attribute>
+<attribute>Bethisy-Saint-Martin</attribute>
+<attribute>Bethisy-St-Martin</attribute>
+</object>
+<object name="Mons">
+<attribute>Mons</attribute>
+</object>
+<object name="Château de Fontenelle">
+<attribute>Château de Fontenelle</attribute>
+<attribute>Chateau-de-Fontenelle</attribute>
+</object>
+<object name="Grande Rue d'Oppy">
+<attribute>Grande Rue d'Oppy</attribute>
+</object>
+<object name="Beaurevoir">
+<attribute>Beaurevoir</attribute>
+<attribute>Beaurevoil</attribute>
+</object>
+<object name="12th September 2014">
+<attribute>12th September 2014</attribute>
+</object>
+<object name="Esmery-Hallon">
+<attribute>Esmery Hallon</attribute>
+<attribute>Esmery-Hallon</attribute>
+</object>
+<object name="Gheer">
+<attribute>Gheer</attribute>
+<attribute>Le Gheer</attribute>
+</object>
+<object name="Nieppe">
+<attribute>Nieppe</attribute>
+</object>
+<object name="Bertrancourt">
+<attribute>Bertrancourt</attribute>
+</object>
+<object name="Amiens">
+<attribute>Amiens</attribute>
+</object>
+<object name="Juilly">
+<attribute>Juilly</attribute>
+</object>
+<object name="Ozoir-la-Ferrière">
+<attribute>Ozoir-la-Ferrière</attribute>
+<attribute>Ozoir la Ferriers</attribute>
+</object>
+<object name="Pezelhoek">
+<attribute>Pezelhoek</attribute>
+</object>
+<object name="Menin">
+<attribute>Menin</attribute>
+</object>
+<object name="Le Touquet Crossroads">
+<attribute>Le Touquet cross roads</attribute>
+</object>
+<object name="Villers-Cotterêts">
+<attribute>Villers-Cotteret</attribute>
+<attribute>Villers-Cotterêts</attribute>
+<attribute>Villiers-Cotteret</attribute>
+</object>
+<object name="Thiepval">
+<attribute>Thiepval</attribute>
+</object>
+<object name="Lens">
+<attribute>Lens</attribute>
+</object>
+<object name="Nauroy">
+<attribute>Nauroy</attribute>
+</object>
+<object name="Verlorenhoek">
+<attribute>Verlorenhoek</attribute>
+</object>
+<object name="8th September 1914">
+<attribute>8th September 1914</attribute>
+</object>
+<object name="Ligny-en-Cambrésis">
+<attribute>Ligny-en-Cambrésis</attribute>
+<attribute>Ligny</attribute>
+<attribute>Ligny en Cambriesis</attribute>
+<attribute>Ligny en Cambresis</attribute>
+</object>
+<object name="Bellicourt">
+<attribute>Bellicourt</attribute>
+</object>
+<object name="Vosges">
+<attribute>Vosges</attribute>
+</object>
+<object name="Soissons">
+<attribute>Soissons</attribute>
+</object>
+<object name="Sempigny">
+<attribute>Sempigny</attribute>
+</object>
+<object name="Yser">
+<attribute>Yser</attribute>
+</object>
+<object name="Beauquesne">
+<attribute>Beauquesne</attribute>
+</object>
+<object name="Chouy">
+<attribute>Chouzy</attribute>
+<attribute>Chouy</attribute>
+</object>
+<object name="Le Coquelet">
+<attribute>Le Coquelet</attribute>
+</object>
+<object name="Coupvray">
+<attribute>Coupvray</attribute>
+</object>
+<object name="11th September 2014">
+<attribute>11th September 2014</attribute>
+</object>
+<object name="La Bassée">
+<attribute>La Bassée</attribute>
+</object>
+<object name="Cambrai">
+<attribute>Cambrai</attribute>
+</object>
+<object name="31st August 1914">
+<attribute>31st August 1914</attribute>
+</object>
+<object name="Acheux-en-Amiénois">
+<attribute>Acheux-en-Amiénois</attribute>
+</object>
+<object name="Carlepont">
+<attribute>Carlepont</attribute>
+</object>
+<object name="Au Bois de Boulogne">
+<attribute>Bois de Boulogne</attribute>
+</object>
+<object name="Chaton">
+<attribute>Chaton</attribute>
+</object>
+<object name="Liège">
+<attribute>Liège</attribute>
+</object>
+<object name="Namur">
+<attribute>Namur</attribute>
+</object>
+<object name="Saint-Sauver">
+<attribute>Saint-Sauver</attribute>
+<attribute>St Sauver</attribute>
+<attribute>St Sauveur</attribute>
+</object>
+<object name="Fontaine-au-Pire">
+<attribute>Fontaine-au-Pire</attribute>
+<attribute>Fontaine</attribute>
+<attribute>Fontaine au Pire</attribute>
+</object>
+<object name="Bucy-le-Long">
+<attribute>Bucy-le-Long</attribute>
+</object>
+<object name="Ève">
+<attribute>Ève</attribute>
+<attribute>Eve</attribute>
+</object>
+<object name="Caudry">
+<attribute>Caudry</attribute>
+</object>
+<object name="30th August 1914">
+<attribute>30th August 1914</attribute>
+</object>
+<object name="Ferrières-en-Brie">
+<attribute>Ferrieries</attribute>
+<attribute>Ferrières-en-Brie</attribute>
+</object>
+<object name="Givet">
+<attribute>Givet</attribute>
+</object>
+<object name="Maubeuge">
+<attribute>Maubeuge</attribute>
+</object>
+<object name="Passy-en-Valois">
+<attribute>Passy-en-Valois</attribute>
+</object>
+<object name="Louvencourt">
+<attribute>Louvencourt</attribute>
+</object>
+<object name="Bléville">
+<attribute>Bléville</attribute>
+<attribute>Bleville</attribute>
+</object>
+<object name="Villers-Hélon">
+<attribute>Villers-Hélon</attribute>
+<attribute>Villers-Holen</attribute>
+<attribute>Villers-Helon</attribute>
+</object>
+<object name="Estrées-Saint-Denis">
+<attribute>Estree St Denis</attribute>
+<attribute>Estrées-Saint-Denis</attribute>
+</object>
+<object name="Vez">
+<attribute>Vez</attribute>
+</object>
+<object name="Montdidier">
+<attribute>Montdidier</attribute>
+</object>
+<object name="Berles-au-Bois">
+<attribute>Berles-au-Bois</attribute>
+</object>
+<object name="Ploegsteert Wood">
+<attribute>Ploegsteert Wood</attribute>
+</object>
+<object name="Frezenberg Ridge">
+<attribute>Frezenberg Ridge</attribute>
+</object>
+<object name="Fluquières">
+<attribute>Fluquiers</attribute>
+<attribute>Fluquières</attribute>
+</object>
+<object name="Chemin du Grand Couronne">
+<attribute>Chemin du Grand Couronne</attribute>
+</object>
+<object name="Le Limon">
+<attribute>Le Limon</attribute>
+</object>
+<object name="Brussels">
+<attribute>Brussels</attribute>
+</object>
+<object name="Raincheval">
+<attribute>Raincheval</attribute>
+</object>
+<object name="Englebelmer">
+<attribute>Englebelmer</attribute>
+</object>
+<object name="Sint-Elooi">
+<attribute>Sint-Elooi</attribute>
+</object>
+<object name="Canaples">
+<attribute>Canaples</attribute>
+</object>
+<object name="Flêtre">
+<attribute>Flêtre</attribute>
+<attribute>Fletre</attribute>
+</object>
+<object name="Berneuil-sur-Aisne">
+<attribute>Berneuil-sur-Aisne</attribute>
+</object>
+<object name="Crécy-la-Chapelle">
+<attribute>Crécy-la-Chapelle</attribute>
+<attribute>Crecy</attribute>
+</object>
+<object name="Serris">
+<attribute>Serris</attribute>
+<attribute>Serries</attribute>
+</object>
+<object name="Morhange">
+<attribute>Morhange</attribute>
+</object>
+<object name="Mouzon">
+<attribute>Mouzon</attribute>
+</object>
+<object name="Château Venteuil">
+<attribute>Chateau-Venteil</attribute>
+<attribute>Chateau Venteil</attribute>
+<attribute>Château Venteuil</attribute>
+</object>
+<object name="Aubigny-aux-Kaisnes">
+<attribute>Aubigny-aux-Kaisnes</attribute>
+<attribute>Aubigny</attribute>
+</object>
+<object name="Étreillers">
+<attribute>Etreills</attribute>
+<attribute>Étreillers</attribute>
+</object>
+<object name="Reuil-en-Brie">
+<attribute>Reil</attribute>
+<attribute>Reuil-en-Brie</attribute>
+</object>
+<object name="Neuve-Chapelle">
+<attribute>Neuve-Chapelle</attribute>
+</object>
+<object name="Néry">
+<attribute>Néry</attribute>
+</object>
+<object name="The Mill in the Marsh">
+<attribute>The Mill in the Marsh</attribute>
+</object>
+<object name="Warluzel">
+<attribute>Warluzel</attribute>
+</object>
+<object name="Asile d'aliénés">
+<attribute>ASILE d'ALIENES</attribute>
+</object>
+<object name="Haucourt-en-Cambrésis">
+<attribute>Haucourt</attribute>
+<attribute>Haucourt-en-Cambrésis</attribute>
+</object>
+<object name="Mulhouse">
+<attribute>Mulhouse</attribute>
+</object>
+<object name="Artois">
+<attribute>Artois</attribute>
+</object>
+<object name="Beaudricourt">
+<attribute>Beaudricourt</attribute>
+</object>
+<object name="St Quentin">
+<attribute>St Quentin</attribute>
+</object>
+<object name="Potyze">
+<attribute>Potyze</attribute>
+</object>
+<object name="Wieltje">
+<attribute>Wieltje</attribute>
+</object>
+<object name="Gravenstafel Ridge">
+<attribute>Gravenstafel Ridge</attribute>
+</object>
+<object name="Ploegsteert">
+<attribute>Ploegsteert</attribute>
+</object>
+<object name="Gare Saint-Roch">
+<attribute>Amiens St Roch</attribute>
+</object>
+<object name="Esbly">
+<attribute>Esbly</attribute>
+</object>
+<object name="Élincourt">
+<attribute>Elincourt</attribute>
+<attribute>Élincourt</attribute>
+</object>
+<object name="Mailly-Maillet">
+<attribute>Mailly-Maillet</attribute>
+</object>
+<object name="Aisne">
+<attribute>Aisne</attribute>
+</object>
+<object name="Bellevue">
+<attribute>Bellevue</attribute>
+</object>
+<object name="Doullens">
+<attribute>Doullens</attribute>
+</object>
+<object name="Poperinge">
+<attribute>Poperinge</attribute>
+</object>
+<object name="Pierrefonds">
+<attribute>Pierrefonds</attribute>
+</object>
+<object name="Nooteboom">
+<attribute>Nooteboom</attribute>
+</object>
+<object name="27th August 1914 (HQ and 3 Companies)">
+<attribute>27th August 1914 (HQ and 3 Companies)</attribute>
+</object>
+<object name="Fréniches">
+<attribute>Fréniches</attribute>
+<attribute>Feniches</attribute>
+</object>
+<object name="Pommier">
+<attribute>Pommier</attribute>
+</object>
+<object name="6th September 1914">
+<attribute>6th September 1914</attribute>
+</object>
+<object name="Esterres">
+<attribute>Esterres</attribute>
+</object>
+<object name="Arras">
+<attribute>Arras</attribute>
+</object>
+<object name="Paris">
+<attribute>Paris</attribute>
+</object>
+<object name="Vendrest">
+<attribute>Vendrest</attribute>
+</object>
+</context>
