@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hants</name>
+	<description>Movements of 1st Battalion Hampshire Regiment during August and September 1914, covering the Retreat from Mons and the Advance to the Aisne.</description>
+	<gx:CascadingStyle kml:id="__managed_style_1B0CD50F2D36B59C78F5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16433E9E7836B5A56C78">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.3325</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CDCF7B34336B592FA8B">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.3325</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EDEAB4C3436B592FA8B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CDCF7B34336B592FA8B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22E282B01A36B592FA8B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2C39BA72AB36B592FA8A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F4342F47E36B592FA8A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_22E282B01A36B592FA8B">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.99875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09EA32B13436B592FA8A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F4342F47E36B592FA8A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C39BA72AB36B592FA8A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2F4ACD455436B592FA88">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B84B9F17036B59C78F5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B0CD50F2D36B59C78F5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D00485CBC36B59C78F5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1F75DF358D36B5A400DB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FC0FC45EF36B592FA88">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08B180F75C36B5A400DB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F75DF358D36B5A400DB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2614F6A33836B5A400DB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B96B6A38E36B5A56C79">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.99875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03E023D92436B592FA87">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FB53FC01136B592FA87</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FC0FC45EF36B592FA88</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2E00A377CD36B592FA85">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1266CA524C36B592FA85">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04D4DBA57A36B592FA83">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B7577292036B592FA86">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F0C5D23FD36B592FA84">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_14BDD5F2C536B592FA82">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0515A854BE36B592FA85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1266CA524C36B592FA85</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E00A377CD36B592FA85</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_260B5893AE36B592FA83">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1B9331A73636B592FA88">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2F4ACD455436B592FA88</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0A01AE8E4036B592FA89</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_128E7CF2A536B592FA83">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_260B5893AE36B592FA83</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F0C5D23FD36B592FA84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1E7732C25236B592FA81">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.99875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2D00485CBC36B59C78F5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A3E3BDE4F36B5A56C78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16433E9E7836B5A56C78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B96B6A38E36B5A56C79</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_14F4E44B7D36B592FA86">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0965AB3D1036B592FA86">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14F4E44B7D36B592FA86</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B7577292036B592FA86</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0AB2E493A736B592FA82">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14BDD5F2C536B592FA82</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04D4DBA57A36B592FA83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0A01AE8E4036B592FA89">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FB53FC01136B592FA87">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2113&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_02C4DBBCE236B592FA81">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.3325</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2614F6A33836B5A400DB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2268&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07B31973A636B592FA80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_02C4DBBCE236B592FA81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1E7732C25236B592FA81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0ECFA2388D36922C4720">
+		<name>Movements</name>
+		<LookAt>
+			<longitude>2.939598510766337</longitude>
+			<latitude>49.67510879888927</latitude>
+			<altitude>45.98038241905571</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00036097982814</gx:fovy>
+			<range>482153.401337564</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07B31973A636B592FA80</styleUrl>
+		<Placemark id="02F2577A89218673F6AC">
+			<name>1st September 1914</name>
+			<LookAt>
+				<longitude>2.791162412580144</longitude>
+				<latitude>49.21795468440181</latitude>
+				<altitude>97.77529135896928</altitude>
+				<heading>2.909784751175843e-09</heading>
+				<tilt>36.07843794325441</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>16691.79800978629</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					2.784015540463849,49.31887390906441,56.44324345672656 2.800019887047007,49.31516514828508,124.3189627691135 2.792065460040973,49.29609532402206,59.07932561602871 2.778694600359524,49.28095855892723,90.78381542466505 2.780651578325062,49.18883862705192,153.7758339112507 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0891073A3B2186567C00">
+			<name>25th August 1914</name>
+			<LookAt>
+				<longitude>3.570320617815483</longitude>
+				<latitude>50.13157218378953</latitude>
+				<altitude>144.3563978587416</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>28502.41287816782</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.543390487236535,50.1040188434142,108.5091147620023 3.499017980603687,50.16196066563109,90.06714526380829 3.511544680262373,50.17703661185337,71.62517576561427 3.498550526171285,50.1768484057792,75.89211679702287 3.487997865055787,50.16033359232426,80.15905782843146 3.416041183335778,50.11860812891826,131.3793042797507 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0B830094AF21865A0A96">
+			<name>26th August 1914</name>
+			<LookAt>
+				<longitude>3.38356140398488</longitude>
+				<latitude>50.09884953668644</latitude>
+				<altitude>142.5955978365729</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>21282.13454244426</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					3.415626126028315,50.11805860970682,130.0712694587872 3.368283706534327,50.11565990719822,108.7965123313823 3.377405379747231,50.09982737186816,133.6808778045089 3.372325034473744,50.04621333501057,137.8861585568827 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0AF68CB1952186618134">
+			<name>27th August 1914 (HQ and 3 Companies)</name>
+			<LookAt>
+				<longitude>3.175200221986687</longitude>
+				<latitude>49.84926193924962</latitude>
+				<altitude>117.9801161265014</altitude>
+				<heading>1.436961828062199e-09</heading>
+				<tilt>26.44320688592418</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>48988.22444126476</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.373083075445598,50.04758132129241,142.2300999934334 3.367952418804199,50.02786865960842,160.927744018409 3.306612165939375,49.9943799983333,117.1137287085889 3.287395551771009,49.96755572414826,117.2161748662587 3.255696748069381,49.95558358904697,139.4145339253091 3.213468111419073,49.95469861263527,130.5558730134111 3.169282387204218,49.92465068630461,121.6972121015132 3.070134354543419,49.8621803659454,80.22321141182928 2.984647737299921,49.77107063356668,69.36576211443111 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0AFD2BB19921866521D1">
+			<name>27th August 1914 (A Company)</name>
+			<LookAt>
+				<longitude>3.125139099032241</longitude>
+				<latitude>49.84236374461702</latitude>
+				<altitude>91.01708004286986</altitude>
+				<heading>1.121558528023898e-08</heading>
+				<tilt>25.80466466035515</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>43739.00030578952</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.373086049851819,50.04545164920246,142.1752017726459 3.149398007133317,49.87884558021933,96.14124959799148 3.161938713052874,49.82917452392292,91.75542534958386 3.151862058873764,49.80447560200377,91.22549831982975 3.115650901624782,49.77527665756406,90.75099408370896 3.072967829694109,49.74848396278644,69.14481233731836 2.985709925027076,49.77100825536085,68.42945638411639 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="01C82E70A02186678067">
+			<name>28th August 1914</name>
+			<LookAt>
+				<longitude>2.978999666204001</longitude>
+				<latitude>49.68561174219835</latitude>
+				<altitude>84.35946590786119</altitude>
+				<heading>2.022522909781651e-08</heading>
+				<tilt>25.82064134519339</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>47845.34999629018</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					2.984357221282159,49.77044834906525,69.62919112058024 3.02628014295943,49.74998071168293,65.6058877249785 3.013761931850807,49.71978388971156,73.37377792255241 3.003238099496188,49.6708464832239,91.68952999873591 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="03673D54A1218668E54C">
+			<name>29th August 1914</name>
+			<LookAt>
+				<longitude>2.947237698647327</longitude>
+				<latitude>49.59506823761606</latitude>
+				<altitude>134.5187049764431</altitude>
+				<heading>1.364446419318608e-08</heading>
+				<tilt>25.75668190371056</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>31406.44963368773</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.00370364534418,49.67064393745952,90.93272263353541 2.959377107887098,49.61603090627778,58.56548592542202 3.000097786430862,49.58043069973842,50.96144410085518 2.994356839314487,49.55821524980719,47.57059806425701 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="040F396A2521866A8086">
+			<name>30th August 1914</name>
+			<LookAt>
+				<longitude>2.949190334727134</longitude>
+				<latitude>49.40938019565</latitude>
+				<altitude>37.05517001621164</altitude>
+				<heading>1.033019631580126e-08</heading>
+				<tilt>25.79973460059031</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>42471.49341932964</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					2.99503287623669,49.55706025522836,46.53434965125025 3.009171256222172,49.41432623857141,52.80160265438672 2.978444840119845,49.34648277139843,113.399673663189 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0F144936D321866FED19">
+			<name>31st August 1914</name>
+			<LookAt>
+				<longitude>2.930023673420294</longitude>
+				<latitude>49.36484392554939</latitude>
+				<altitude>82.24421692328114</altitude>
+				<heading>5.854916346252304e-09</heading>
+				<tilt>30.21638092457389</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>44798.85963584762</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					2.975142412888607,49.34671894092971,119.6272448945944 2.903955900632242,49.3475572863709,70.33633489270592 2.785168618989911,49.31918671967325,57.79175214925488 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="088D08E1B621867D42CC">
+			<name>5th September 1914</name>
+			<LookAt>
+				<longitude>2.685819691906874</longitude>
+				<latitude>48.74638237756105</latitude>
+				<altitude>117.1084130441574</altitude>
+				<heading>4.746835418615753e-09</heading>
+				<tilt>36.13620514473059</tilt>
+				<gx:fovy>34.99999999999998</gx:fovy>
+				<range>28605.98151735496</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					2.813169136647051,48.89711288228891,53.22844783865211 2.788732445062261,48.84309050733475,130.1140079419476 2.704152719763144,48.821454440531,108.5078060608664 2.678822604597917,48.76434136276535,113.6979207016297 2.736542532080659,48.74000672549167,106.0554055460918 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0C3B6425612186794B7C">
+			<name>2nd, 3rd September 1914</name>
+			<LookAt>
+				<longitude>2.739973496135861</longitude>
+				<latitude>48.8797177821856</latitude>
+				<altitude>57.09111448657839</altitude>
+				<heading>3.459908817755955e-09</heading>
+				<tilt>36.08402527178873</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>17748.93832930829</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					2.780246360163456,49.18813677982598,156.4546165081592 2.738537186403891,49.13004034557355,115.4229628882338 2.703889220295139,49.0892555491462,96.93794964485274 2.718594363773579,49.08919907333507,104.466776245165 2.683865135697552,49.05484383834555,172.8482131999905 2.705608719153119,49.01501756911248,95.41783627717537 2.701094797737909,48.96679370965833,78.23430261032577 2.688803353749367,48.94567579798117,53.48742690557943 2.712838311130554,48.87244949004416,92.10311022584935 2.736406306533656,48.85615685331899,116.9402686541622 2.744434712371711,48.84841877540249,122.5125315935685 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="018BCBDB2021867BE0F4">
+			<name>4th September 1914</name>
+			<LookAt>
+				<longitude>2.787652552388737</longitude>
+				<latitude>48.86680069388705</latitude>
+				<altitude>132.0389551405728</altitude>
+				<heading>4.081116691878564e-09</heading>
+				<tilt>36.06846733704624</tilt>
+				<gx:fovy>34.99999999999998</gx:fovy>
+				<range>15786.81102780858</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					2.744486680280986,48.84871024597959,111.1032993560793 2.793933363972283,48.89214875265117,72.6419790767185 2.812579251888552,48.89854248743761,52.43135310064375 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="09866DBF9721867E501F">
+			<name>6th September 1914</name>
+			<description><![CDATA[<div><b>5th September</b><br></div><div><br></div><div>This day marks the end of the Retreat from Mons and the beginning of the Advance to the Aisne.<br></div>]]></description>
+			<LookAt>
+				<longitude>2.765283410288346</longitude>
+				<latitude>48.79773565995134</latitude>
+				<altitude>127.5716905741218</altitude>
+				<heading>4.684626432144595e-09</heading>
+				<tilt>36.22663789688443</tilt>
+				<gx:fovy>34.99999999999998</gx:fovy>
+				<range>45720.15771430917</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0515A854BE36B592FA85</styleUrl>
+			<LineString>
+				<coordinates>
+					2.739902629248243,48.73929170022256,102.1667780488142 2.789830460707388,48.84053146245165,127.8359714787072 2.826872235305871,48.81532738420984,151.8025366729306 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="08D062C6AB2186809864">
+			<name>7th September 1914</name>
+			<LookAt>
+				<longitude>2.895074223312037</longitude>
+				<latitude>48.85288042301801</latitude>
+				<altitude>93.17063663660502</altitude>
+				<heading>-4.356128403779588e-10</heading>
+				<tilt>35.55554351752963</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>24024.30487750098</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					2.828827354876031,48.81447677869346,129.2122323049748 2.911460613528605,48.85827506501691,58.81357741690478 2.941253450239938,48.86203109308104,107.3745171517231 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0492FDCF71218CCD4C72">
+			<name>12th September 2014</name>
+			<LookAt>
+				<longitude>3.349144147156069</longitude>
+				<latitude>49.32369613232979</latitude>
+				<altitude>108.1362709722696</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>30.00000196431829</gx:fovy>
+				<range>16148.5655152495</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					3.194827391737725,49.16779776104588,146.2248331881761 3.203787056769938,49.18349842776506,133.4561320900315 3.247516111612416,49.20638266855953,151.8740981503749 3.260003317879185,49.26280451553403,166.4161954047119 3.334896814598103,49.30277555858956,120.3615962216559 3.352021886636221,49.32625784595935,82.42916283342379 3.364070559466206,49.33739390458923,112.0486609934828 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="02EFF828B8218CD487BC">
+			<name>12th September 1914 (Cont&apos;d)</name>
+			<LookAt>
+				<longitude>3.371922706979584</longitude>
+				<latitude>49.34336445167927</latitude>
+				<altitude>143.5867173048727</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>31.73885687777873</gx:fovy>
+				<range>32256.64402909577</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					3.365053395974165,49.33711340876307,116.3404256263706 3.386020858419891,49.35679032331191,71.46573739913403 3.395923363181454,49.36705225815366,51.39731365686718 3.396749372790686,49.37721534976701,62.96824904784866 3.391744010283495,49.39031347421871,74.53918443883012 3.399176894799014,49.39730395950419,59.08416807632697 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0964A77E83218CC23A97">
+			<name>11th September 1914</name>
+			<LookAt>
+				<longitude>3.173582363782421</longitude>
+				<latitude>49.14586483928924</latitude>
+				<altitude>106.3849573941124</altitude>
+				<heading>1.56573166359855e-07</heading>
+				<tilt>9.758119115570763</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>37831.34247760288</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.107922228910709,49.03158188768257,150.4605173531463 3.093204402246648,49.04648251935429,132.964014472706 3.125677861415048,49.06907346421661,153.8183455456379 3.140696325721151,49.14432662544743,108.0740029440145 3.19361069453008,49.16798083117973,153.3106931960982 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0512F7B936218C7FB3DD">
+			<name>9th September 1914</name>
+			<LookAt>
+				<longitude>3.117425090857411</longitude>
+				<latitude>48.94856689415184</latitude>
+				<altitude>57.14947396579778</altitude>
+				<heading>1.567457959228969e-09</heading>
+				<tilt>34.15131692967291</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>14322.18848609598</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_128E7CF2A536B592FA83</styleUrl>
+			<LineString>
+				<coordinates>
+					3.104206816607771,48.93032470306332,143.5240929422471 3.119798152385853,48.93461230369589,139.3326765915522 3.122976234469852,48.94706575926107,59.43666922209028 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0C3D49192B2186818BFF">
+			<name>8th September 1914</name>
+			<LookAt>
+				<longitude>2.963826854102534</longitude>
+				<latitude>48.89958883909922</latitude>
+				<altitude>158.5577519405532</altitude>
+				<heading>5.984758375102755e-09</heading>
+				<tilt>35.5551232365293</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>23943.93312143628</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AB2E493A736B592FA82</styleUrl>
+			<LineString>
+				<coordinates>
+					2.941427546706721,48.86185365482835,107.9281296905394 3.000212029064455,48.88279026679456,166.9897653759093 3.038130324882704,48.89964811545636,161.9819397474481 3.066611319556858,48.92790063918942,101.5691476046795 3.103892177454779,48.93022103523465,148.6021245476184 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="0C997B552B36A19C6407">
+			<name>10th September 1914</name>
+			<LookAt>
+				<longitude>3.043931592990801</longitude>
+				<latitude>48.98231386715987</latitude>
+				<altitude>83.93257870853837</altitude>
+				<heading>4.898829120209744</heading>
+				<tilt>0.7450202880262321</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>40714.05139161274</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0965AB3D1036B592FA86</styleUrl>
+			<LineString>
+				<coordinates>
+					3.123950697455815,48.94908454374935,0 3.088256259605662,48.97806293853687,0 3.099852972553707,49.02007116705216,0 3.109676378674533,49.03055723838784,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder id="0BEFDF141836B55B9E35">
+		<name>Battles</name>
+		<LookAt>
+			<longitude>3.214922005514489</longitude>
+			<latitude>49.68191828039235</latitude>
+			<altitude>121.7767789610723</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>381686.3744047657</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07B31973A636B592FA80</styleUrl>
+		<Placemark id="0E033E0C7D36A1A37702">
+			<name>Battle of the Aisne</name>
+			<LookAt>
+				<longitude>3.383000052285576</longitude>
+				<latitude>49.35792590354681</latitude>
+				<altitude>62.88958533943719</altitude>
+				<heading>4.898606740714335</heading>
+				<tilt>0.7427202692550642</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>20919.26308013499</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_03E023D92436B592FA87</styleUrl>
+			<Point>
+				<coordinates>3.428133944298728,49.38097933633335,47.41178652282352</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00C0CCBAA636A1A28634">
+			<name>Battle of Le Cateau</name>
+			<LookAt>
+				<longitude>3.349001162161644</longitude>
+				<latitude>50.07828325381551</latitude>
+				<altitude>126.2727616100673</altitude>
+				<heading>4.898692382152735</heading>
+				<tilt>0.743497528121444</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>27608.92198547255</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_03E023D92436B592FA87</styleUrl>
+			<Point>
+				<coordinates>3.378722734925754,50.11059036205091,116.7597413020959</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A7688733636A19F248F">
+			<name>Battle of the Marne</name>
+			<LookAt>
+				<longitude>3.177662714224907</longitude>
+				<latitude>48.92772265977936</latitude>
+				<altitude>169.317404274145</altitude>
+				<heading>4.898650857360836</heading>
+				<tilt>0.7432090981305807</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>25126.53211750556</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_03E023D92436B592FA87</styleUrl>
+			<Point>
+				<coordinates>3.127409604740907,48.94573822837846,58.78272260556567</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="033F92258C36B55C348D">
+		<name>Other events</name>
+		<LookAt>
+			<longitude>3.214922005514489</longitude>
+			<latitude>49.68191828039235</latitude>
+			<altitude>121.7767789610723</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>381686.3744047657</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07B31973A636B592FA80</styleUrl>
+		<Placemark id="09D5126CE336B59D5BD6">
+			<name>the retreat from Mons</name>
+			<description><![CDATA[<div>The 1st Battalion Hampshire Regiment arrive at&nbsp;Le Havre on the 24th August. The following day they travel by train to Le Cateau - and pitch straight into the Retreat from Mons.<br></div>]]></description>
+			<LookAt>
+				<longitude>3.703896044011887</longitude>
+				<latitude>50.05112158127434</latitude>
+				<altitude>165.9540406091537</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>128837.808846999</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_08B180F75C36B5A400DB</styleUrl>
+			<Point>
+				<coordinates>3.5467298925866,50.09827383755741,126.5595695511656</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0408CD5FB136A1A53EDA">
+			<name>in action at Solesmes</name>
+			<LookAt>
+				<longitude>3.561188960521617</longitude>
+				<latitude>50.15502959468879</latitude>
+				<altitude>122.294861564181</altitude>
+				<heading>4.898730918882987</heading>
+				<tilt>0.7438667535777791</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>30786.67246829253</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_1B9331A73636B592FA88</styleUrl>
+			<Point>
+				<coordinates>3.515306744707101,50.17626619128545,102.344497374737</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03EDEAD61C36A1AB0BAD">
+			<name>rearguard action</name>
+			<description><![CDATA[<div>Colonel Jackson wounded<br></div>]]></description>
+			<LookAt>
+				<longitude>3.268329117094644</longitude>
+				<latitude>49.9538655620298</latitude>
+				<altitude>118.4713241730047</altitude>
+				<heading>4.898434985502695</heading>
+				<tilt>0.7409730919348827</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>5885.360606760951</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09EA32B13436B592FA8A</styleUrl>
+			<Point>
+				<coordinates>3.257889228818234,49.95468862109447,148.889698912682</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="031FC6BADA36A1AE7F8C">
+			<name>Colonel Jackson captured</name>
+			<LookAt>
+				<longitude>3.181353767926429</longitude>
+				<latitude>49.96934409069916</latitude>
+				<altitude>133.5626632033923</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>28822.01306041796</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0EDEAB4C3436B592FA8B</styleUrl>
+			<Point>
+				<coordinates>3.234199015896906,49.96052481308486,132.2244007101884</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CE2E0A8E536B55DAFB6">
+			<name>the retreat ends</name>
+			<description><![CDATA[<div>Th 5th September marks the end of the Retreat from Mons. The&nbsp; Advance to the Aisne begins the following day.<br></div>]]></description>
+			<LookAt>
+				<longitude>2.890430839888374</longitude>
+				<latitude>48.884015829224</latitude>
+				<altitude>121.1476665141578</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>34.9998483288285</gx:fovy>
+				<range>159763.3511070907</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0A3E3BDE4F36B5A56C78</styleUrl>
+			<Point>
+				<coordinates>2.742332843835051,48.73349365744479,108.6222557775653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07A3F3F24B36B5982DEF">
+			<name>trench warfare begins</name>
+			<description><![CDATA[<div>The 1st Hants remain entrenched on the escarpment north of Bucy-le-Long until 6th October, when they are relieved by French troops and moved to take part in the Battle of Armentiere.<br></div>]]></description>
+			<LookAt>
+				<longitude>3.454402890937098</longitude>
+				<latitude>49.38129262620447</latitude>
+				<altitude>57.85556226168016</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>26718.2109213341</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B84B9F17036B59C78F5</styleUrl>
+			<Point>
+				<coordinates>3.399925023906019,49.39791228518947,58.30195335427829</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
