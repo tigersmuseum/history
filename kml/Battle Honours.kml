@@ -24,7 +24,7 @@
 		</IconStyle>
 	</Style>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Blenheim">
-		<name>1704, Blenheim</name>
+		<name>Blenheim (1704)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -39,7 +39,7 @@
 		</Point>
 	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Ramillies">
-		<name>1706, Ramillies</name>
+		<name>Ramillies (1706)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -54,7 +54,7 @@
 		</Point>
 	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Oudenarde">
-		<name>1708, Oudenaarde</name>
+		<name>Oudenaarde (1708)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -69,7 +69,7 @@
 		</Point>
 	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Malplaquet">
-		<name>1709, Malplaquet</name>
+		<name>Malplaquet (1709)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -84,7 +84,7 @@
 		</Point>
 	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Dettingen">
-		<name>1743, Dettingen</name>
+		<name>Dettingen (1743)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -98,8 +98,23 @@
 			<coordinates>9.018333,50.048889,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Minden">
+		<name>Minden (1759)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		Following a French victory at Bergen in Germany in April 1759, the French Army of 60,000 troops commanded by Marshal Duc Louis de Contades advanced northwards towards Hannover. In an attempt to block this, the Prussian general, Marshal Ferdinand, Duke of Brunswick, resolved to hold the town of Minden astride the road to Hannover and across the river Weser.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/battle-of-minden/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>8.9160539,52.2923549,0</coordinates>
+		</Point>
+	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Capture_of_Belle_Île">
-		<name>1761, Belle Isle</name>
+		<name>Belle Isle (1761)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -113,8 +128,22 @@
 			<coordinates>-3.1668,47.3321,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Tournay_(1794)">
+		<name>Tournay (1794)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		The Battle of Tournay or Battle of Tournai or Battle of Pont-à-Chin (22 May 1794) saw Republican French forces led by Jean-Charles Pichegru attack Coalition forces under Emperor Francis II and Prince Josias of Saxe-Coburg-Saalfeld. After a bitter all-day struggle, Coalition troops recaptured a few key positions including Pont-à-Chin, forcing the French to retreat.
+		<br/><br/>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>3.379139,50.6127324,0</coordinates>
+		</Point>
+	</Placemark>
 	<Placemark about="http://dbpedia.org/resource/Battle_of_Barrosa">
-		<name>1811, Barrosa</name>
+		<name>Barrosa (1811)</name>
 		<Snippet maxLines="0"></Snippet>
 		<description>
 		<![CDATA[
@@ -126,6 +155,29 @@
 		<styleUrl>#battle</styleUrl>
 		<Point>
 			<coordinates>-6.1765,36.3719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Taku_Forts_(1860)">
+		<name>Taku Forts (1860)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+		<![CDATA[
+		On 28 March 1860 the Chinese rejected an ultimatum from the British and French to allow safe passage through their ports as agreed in a trade treaty signed in 1858. Among other things, this would have allowed the British to continue the opium trade in China. Consequently, the British government ordered an attack on the Taku Forts.
+		<br/><br/>
+		<a style="font-size:small" href="https://www.royalhampshireregiment.org/about-the-museum/timeline/67th-regt-assault-taku-forts-china/">More ...</a>
+		]]>
+		</description>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>117.7098707,38.9771158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark about="http://dbpedia.org/resource/Battle_of_Palikaor">
+		<name>Pekin (1860)</name>
+		<Snippet maxLines="0"></Snippet>
+		<styleUrl>#battle</styleUrl>
+		<Point>
+			<coordinates>116.6145435844927,39.90660444506591,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>
