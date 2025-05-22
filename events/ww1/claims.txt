@@ -34,3 +34,11 @@ Ana, Deli Abbas, Deltawa, Hit, Istabulat, Khan Abu Rayat, Kifri, Lajj, Mushaidiy
 "Tanaka Giichi" is the same person as "Lieut.-General Giichi Tanaka".
 "Gotō Shinpei" is the same person as "Baron Goto".
 Tripoli is a place in Syria. Tripoli is a place in Libya.
+"General von Hindenburg" is the same person as "Paul von Hindenburg".
+"General Sir W. Robertson" is the same person as "Sir William Robertson".
+"Lieut.-General Sir A. Barrett" is the same person as "Sir Arthur Arnold Barrett".
+"Dr. J. de Castro" is the same person as "Dr. Jose de Castro".
+"Dr. S. Cardosa da Paes" is the same person as "Dr. da Silva Paes" and "Dr. S. B. C. da Paes".
+"Sir E. Carson" is the same person as "Sir Edward Carson".
+"Hugh Richard Arthur Grosvenor" is the same person as "the Duke of Westminster".
+"Alexandra Feodorovna" is the same person as "ex-Tsaritsa".
