@@ -22,11 +22,11 @@ I use *time:inside* in cases where I know a state is valid at some particular in
 
 	The 2nd, 1/4th and 5th battalions were part of 128th Brigade in in March 1944.
 	
-I might model this a separate state for each of the battalions, or one state of the brigade. In the former case, I have a state that is *ies:stateOf* a battalion and *ies:isPartof* a brigade. In the latter case, the state is *ies:stateOf* a brigade, and each battalion is *ies:isPartof* the state.
+I might model this as a separate state for each of the battalions, or one state of the brigade. In the former case, I have a state that is *ies:stateOf* a battalion and *ies:isPartof* a brigade. In the latter case, the state is *ies:stateOf* a brigade, and each battalion is *ies:isPartof* the state.
 
 ...
 
-I can construct a history of an entity by piecing together information about its state over time. I don't expect to ever have complete information, so the history will be fragmentary.
+I can construct a history of an entity by piecing together information about its state over time. I don't expect to ever have complete information, so the history will likely be fragmentary.
 
 What constitutes an 'entity' may be different in different circumstances. For example, the history of a larger military unit is composed from the intersections of the histories of smaller units from which it is composed. I can consider a brigade to be a sequence of states, where the state changes as battalions come and go. This models 
 ...
