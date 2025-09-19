@@ -64,8 +64,10 @@
 		<span>Divisions</span>:
 		<span about="dbp:1st_(UK)_Division" property="skos:prefLabel">1<sup>st</sup> Infantry Division</span>,
 		<span about="dbp:4th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">4<sup>th</sup> Division</span>,
+		<span about="dbp:10th_(Irish)_Division" property="skos:prefLabel">10<sup>th</sup> (Irish) Division</span>,
+		<span about="dbp:27th_Division_(United_Kingdom)" property="skos:prefLabel">27<sup>th</sup> Division</span>,
 		<span about="dbp:29th_Division_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Division</span>,
-		<span about="#39Div" property="skos:prefLabel">39<sup>th</sup> Division</span>, 
+		<span about="dbp:39th_Division_(United_Kingdom)" property="skos:prefLabel">39<sup>th</sup> Division</span>, 
 		<span about="dbp:43rd_(Wessex)_Infantry_Division" property="skos:prefLabel">43<sup>rd</sup> (Wessex) Division</span>,
 		<span about="dbp:46th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">46<sup>th</sup> Infantry Division</span>,
 		<span about="dbp:50th_(Northumbrian)_Infantry_Division" property="skos:prefLabel">50<sup>th</sup> (Northumbrian) Infantry Division</span>,
@@ -79,6 +81,9 @@
 		<span>Brigades</span>:
 		<span about="dbp:1st_Armoured_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">1<sup>st</sup> (Guards) Brigade</span>,
 		<span about="dbp:28th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">28<sup>th</sup> Infantry Brigade</span>,
+		<span about="dbp:29th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Infantry Brigade</span>,
+		<span about="dbp:82nd_Brigade_(United_Kingdom)" property="skos:prefLabel">82<sup>nd</sup> Brigade</span>,
+		<span about="dbp:88th_Brigade_(United_Kingdom)" property="skos:prefLabel">88<sup>th</sup> Brigade</span>,
 		<span about="dbp:Hampshire_Brigade" property="skos:prefLabel">128<sup>th</sup> (Hampshire) Brigade</span>.
 		<span about="dbp:130th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">130<sup>th</sup> Infantry Brigade</span>,
 		<span about="dbp:231st_Brigade_(United_Kingdom)" property="skos:prefLabel">231<sup>st</sup> Brigade</span>.
@@ -173,7 +178,7 @@
 
 <article about="#116Bde" rel="skos:broader" resource="#brigade">
 <p typeof="ies:State" about="#116bde39div" rel="ies:stateOf" resource="#116Bde">
-	<span about="#116Bde" property="skos:altLabel">116<sup>th</sup> Brigade</span> was part of <span about="#116bde39div" resource="#39Div" rel="ies:isPartof">39<sup>th</sup> Division</span>
+	<span about="#116Bde" property="skos:altLabel">116<sup>th</sup> Brigade</span> was part of <span about="#116bde39div" resource="dbp:39th_Division_(United_Kingdom)" rel="ies:isPartof">39<sup>th</sup> Division</span>
 	<span about="#116bde39div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
 </article>
@@ -424,6 +429,53 @@
 </p>
 <p class="claim"  about="#21AGtoBAOR" typeof="time:Instant">
 	21<sup>st</sup> Army Group was renamed the British Army of the Rhine (BAOR) on <datetime property="time:inXSDDate" content="1945-08-25">25 August 1945</datetime>.
+</p>
+</article>
+
+<hr/>
+
+
+<article>
+<p class="claim" typeof="ies:State" about="#2bn88brigade" rel="ies:stateOf" resource="#2Bn">
+	<span about="#2Bn" property="skos:altLabel">2<sup>nd</sup> Battalion</span> was part of the <span about="#2bn88brigade" resource="dbp:88th_Brigade_(United_Kingdom)" rel="ies:isPartof">88<sup>th</sup> Brigade</span>
+	<span about="#2bn88brigade" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#88brigade29div" rel="ies:stateOf" resource="dbp:88th_Brigade_(United_Kingdom)">
+	<span about="dbp:88th_Brigade_(United_Kingdom)" property="skos:altLabel">88<sup>th</sup> Brigade</span> was part of the <span about="#88brigade29div" resource="dbp:29th_Division_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Division</span>
+	<span about="#88brigade29div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#10bn29brigade" rel="ies:stateOf" resource="#10Bn">
+	<span about="#10Bn" property="skos:altLabel">10<sup>th</sup> Battalion</span> was part of the <span about="#10bn29brigade" resource="dbp:29th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Infantry Brigade</span>
+	<span about="#10bn29brigade" rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1915-06">June 1915</datetime></span>
+	<span about="#10bn29brigade" rel="time:hasEnd">to <datetime property="time:inXSDMonth" typeof="time:Instant" content="1916-11">November 1916</datetime></span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#10bn82brigade" rel="ies:stateOf" resource="#10Bn">
+	<span about="#10Bn" property="skos:altLabel">10<sup>th</sup> Battalion</span> was part of the <span about="#10bn82brigade" resource="dbp:82nd_Brigade_(United_Kingdom)" rel="ies:isPartof">82<sup>nd</sup> Infantry Brigade</span>
+	<span about="#10bn82brigade" rel="time:hasBeginning">from <datetime property="time:inXSDMonth" typeof="time:Instant" content="1916-11">November 1916</datetime></span>
+	<span about="#10bn82brigade" rel="time:intervalFinishes" resource="dbp:World_War_I">to the end of the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#29brigade10div" rel="ies:stateOf" resource="dbp:29th_Infantry_Brigade_(United_Kingdom)">
+	<span about="dbp:29th_Infantry_Brigade_(United_Kingdom)" property="skos:altLabel">29<sup>th</sup> Brigade</span> was part of the <span about="#29brigade10div" resource="dbp:10th_(Irish)_Division" rel="ies:isPartof">10<sup>th</sup> Division</span>
+	<span about="#29brigade10div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#82brigade27div" rel="ies:stateOf" resource="dbp:82nd_Brigade_(United_Kingdom)">
+	<span about="dbp:82nd_Brigade_(United_Kingdom)" property="skos:altLabel">82<sup>nd</sup> Brigade</span> was part of the <span about="#82brigade27div" resource="dbp:27th_Division_(United_Kingdom)" rel="ies:isPartof">27<sup>th</sup> Division</span>
+	<span about="#82brigade27div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
 </article>
 
