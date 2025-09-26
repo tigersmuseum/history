@@ -10,8 +10,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<meta name="DC.identifier" content="WW1 Formations" />
+<meta name="DC.identifier" content="Formations" />
 <title>Formations</title>
+<style type="text/css">
+sup {
+	font-size: small;
+}
+</style>
+
 </head>
 <body>
 
@@ -26,6 +32,7 @@
 			<li><span about="#2nd5Bn" property="skos:prefLabel">2/5<sup>th</sup> Battalion</span></li>
 			<li><span about="#5Bn" property="skos:prefLabel">5<sup>th</sup> (TA) Battalion</span></li>
 			<li><span about="#7Bn" property="skos:prefLabel">7<sup>th</sup> (TA) Battalion</span></li>
+			<li><span about="#12Bn" property="skos:prefLabel">12<sup>th</sup> Battalion</span></li>
 		</ul>
 	</p>
 </div>
@@ -40,6 +47,7 @@
 <div>
 	<p about="#army" typeof="skos:Concept" rev="skos:broader">
 		<span>Armies</span>:
+		<span about="British_Salonika_Army" property="skos:prefLabel">British Salonika Army</span>,
 		<span about="dbp:Second_Army_(United_Kingdom)" property="skos:prefLabel">Second Army</span>,
 		<span about="dbp:Third_Army_(United_Kingdom)" property="skos:prefLabel">Third Army</span>,
 		<span about="dbp:United_States_Army_North" property="skos:prefLabel">US Fifth Army</span>.
@@ -54,7 +62,8 @@
 		<span about="dbp:X_Corps_(United_Kingdom)" property="skos:prefLabel">X Corps</span>,
 		<span about="dbp:XII_Corps_(United_Kingdom)" property="skos:prefLabel">XII Corps</span>,
 		<span about="dbp:XIII_Corps_(United_Kingdom)" property="skos:prefLabel">XIII Corps</span>,
-		<span about="dbp:VII_Corps_(United_Kingdom)" property="skos:prefLabel">XVII Corps</span>,
+		<span about="dbp:XVI_Corps_(United_Kingdom)" property="skos:prefLabel">XVI Corps</span>,
+		<span about="dbp:XVII_Corps_(United_Kingdom)" property="skos:prefLabel">XVII Corps</span>,
 		<span about="dbp:XXX_Corps_(United_Kingdom)" property="skos:prefLabel">XXX Corps</span>.
 	</p>
 </div>
@@ -64,7 +73,9 @@
 		<span>Divisions</span>:
 		<span about="dbp:1st_(UK)_Division" property="skos:prefLabel">1<sup>st</sup> Infantry Division</span>,
 		<span about="dbp:4th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">4<sup>th</sup> Division</span>,
+		<span about="dbp:7th_Infantry_Division_(United_Kingdom)" property="skos:prefLabel">7<sup>th</sup> Infantry Division</span>,
 		<span about="dbp:10th_(Irish)_Division" property="skos:prefLabel">10<sup>th</sup> (Irish) Division</span>,
+		<span about="dbp:26th_Division_(United_Kingdom)" property="skos:prefLabel">26<sup>th</sup> Division</span>,
 		<span about="dbp:27th_Division_(United_Kingdom)" property="skos:prefLabel">27<sup>th</sup> Division</span>,
 		<span about="dbp:29th_Division_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Division</span>,
 		<span about="dbp:39th_Division_(United_Kingdom)" property="skos:prefLabel">39<sup>th</sup> Division</span>, 
@@ -80,12 +91,15 @@
 	<p about="#brigade" typeof="skos:Concept" rev="skos:broader">
 		<span>Brigades</span>:
 		<span about="dbp:1st_Armoured_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">1<sup>st</sup> (Guards) Brigade</span>,
+		<span about="dbp:14th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">14<sup>th</sup> Infantry Brigade</span>,
 		<span about="dbp:28th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">28<sup>th</sup> Infantry Brigade</span>,
 		<span about="dbp:29th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">29<sup>th</sup> Infantry Brigade</span>,
+		<span about="dbp:79th_Brigade_(United_Kingdom)" property="skos:prefLabel">79<sup>th</sup> Brigade</span>,
 		<span about="dbp:82nd_Brigade_(United_Kingdom)" property="skos:prefLabel">82<sup>nd</sup> Brigade</span>,
 		<span about="dbp:88th_Brigade_(United_Kingdom)" property="skos:prefLabel">88<sup>th</sup> Brigade</span>,
 		<span about="dbp:Hampshire_Brigade" property="skos:prefLabel">128<sup>th</sup> (Hampshire) Brigade</span>.
 		<span about="dbp:130th_Infantry_Brigade_(United_Kingdom)" property="skos:prefLabel">130<sup>th</sup> Infantry Brigade</span>,
+		<span about="dbp:201st_Independent_Infantry_Brigade_(Home)" property="skos:prefLabel">201<sup>st</sup> Independent Infantry Brigade (Home)</span>,
 		<span about="dbp:231st_Brigade_(United_Kingdom)" property="skos:prefLabel">231<sup>st</sup> Brigade</span>.
 	</p>
 </div>
@@ -229,7 +243,7 @@
 	<span about="#232bde75divA" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 <p class="claim" typeof="ies:State" about="#232bde75divB" rel="ies:stateOf" resource="dbp:41st_Division_(United_Kingdom)">
-	41<sup>st</sup> Division was part of <span about="#232bde75divB" resource="dbp:VII_Corps_(United_Kingdom)" rel="ies:isPartof">XVII Corps</span>
+	41<sup>st</sup> Division was part of <span about="#232bde75divB" resource="dbp:XVII_Corps_(United_Kingdom)" rel="ies:isPartof">XVII Corps</span>
 	<span about="#232bde75divB" rel="time:inside">in <datetime property="time:inXSDYear" typeof="time:Instant" content="1917">1917</datetime></span>.
 </p>
 </article>
@@ -252,9 +266,9 @@
 </p>
 </article>
 
-<article about="dbp:VII_Corps_(United_Kingdom)">
-<p typeof="ies:State" about="#17corps3army" rel="ies:stateOf" resource="dbp:VII_Corps_(United_Kingdom)">
-	<span about="dbp:VII_Corps_(United_Kingdom)" property="skos:altLabel">XVII Corps</span> was part of the <span about="#17corps3army" resource="dbp:Third_Army_(United_Kingdom)" rel="ies:isPartof">Third Army</span>
+<article about="dbp:XVII_Corps_(United_Kingdom)">
+<p typeof="ies:State" about="#17corps3army" rel="ies:stateOf" resource="dbp:XVII_Corps_(United_Kingdom)">
+	<span about="dbp:XVII_Corps_(United_Kingdom)" property="skos:altLabel">XVII Corps</span> was part of the <span about="#17corps3army" resource="dbp:Third_Army_(United_Kingdom)" rel="ies:isPartof">Third Army</span>
 	<span about="#17corps3army" rel="time:inside">in <datetime property="time:inXSDDate" typeof="time:Instant" content="1917-03-16">March 1917</datetime></span>.
 </p>
 </article>
@@ -341,6 +355,12 @@
 <article about="dbp:Special_Reserve" typeof="time:Instant">
 <p>
 	The <span property="skos:prefLabel">Special Reserve</span> was established on <datetime property="time:inXSDYear" content="1908-04-01">1<sup>st</sup> April 1908</datetime>.
+</p>
+</article>
+
+<article>
+<p about="dbp:Second_Boer_War" typeof="time:Interval">
+	Second Boer War: <span rel="time:hasBeginning"><datetime typeof="time:Instant" property="time:inXSDDate" content="1899-10-11">11 October 1899</datetime></span> to <span rel="time:hasEnd"><datetime typeof="time:Instant" property="time:inXSDDate" content="1902-05-31">31 May 1902</datetime></span>.
 </p>
 </article>
 
@@ -434,21 +454,6 @@
 
 <hr/>
 
-
-<article>
-<p class="claim" typeof="ies:State" about="#2bn88brigade" rel="ies:stateOf" resource="#2Bn">
-	<span about="#2Bn" property="skos:altLabel">2<sup>nd</sup> Battalion</span> was part of the <span about="#2bn88brigade" resource="dbp:88th_Brigade_(United_Kingdom)" rel="ies:isPartof">88<sup>th</sup> Brigade</span>
-	<span about="#2bn88brigade" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
-</p>
-</article>
-
-<article>
-<p class="claim" typeof="ies:State" about="#88brigade29div" rel="ies:stateOf" resource="dbp:88th_Brigade_(United_Kingdom)">
-	<span about="dbp:88th_Brigade_(United_Kingdom)" property="skos:altLabel">88<sup>th</sup> Brigade</span> was part of the <span about="#88brigade29div" resource="dbp:29th_Division_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Division</span>
-	<span about="#88brigade29div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
-</p>
-</article>
-
 <article>
 <p class="claim" typeof="ies:State" about="#10bn29brigade" rel="ies:stateOf" resource="#10Bn">
 	<span about="#10Bn" property="skos:altLabel">10<sup>th</sup> Battalion</span> was part of the <span about="#10bn29brigade" resource="dbp:29th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">29<sup>th</sup> Infantry Brigade</span>
@@ -477,6 +482,76 @@
 	<span about="dbp:82nd_Brigade_(United_Kingdom)" property="skos:altLabel">82<sup>nd</sup> Brigade</span> was part of the <span about="#82brigade27div" resource="dbp:27th_Division_(United_Kingdom)" rel="ies:isPartof">27<sup>th</sup> Division</span>
 	<span about="#82brigade27div" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
 </p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#26div12corps" rel="ies:stateOf" resource="dbp:27th_Division_(United_Kingdom)">
+	<span about="dbp:26th_Division_(United_Kingdom)" property="skos:altLabel">26<sup>th</sup> Division</span> was part of <span about="#26div12corps" resource="dbp:XII_Corps_(United_Kingdom)" rel="ies:isPartof">XII Corps</span>
+	<span about="#26div12corps" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<article>
+<p class="claim" typeof="ies:State" about="#27div16corps" rel="ies:stateOf" resource="dbp:27th_Division_(United_Kingdom)">
+	<span about="dbp:27th_Division_(United_Kingdom)" property="skos:altLabel">27<sup>th</sup> Division</span> was part of <span about="#27div16corps" resource="dbp:XVI_Corps_(United_Kingdom)" rel="ies:isPartof">XVI Corps</span>
+	<span about="#27div16corps" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.
+</p>
+</article>
+
+<hr/>
+
+<article>
+	<p class="claim" typeof="ies:State" about="#12bn79bde" rel="ies:stateOf" resource="#12Bn">
+	The <span>12<sup>th</sup> Battalion</span> was part of the <span about="#12bn79bde" resource="dbp:79th_Brigade_(United_Kingdom)" rel="ies:isPartof">79<sup>th</sup> Brigade</span>
+	<span about="#12bn79bde" rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="#79bde26div">
+	The <span rel="ies:stateOf" resource="dbp:79th_Brigade_(United_Kingdom)">79<sup>th</sup> Brigade</span> was part of the <span resource="dbp:26th_Division_(United_Kingdom)" rel="ies:isPartof">26<sup>th</sup> Division</span>
+	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="26div12corps">
+	The <span>26<sup>th</sup> Division</span> was part of <span>XII Corps</span> 
+	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="27div16corps">
+	The <span>27<sup>th</sup> Division</span> was part of <span>XVI Corps</span> 
+	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="12corpsSalonika">
+	<span content="XII Corps">XII</span> and <span>XVI Corps</span> were part of the <span>Salonika Army</span> 
+	<span rel="time:intervalDuring" resource="dbp:World_War_I">during the First World War</span>.</p>
+</article>
+
+<hr/>
+
+
+<article>
+	<p class="claim" typeof="ies:State" about="2bn14bde">
+	The <span rel="ies:stateOf" resource="#2Bn">2<sup>nd</sup> Battalion</span> was part of <span resource="dbp:14th_Infantry_Brigade_(United_Kingdom)" rel="ies:isPartof">14<sup>th</sup> Brigade</span> 
+	<span rel="time:intervalDuring" resource="dbp:Second_Boer_War">during the Second Boer War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="14bde7div">
+	The <span rel="ies:stateOf" resource="dbp:14th_Infantry_Brigade_(United_Kingdom)">14<sup>th</sup> Brigade</span> was part of <span resource="dbp:7th_Infantry_Division_(United_Kingdom)" rel="ies:isPartof">7<sup>th</sup> Division</span> 
+	<span rel="time:intervalDuring" resource="dbp:Second_Boer_War">during the Second Boer War</span>.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="9bnto157AC">
+	The <span>9<sup>th</sup> Battalion, Hampshire Regiment</span>, formed 4 July 1940 and was converted to the <span>157th Regiment Armoured Corps</span> on 5 December 1941.</p>
+</article>
+
+<article>
+	<p class="claim" typeof="ies:State" about="10bnto157AC">The <span>10<sup>th</sup> Battalion, Hampshire Regiment</span>, formed 4 July 1940 and was converted to the <span>147th Regiment Armoured Corps</span> on 25 November 1941.</p>
 </article>
 
 </body>
