@@ -1,9 +1,9 @@
 body {
-  font-size: medium;
+  font-size: 1.2em;
 }
 
 div {
-  font-size: small;
+  font-size: 0.8em;
 }
 
 .battleHonour {
@@ -11,5 +11,5 @@ div {
 }
 
 sup {
-	font-size: small;
+	font-size: 0.6em;
 }

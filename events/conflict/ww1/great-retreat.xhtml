@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:dbp="http://dbpedia.org/resource/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="../conflict.css"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.identifier" content="WW1 Battles" />
+<title>Arras</title>
+</head>
+<body>
+
+<article about="dbp:Great_Retreat">
+	<h2 property="skos:prefLabel">The Retreat from Mons</h2>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-08-23">23<sup>th</sup> August</datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-09-05">5<sup>th</sup> September</datetime> 1914</span>
+		</p>
+		<p>Also known as the <span property="skos:altLabel">The Great Retreat</span>.</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Retreat from Mons</span>.</p>
+</article>
+
+<div about="dbp:Great_Retreat" typeof="ies:Event" rev="ies:isPartOf">
+
+	<article about="dbp:Battle_of_Mons">
+		<h3 property="skos:prefLabel">Battle of Mons</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" typeof="time:Instant" content="1914-08-23">23<sup>rd</sup> August 1914</datetime> 
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Mons</span>.</p>
+	</article>
+
+	<article about="dbp:Battle_of_Le_Cateau">
+		<h3 property="skos:prefLabel">Battle of Le Cateau</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" typeof="time:Instant" content="1914-08-26">26<sup>th</sup> August 1914</datetime> 
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Le Cateau</span>.</p>
+	</article>
+
+</div>
+</body>
+</html>

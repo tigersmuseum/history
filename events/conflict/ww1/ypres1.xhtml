@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:dbp="http://dbpedia.org/resource/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="stylesheet" href="../conflict.css"/>
+<meta name="DC.identifier" content="WW1 Battles" />
+<title>1st Ypres</title>
+</head>
+<body>
+
+<article about="dbp:First_Battle_of_Ypres">
+	<h2 property="skos:prefLabel">First Battle of Ypres</h2>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-10-19">19<sup>th</sup> October</datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-11-22">11<sup>th</sup> November</datetime> 1914</span>
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Ypres 1914</span>.</p>
+</article>
+
+<div about="dbp:First_Battle_of_Ypres" typeof="ies:Event" rev="ies:isPartOf">
+
+	<article about="#langemarck1914">
+		<h3 property="skos:prefLabel">Battle of Langemarck, 1914</h3>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-10-21">21<sup>st</sup></datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-10-24">24<sup>th</sup> October</datetime> 1914</span>
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Langemarck 1914</span>.</p>
+	</article>
+
+	<article about="#gheluvelt">
+		<h3 property="skos:prefLabel">Battle of Gheluvelt</h3>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-10-29">29<sup>th</sup></datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1914-10-31">31<sup>st</sup> October</datetime> 1914</span>
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Gheluvelt</span>.</p>
+	</article>
+	
+	<article about="#nonneboschen" typeof="time:Instant">
+		<h3 property="skos:prefLabel">Battle of Nonne Bosschen</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" content="1914-11-11">11<sup>th</sup> November 1914</datetime> 
+		</p>
+		<p>Also known as the <span property="skos:altLabel">Battle of Nonnebosschen</span>.</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Nonne Bosschen</span>.</p>
+	</article>
+	
+</div>
+</body>
+</html>
