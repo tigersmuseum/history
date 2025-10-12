@@ -21,6 +21,8 @@ Below are links to examples and further details. The *View on GitHub* button, in
 
 ## Historical themes
 
+- **[Battle Honours](battle-honours)**
+
 - **[World War I](docs/ww1.md)**
 
 ## Technical themes
