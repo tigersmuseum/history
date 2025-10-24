@@ -9,6 +9,8 @@ The Surprise, Tornado, and Torrent are British destroyers.
 The Staunch is a British destroyer.
 The Orama is a British armed merchant-cruiser.
 There are 3 different ships called Ariadne.
+There are 2 different ships called Königsberg.
+"Moewe" is the same ship as "Möwe".
 L21, L45, L44, L49, SL11, L70, L50, L4, L32, L34, and L33 are German airships.
 "Sir D. Haig" is the same person as "Sir Douglas Haig".
 "Mohtashem ed Douleh" is the same person as "Mohtashim ed Douleh".
@@ -42,3 +44,6 @@ Tripoli is a place in Syria. Tripoli is a place in Libya.
 "Sir E. Carson" is the same person as "Sir Edward Carson".
 "Hugh Richard Arthur Grosvenor" is the same person as "the Duke of Westminster".
 "Alexandra Feodorovna" is the same person as "ex-Tsaritsa".
+"Sir W. R. Marshall" is the same person as "Sir William Raine Marshall".
+"Dr J. Braga" is the same person as "Dr. Joaquim T. Braga".
+"General Sir H. H. Wilson" is the same person as "Sir Henry Wilson".
