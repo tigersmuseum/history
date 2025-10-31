@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:dbp="http://dbpedia.org/resource/"
+	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="conflict.css"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.identifier" content="peninsula War" />
+<title>Peninsula War</title>
+</head>
+
+<body>
+
+<article about="dbp:Peninsular_War">
+	<h2 property="skos:prefLabel">Peninsula War</h2>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDYear" typeof="time:Instant" content="1808-05-02">May 1808</datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDYear" typeof="time:Instant" content="1814-04-17">April 1814</datetime></span>
+		</p>
+</article>
+
+<div about="dbp:Peninsular_War" typeof="ies:Event" rev="ies:isPartOf">
+
+	<article about="dbp:Battle_of_Barrosa" typeof="time:Instant">
+		<h3 property="skos:prefLabel">Battle of Barrossa</h3>
+		<p class="dates">
+		<datetime property="time:inXSDDate" content="1811-03-05">5<sup>th</sup> March 1811</datetime> 
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is <span property="skos:prefLabel" class="battleHonour">Barossa</span>.</p>
+	</article>
+
+	<article about="dbp:Siege_of_Tarragona_(1813)" typeof="time:Instant">
+		<h3 property="skos:prefLabel">Siege of Tarragona (1813)</h3>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDDate" typeof="time:Instant" content="1813-06-03">3<sup>rd</sup></datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1813-06-11">11<sup>th</sup> June</datetime> 1813</span>
+		</p>
+		<p class="location"> Coordinates:
+			<span typeof="wgs84_pos:lat">41.11905</span>, <span typeof="wgs84_pos:long">1.24544</span>
+		</p>
+	</article>
+
+</div>
+
+</body>
+</html>
