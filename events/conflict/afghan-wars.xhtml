@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:ies="http://ies.data.gov.uk/ies4#"
+    xmlns:dbp="http://dbpedia.org/resource/"
+	xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="conflict.css"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.identifier" content="afghan wars" />
+<title>Afghan Wars</title>
+</head>
+
+<body>
+
+<article about="dbp:Second_Anglo-Afghan_War">
+	<h2 property="skos:prefLabel">Second Anglo-Afghan War</h2>
+		<p class="dates">
+		<span rel="time:hasBeginning"><datetime property="time:inXSDMonth" typeof="time:Instant" content="1878-11">November 1878</datetime></span> - 
+		<span rel="time:hasEnd"><datetime property="time:inXSDDate" typeof="time:Instant" content="1890-09-01">September 1880</datetime></span>
+		</p>
+</article>
+
+<div about="dbp:Second_Anglo-Afghan_War" typeof="ies:Event" rev="ies:isPartOf">
+	
+	<article about="dbp:Battle_of_Charasiab">
+		<h3 property="skos:prefLabel">Battle of Charasiab</h3>
+		<p>Also known as the <span property="skos:altLabel">Battle of Charasiah</span>.</p>
+		<p class="dates">
+		<datetime property="time:inXSDDate" content="1879-10-06">6<sup>th</sup> October 1879</datetime> 
+		</p>
+		<p typeof="skos:Concept" rel="skos:related">The <span rel="skos:broader" resource="dbp:Battle_honour">battle honour</span> is
+		<span property="skos:prefLabel" class="battleHonour">Charasiah</span></p>.
+	</article>
+</div>
+
+</body>
+</html>
