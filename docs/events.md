@@ -1,6 +1,6 @@
 # Events
 
-An *event* is something that happens at a place and time. An *actor* is an entity that participates in an event in some way. Events can be linked by chains of cause and effect. Events provide explanations of who did what; where, when and why.
+An *event* is something that happens at a place and time. An *actor* is an entity that participates in an event in some way. Events can be linked by chains of cause and effect. Events provide explanations of who did what, where, when and why.
 
 We can consider events at various scales, with 'larger' events composed of 'smaller' ones. For example, considering a war as a collection of battles.
 
