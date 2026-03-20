@@ -1,7 +1,7 @@
 # Battle Honours
 
 The following are transcribed from the book: *Battle honours of the British Empire and Commonwealth Land Forces, 1662-1991*, by Alexander Rodger.
-
+ 
 * [Before World War I](battle-honours-pre-ww1.xhtml)
 * [World War I](battle-honours-ww1.xhtml) (to 1919, including Third Afghan War)
 * [World War II](battle-honours-ww2.xhtml)
@@ -28,4 +28,7 @@ indexes information in the source (not transcribed) about when the battle honour
 
 ## See also
 
-The [Battle Honours of the British and Imperial Armies](https://en.wikipedia.org/wiki/Battle_honours_of_the_British_and_Imperial_Armies) on Wikipedia. This links battle honours to Wikipedia pages describing battles and campaigns.
+1. *Battle Honours of the British Army*, by Charles Boswell Norman, at [Project Gutenburg](https://www.gutenberg.org/ebooks/49654).
+
+1. The [Battle Honours of the British and Imperial Armies](https://en.wikipedia.org/wiki/Battle_honours_of_the_British_and_Imperial_Armies) page on Wikipedia.
+This links battle honours to Wikipedia pages describing battles and campaigns.
