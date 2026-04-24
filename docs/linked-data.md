@@ -1,6 +1,7 @@
 # Linked Data
 
-See [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/). This dataset can be browsed online, or it can be queried using [SPARQL](https://www.w3.org/2009/Talks/0615-qbe/).
+See, for example, [World War I as Linked Open Data](https://www.ldf.fi/dataset/ww1lod/).
+This dataset can be browsed online, or it can be queried using [SPARQL](https://www.w3.org/2009/Talks/0615-qbe/).
 
 	PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
@@ -39,15 +40,25 @@ Reasoners and tools.
 
 Mix and match.
 
-Transformation...
-
 Human readable - RDFa. 
 
-We should be able to express information as text and diagrams. If text is HTML and diagrams are SVG, then we can use [RDFa](https://www.w3.org/TR/rdfa-primer/) semantic mark-up.
+We want to express information as text and diagrams.
+If text is HTML and diagrams are SVG, then we can use [RDFa](https://www.w3.org/TR/rdfa-primer/) semantic mark-up.
 
-## Date and Time
-See the [OWL-Time](https://www.w3.org/TR/owl-time/) ontology.
+## Vocabularies
 
-## Entities and Relationships
+You should reuse rather than reinvent linked data models.
+A  _vocabulary_  is a published linked data model intended for reuse. Mix and match vocabularies as you see fit.
+Some useful vocabularies are:
 
-See the [Information Exchange Standard (IES4)](https://github.com/dstl/IES4/blob/master/ies.md)
+* **Knowledge Organization** - Simple Knowledge Organization System, [SKOS](https://www.w3.org/TR/skos-reference/).
+
+* **Date and Time** - The [OWL-Time](https://www.w3.org/TR/owl-time/) ontology.
+
+* **Entities and Relationships** - [The Information Exchange Standard (IES4)](https://github.com/dstl/IES4/blob/master/ies.md).
+
+* **Cultural Heritage** - The CIDOC Conceptual Reference Model (CRM), [CIDOC CRM](https://cidoc-crm.org/).
+
+* **Military** - [Munnin Military Ontology](https://rdf.muninn-project.org/ontologies/military-en.html).
+
+

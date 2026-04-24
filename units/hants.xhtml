@@ -3,6 +3,9 @@
     xmlns:mil="http://rdf.muninn-project.org/ontologies/military#"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:dbp="http://dbpedia.org/resource/"
+	xmlns:time="http://www.w3.org/2006/time#"
+	xmlns:ies="http://ies.data.gov.uk/ies4#"
+	xmlns:hants="https://tigersmuseum.github.io/history/concepts/hants#"
 >
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -19,17 +22,18 @@ sup {
 <body>
 
 <div>
+	<h3 about="dbp:Royal_Hampshire_Regiment" typeof="mil:Regiment" property="skos:prefLabel">Hampshire Regiment</h3>
 	<p>
-		<h3 about="#hants" typeof="mil:Regiment" property="skos:prefLabel">Hampshire Regiment</h3>
-		<ul about="#hants" rev="ies:partOf">
-			<li about="#1Bn" typeof="mil:Battalion"><span property="skos:prefLabel">1<sup>st</sup> Battalion</span></li>
-			<li about="#2Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2<sup>nd</sup> Battalion</span></li>
-			<li about="#1st4Bn" typeof="mil:Battalion"><span property="skos:prefLabel">1/4<sup>th</sup> Battalion</span></li>
-			<li about="#2nd4Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2/4<sup>th</sup> Battalion</span></li>
-			<li about="#2nd5Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2/5<sup>th</sup> Battalion</span></li>
-			<li about="#5Bn" typeof="mil:Battalion"><span property="skos:prefLabel">5<sup>th</sup> (TA) Battalion</span></li>
-			<li about="#7Bn" typeof="mil:Battalion"><span property="skos:prefLabel">7<sup>th</sup> (TA) Battalion</span></li>
-			<li about="#12Bn" typeof="mil:Battalion"><span property="skos:prefLabel">12<sup>th</sup> Battalion</span></li>
+		<ul about="dbp:Royal_Hampshire_Regiment" rev="ies:partOf">
+			<li about="hants:1Bn" typeof="mil:Battalion"><span property="skos:prefLabel">1<sup>st</sup> Battalion</span></li>
+			<li about="hants:2Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2<sup>nd</sup> Battalion</span></li>
+			<li about="hants:1st4Bn" typeof="mil:Battalion"><span property="skos:prefLabel">1/4<sup>th</sup> Battalion</span></li>
+			<li about="hants:2nd4Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2/4<sup>th</sup> Battalion</span></li>
+			<li about="hants:2nd5Bn" typeof="mil:Battalion"><span property="skos:prefLabel">2/5<sup>th</sup> Battalion</span></li>
+			<li about="hants:5Bn" typeof="mil:Battalion"><span property="skos:prefLabel">5<sup>th</sup> (TA) Battalion</span></li>
+			<li about="hants:7Bn" typeof="mil:Battalion"><span property="skos:prefLabel">7<sup>th</sup> (TA) Battalion</span></li>
+			<li about="hants:9Bn" typeof="mil:Battalion"><span property="skos:prefLabel">9<sup>th</sup> Battalion</span></li>
+			<li about="hants:12Bn" typeof="mil:Battalion"><span property="skos:prefLabel">12<sup>th</sup> Battalion</span></li>
 		</ul>
 	</p>
 </div>
@@ -38,8 +42,10 @@ sup {
 <div>
 
 <article>
-<p>Colonels of the 37<sup>th</sup> Foot:</p>
-<table border="0" width="800" cellspacing="0" cellpadding="0" height="71" align="left">
+	
+<h3>Colonels of the 37<sup>th</sup> Foot</h3>
+
+<table border="0" width="80%" cellspacing="10" cellpadding="0" height="71" align="left">
         <tbody>
         <tr> 
           <td><datetime property="time:inXSDDate">1702-02-13</datetime></td>
@@ -155,14 +161,22 @@ sup {
           <td>Gen. Sir Thomas Simson Pratt, KCB</td>
           <td>37th Foot</td>
         </tr>
-        <tr>
-          <td><datetime property="time:inXSDDate">1879-02-03</datetime></td>
+        <tr typeof="ies:State" about="#haythorne">
+          <td><datetime typeof="time:inXSDDate">1879-02-03</datetime></td>
           <td><datetime property="time:inXSDDate">1888-10-18</datetime></td>
           <td>Gen. Sir Edmund Haythorne, KCB</td>
           <td>37th Foot</td>
         </tr>
       </tbody>
       </table>
+	  
+	  <p typeof="ies:State" about="#haythorne">
+	    <span rel="time:hasBeginning"><datetime typeof="time:inXSDDate">1879-02-03</datetime></span>
+	    <span rel="time:hasBeginning"><datetime property="time:inXSDDate">1888-10-18</datetime></span>
+	    <span>Gen. Sir Edmund Haythorne, KCB</span>
+	    <span>37th Foot</span>
+	  </p>
+
 </article>
 </div>
 
