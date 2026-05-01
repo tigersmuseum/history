@@ -1,3 +1,15 @@
+# Formations
+
+We want to understand the assignment of battalions to military formations over time. 
+The [formations.xhtml](formations.xhtml) page captures facts about deployment of units that pertain at particular instants in time, or during specified time intervals.
+The aim is then to piece these facts together to give a coherent picture, and to get a better idea where there are gaps in knowledge.
+We'll try and use this information to build _timelines_. The web page includes semantic markup that supports this.
+
+The exercise requires modelling states that change over time. Ideally, we'd have a contiguous series of states with specific dates.
+Full knowledge would tell us the exact composition of formations at any time.
+In practice, we might know that a state existed at some time, but not when it began or ended; or only when it began, or when it ended; or perhaps only that it was after or before some other state.
+We don't have that detail. The information we do have is certainly partial and often vague.
+We nevertheless need to capture it as best we can. Some examples are below.
 
 
 An [IES](https://github.com/dstl/IES4) *State* is an OWL Time *Interval*.
@@ -28,7 +40,7 @@ I might model this as a separate state for each of the battalions, or one state 
 
 I can construct a history of an entity by piecing together information about its state over time. I don't expect to ever have complete information, so the history will likely be fragmentary.
 
-What constitutes an 'entity' may be different in different circumstances. For example, the history of a larger military unit is composed from the intersections of the histories of smaller units from which it is composed. I can consider a brigade to be a sequence of states, where the state changes as battalions come and go. This models 
+What constitutes an 'entity' may be different in different circumstances. For example, the history of a larger military unit is the intersection of the histories of smaller units from which it is composed. I can consider a brigade to be a sequence of states, where the state changes as battalions come and go. This models 
 ...
 
 an IES State is the state of an entity. But, if the state is a relationship between entities, then which entity?
@@ -40,4 +52,28 @@ The primary evidence for a history is a number of snapshots that need to be orde
 
 We end up with a lots of states. We can collect the set of states that are explicitly about our military unit of interest, but we should also consider any states of units for which it is a constituent part. We then need to order these in time. This gives a structure that can be checked for consistency, looking for corroboration and contradiction. We may then make inferences to simplify and summarise the structure.
 
+## Simplifying
+
+This gets too complicated to capture directly as RDFa markup of XHTML. It quickly becomes easier to adopt some mark-up conventions and then post-process to
+generate the rest of the structure.
+
+* Enclose entities in HTML _span_ entities.
+* Add _class_ attributes to HTML span to indicate entity type.
+* Add _typeof_ attribute to HTML span to specify entity type.
+* Add _about_ attribute to HTML span to specify identity.
+* Add one of: _rdfs:label_, _skos:altLabel_, or _skos:prefLabel_ to HTML span to specify entity name.
+
+It's useful to be able to identify a claim as well as parse it.
+We might assume all text in the document is claims, or it might be useful to include comments that are not a part of claim.
+
+Without semantic markup, we rely on NLP for facts extraction.
+This can be assisted by adopting conventional phrasing of facts that make sentences easier to parse, also by providing dictionaries of 
+entity names.
+Dictionaries can be built from partial semantic markup.
+
+We can consider the NLP processing in two steps: Find entities first, then find relationships between them.
+The first step is made easier if we can construct dictionaries of entity names that capture any mention of an entity in the text.
+THis dictionary can include alternate as well as preferred names, and can be used to identify the entity by URI.
+If a mention of a name in the text is ambiguous, then it can be made explicit (without necessarily changing the test as displayed)
+by adding a @content attribute to the _span_ delimiting the mention.
 
