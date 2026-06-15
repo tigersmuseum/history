@@ -16,8 +16,8 @@
 </xsl:template>
 
 <xsl:template match="html:p">
-<xsl:variable name="date" select="ancestor::html:tr[1]/html:td[1]/html:span[1]/@content"/>
-<event uri="{concat('https://tigersmuseum.github.io/history/events/rhants/eventdiary.xhtml#', ancestor::html:tr[1]/@id)}" date="{$date}" fm="{$date}" to="{$date}">
+<xsl:variable name="date" select="ancestor::html:tr[1]/html:td[1]/html:time[1]/@datetime"/>
+<event id="{concat('https://tigersmuseum.github.io/history/events/rhants/eventdiary.xhtml#', ancestor::html:tr[1]/@id)}" fm="{$date}" to="{$date}">
 	<text><xsl:apply-templates select="." mode="copy"/></text>
 	<tag type="location"><xsl:value-of select="ancestor::html:tr[1]/html:td[@class = 'location'][1]"/></tag>
 	<xsl:apply-templates select="html:span"/>
