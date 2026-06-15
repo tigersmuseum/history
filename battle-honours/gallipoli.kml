@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Gallipoli</name>
+<Placemark>
+<name>Suvla</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.25754920964354,40.3151447003311,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Anzac</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.27927039457077,40.23781752963959,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Landing at Helles</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.1765208415376,40.04569115907245,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Sari Bair-Lone Pine</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.28726303558027,40.2304939793783,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Sari Bair</name>
+<description>Battle Honour</description>
+<LineString>
+<coordinates>26.30762852227251,40.25173923715039,0 26.31161130946054,40.25586042020414,0 26.32049903503288,40.25989770606996,0 26.32049903503288,40.25989770606996,0 </coordinates>
+</LineString>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Helles</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.1791388399727,40.04571876119244,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Landing at Suvla</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.2440771,40.3110419,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Scimitar Hill</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.29819990100643,40.29510322980195,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Krithia</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.224923,40.094605,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Defence of Anzac</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.27872955104511,40.235141704852,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Hill 60 (Anzac)</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.29327536358773,40.27265537043394,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Landing at Anzac</name>
+<description>Battle Honour</description>
+<Point>
+<coordinates>26.27736427560461,40.2362942423214,0</coordinates>
+</Point>
+<ExtendedData/>
+</Placemark>
+<Placemark>
+<name>Gallipoli</name>
+<description>Battle Honour</description>
+<LineString>
+<coordinates>24.90344058499768,40.02111251536705,0 24.89816511544036,39.68681312690077,0 25.99116817370501,39.68859662652994,0 26.87272929730287,40.36431815470039,0 26.67847172819376,40.5898318401069,0 25.57219091339525,40.26722639839443,0 24.90344058499768,40.02111251536705,0 </coordinates>
+</LineString>
+<extendedData>
+<skos:altLabel>Gallipoli 1915</skos:altLabel>
+<skos:altLabel>Gallipoli 1915-16</skos:altLabel>
+</extendedData>
+</Placemark>
+</Document>
+</kml>
