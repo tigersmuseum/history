@@ -4,7 +4,7 @@
 <!-- 
 	Input XHTML events, output event objects with text and mentioned entities
  -->
-<xsl:output method="xml" encoding="UTF-8"/>
+<xsl:output method="xml" encoding="UTF-8" indent="no"/>
 
 <xsl:template match="/">
 <temporal>
@@ -18,7 +18,7 @@
 <xsl:template match="html:p">
 <xsl:variable name="date" select="ancestor::html:tr[1]/html:td[1]/html:time[1]/@datetime"/>
 <event id="{concat('https://tigersmuseum.github.io/history/events/rhants/eventdiary.xhtml#', ancestor::html:tr[1]/@id)}" fm="{$date}" to="{$date}">
-	<text><xsl:apply-templates select="." mode="copy"/></text>
+	<text><xsl:value-of select="normalize-space(.)"/></text>
 	<tag type="location"><xsl:value-of select="ancestor::html:tr[1]/html:td[@class = 'location'][1]"/></tag>
 	<xsl:apply-templates select="html:span"/>
 </event>
@@ -30,7 +30,7 @@
 	<xsl:variable name="entity">
 		<xsl:choose>
 			<xsl:when test="@content"><xsl:value-of select="@content"/></xsl:when>
-			<xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+			<xsl:otherwise><xsl:value-of select="normalize-space(.)"/></xsl:otherwise>
 		</xsl:choose>
 	</xsl:variable>
 	<entity type="{@class}"><xsl:value-of select="$entity"/></entity>
@@ -46,7 +46,7 @@
 </xsl:template>
 
 <xsl:template match="text()" mode="copy">
-	<xsl:value-of select="."/>
+	<xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
 <xsl:template match="html:span[@class = 'ref']" mode="copy"/>
