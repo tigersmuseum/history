@@ -20,11 +20,11 @@ As well as points, You may want to show *lines* or *polygons* on a map, which me
 
 To collect locations from [Google Earth](https://earth.google.com/):
 
-* Click the *Projects* icon, select *Create a new Project*, then *Create KML file*. Give it a name and description.
+* On the *Map Projects* page, click the *Local KML editor* at bottom-left, then *Create new KML file*. Give it a name and description.
 * Search for places names. Click *Add to project* button at the bottom of the pop-up description pane for any that you want to keep.
-* You can use the *Add placemark* icon at the bottom-left of the map to add any places that aren't in the search index.
-* When you're happy, you can open the *Projects* pane and select *Export as KML file*.
-* Later, you can pick up where you left off by using the *Import KML file from computer* option and add new placemarks as above.
+* You can click the *Add placemark* icon in the toolbar to add any places that aren't in the search index.
+* When you're happy, you can select *File* then *Export as KML file* from the main menu.
+* Later, you can pick up where you left off by using the *Open KML file from device* option in the new step, and adding new placemarks as above.
 
 ### Locations from GeoNames
 
