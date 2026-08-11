@@ -21,6 +21,10 @@
 	<target name="map lookup" description="Places dictionary from Google Earth">
 		<xslt in="../kml/scratch.kml" out="output/lookup.xml" style="../xsl/kml-lookup.xsl" force="yes"/>
 	</target>
+
+	<target name="scratch" description="Overlaying data on a WW1 British trench map">
+		<xslt in="/D:/Temp/linked-text/work.xhtml" out="output/51d.svg" style="../xsl/maps/work-tmap.xsl" force="yes"/>
+	</target>
 	
 </project>
 

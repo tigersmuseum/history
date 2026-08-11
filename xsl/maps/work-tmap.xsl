@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/2000/svg" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" version="1.0">
 
 <!-- 
 	This example creates SVG circles from the British trench map references in the input XML, located in a 720 x 480 grid.
@@ -59,23 +59,26 @@
 <text x="60" y="65" style="text-anchor:middle">X</text>
 </g>
 
-<xsl:apply-templates select="//mapref"/>
+<xsl:apply-templates select="//html:tr[html:td]"/>
 
 </svg>
 </xsl:template>
 
 
-<xsl:template match="mapref">
+<xsl:template match="html:tr">
+	<xsl:apply-templates select="html:td[2]"/>
+</xsl:template>
+
+<xsl:template match="html:td">
 
 	<xsl:variable name="offsets">
 		<xsl:call-template name="getMapOffsets">
-			<xsl:with-param name="mapref" select="@content"/>
+			<xsl:with-param name="mapref" select="substring-after(., '57d.')"/>
 		</xsl:call-template>
 	</xsl:variable>
-
-<circle cx="{substring-before($offsets, ',')}" cy="{substring-after($offsets, ',')}" r="2" class="{@class}" content="{@content}"/>
+	
+<circle cx="{substring-before($offsets, ',')}" cy="{substring-after($offsets, ',')}" r="2" class="'x'" content="{.}"/>
 
 </xsl:template>
-
 
 </xsl:stylesheet>
