@@ -8,7 +8,7 @@ At minimum, your transcript should include the information that allows a researc
 You may also want to include information about authorship, ownership, licensing, copyright, etc. 
 [The Dublin Core™ Metadata Initiative (DCMI)](https://www.dublincore.org/) goes into great detail about metadata. 
 This is probably overkill for your needs, but it's worth perusing the [DCMI terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
-to get a sense of the information that would be useful to researcher who want to use, as well as read, your transcript.
+to get a sense of the information that would be useful to a researcher who wants to use, as well as read, your transcript.
 
 Add explanatory notes at the beginning or end of you transcript if you've made any judgements the reader should know about.
 Explain how you've handle illegible phrases. Note where drawings or diagrams have been omitted.
@@ -20,7 +20,7 @@ Make it clear if stylistic information, such as underlining or coloured text, in
 Anything will do, but a useful end format to aim for is XHTML. This has advantages:
 
 * It displays in a web browser, so is easy to distribute.
-* It is machine readable as well as human readable. You (or someone else) can further enhance machine readability by adding semantic mark-up.
+* It is machine readable as well as human readable. You (or someone else) can further enhance machine readability by adding [semantic mark-up](semantic-markup.md).
 * DCMI terms can be added in *meta* elements. 
 
 It's possible to create XHTML from Word processor documents, so you don't feel you have to use it - by all means
@@ -30,7 +30,7 @@ stick with what you know and let someone else make it machine readable. You can 
 * If the text naturally breaks into sections, do something consistent to mark the break between sections.
 
 You need to  transcribe to a word processor document if you want to preserve as much of the layout of source text as possible.
-If you're transcribing essentially tabular data, such as nominal roll, then the task is more data entry than transcription.
+If you're transcribing essentially tabular data, such as a nominal roll, then the task is more data entry than transcription.
 It makes sense to create a spreadsheet rather than a word processor document. Machine readability is now the point:
 
 * Make sure your column format is suited to the data you're entering. Your word processor will make its best guess, but this might not be right.
