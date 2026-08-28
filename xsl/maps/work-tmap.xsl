@@ -73,7 +73,7 @@
 
 	<xsl:variable name="offsets">
 		<xsl:call-template name="getMapOffsets">
-			<xsl:with-param name="mapref" select="substring-after(., '57d.')"/>
+			<xsl:with-param name="mapref" select="substring-after(., '.')"/>
 		</xsl:call-template>
 	</xsl:variable>
 	
