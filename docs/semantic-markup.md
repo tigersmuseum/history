@@ -3,7 +3,7 @@
 Semantic mark-up is the annotation of text documents to make it easier to extract information.
 It's purpose is to make text *machine readable* without altering how it appears to a human reader.
 For example, you can use [XHTML with RDFa](https://www.w3.org/TR/rdfa-syntax/) to make a document with embedded linked data structure.
-A human can read it in a web browser. A machine can pass it through an _RDFa extractor_ and get a linked data model.
+A human can read it in a web browser. A machine can pass it through an *RDFa extractor* and get a linked data model.
 
 This is all very well for describing things and their properties, but it becomes a bit more difficult when you want to describe the
 relationship between things. It's generally possible to do, but the semantic mark-up gets more abstruse as the relationships
@@ -11,16 +11,15 @@ become more complex. Human readability isn't necessarily affected, but it become
 
 We'd like documents to be *writeable* as well as readable, which is to say there shouldn't be any significant technical skills or knowledge needed to create them.
 We can make it simpler to produce a document at the cost of requiring more effort to make it machine readable.
-
 Any sort of structure in the document makes the processing easier.
 If the document is plain natural language text, then potentially complex and difficult *natural language processing* is needed to make a machine readable model from it.
 The game is to find the balance between semantic structure and follow-on processing that makes it 'easy' to write the documents, and
 both 'possible' and 'economical' to process them. We can develop tools and techniques that help find and strike this balance.
 
 At minimum we start with XHTML documents. XHTML is HTML that is also valid XML, which means it is machine processable.
-It's possible to generate XHTML from a word processor, or 'clean up' HTML to make it XHTML.
+It's possible to generate XHTML from a word processor document, or 'clean up' HTML to make it XHTML.
 
-You can help the interpretation of XHTML by using the [HTML Semantic elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
+You can help the interpretation of XHTML by using [HTML Semantic elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 These give the document a structure that is easier to interpret.
 Semantic **mark-up** then goes further by labelling spans of text according to some model.
 

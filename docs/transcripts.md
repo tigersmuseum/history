@@ -33,11 +33,11 @@ You need to  transcribe to a word processor document if you want to preserve as 
 If you're transcribing essentially tabular data, such as a nominal roll, then the task is more data entry than transcription.
 It makes sense to create a spreadsheet rather than a word processor document. Machine readability is now the point:
 
-* Make sure your column format is suited to the data you're entering. Your word processor will make its best guess, but this might not be right.
-For example, it will tend to think service numbers are integers and remove leading zeroes.
+* Make sure your column format is suited to the data you're entering. Your spreadsheet will make its best guess, but this might not be right.
+For example, it may think service numbers are integers and remove leading zeroes.
 * Use date format columns for dates if you can. Always enter a year as four digits, even if the source just uses two.
 * If there's a "name" column in source that contains rank, surname, initials etc., then consider splitting these out into separate columns.
 Similarly, consider splitting mixed source columns such as "forenames or initials" into two in the spreadsheet.
 * If there's a 'ditto' in the source, repeat the data rather than putting a ditto in the spreadsheet.
-* Keep the rows simple. Avoid cells that cover more than one row. Repeat data if necessary.
+* Keep the rows simple. Avoid cells that cover more than one row or column. Repeat data if necessary.
 
