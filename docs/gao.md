@@ -2,8 +2,8 @@
 
 The [Georgian Army Officers database](https://www.georgianarmyofficers.org/) holds service records extracted from Army Lists between 1790 and 1820.
 It's the result of an organised transcription effort, followed by analysis to the identify individual officers and pull together the records that mention each of them.
-This 'person matching' is much more difficult than it sounds, and the variability and quality of transcribed records complicate an already difficult problem.
-These issues are discussed among links from the home page to background historical and technical information that are well worth exploring.
+This 'person matching' isn't easy, and the variability and quality of transcribed records complicate an already difficult problem.
+These issues are discussed among links from the home page to background historical and technical information. They are are well worth exploring.
 
 ## Exploring the database
 
@@ -42,14 +42,14 @@ The database improves the chances of pattern matching by adding 'regularised' fi
 Adopting the same labels in other sources of data would make it easier to join that data with the Georgian Army Officers dataset.
 We do much the same thing with ranks in our [Soldiers database](https://github.com/tigersmuseum/soldiers), and have published the [rank data](https://github.com/tigersmuseum/soldiers/tree/main/data) we use. 
 It would be useful to find and advertise other sources of reference data that would improve the ability to join data across projects.
-For example, [post-nominal letters](https://en.wikipedia.org/wiki/List_of_post-nominal_letters_(United_Kingdom%29).
+For example, [post-nominal letters](https://en.wikipedia.org/wiki/List_of_post-nominal_letters_%28United_Kingdom%29).
 
 Looking to the future, it would be nice if records in the Georgian Army Officers database and other research about the same people could be linked.
-For example, the Napoleon Series website lists of [officers of the 37th Foot](https://www.napoleon-series.org/military-info/organization/Britain/Infantry/Regiments/c_37thFoot.html).
+For example, the *Napoleon Series* website lists of [officers of the 37th Foot](https://www.napoleon-series.org/military-info/organization/Britain/Infantry/Regiments/c_37thFoot.html).
 This list has quite good service histories for some officers but others have limited information that could be expanded.
 [Edward Barwick](https://www.georgianarmyofficers.org/results?name=barwick&unit=37th%20Foot) is a case in point.
 Linking data at any sort of scale will require software, which is helped if the resources at different sites are 'machine readable'.
-A nice example of this is the entry for [Garrett Hugh Fitzgerald](https://doi.org/10.3318/dib.003144.v1) at the Dictionary of Irish Biography.
+A nice example of this is the entry for [Garrett Hugh Fitzgerald](https://doi.org/10.3318/dib.003144.v1) at the *Dictionary of Irish Biography*.
 This includes a link to download the data as machine readable XML.
 It also assigns a [Digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) to the biography, which will still find it if the web site changes.
 
