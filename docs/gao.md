@@ -26,7 +26,7 @@ are actually the same person: [Sir Fitzroy Jeffreys Grafton Maclean](https://en.
 
 ## Data
 
-Another really import and and useful feature of the database is that it provides mechanisms to download data and has a permissive license that lets you use it.
+Another really import and and useful feature of the database is that you can download transcribed data.
 
 We used the 'Record Search' page with just each unit specified, and downloaded the results as CSV files.
 The web site explains that the Army Lists are transcribed according to templates that differ slightly according to source document or section of source document.
