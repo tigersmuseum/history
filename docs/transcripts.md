@@ -14,7 +14,6 @@ Add explanatory notes at the beginning or end of you transcript if you've made a
 Explain how you've handle illegible phrases. Note where drawings or diagrams have been omitted.
 Make it clear if stylistic information, such as underlining or coloured text, in your transcript is important to the sense of it.
 
-
 ## Format
 
 Anything will do, but a useful end format to aim for is XHTML. This has advantages:
@@ -41,3 +40,31 @@ Similarly, consider splitting mixed source columns such as "forenames or initial
 * If there's a 'ditto' in the source, repeat the data rather than putting a ditto in the spreadsheet.
 * Keep the rows simple. Avoid cells that cover more than one row or column. Repeat data if necessary.
 
+## HTML
+
+Inside an XHTML document, HTML tags can be used to structure the document and label data.
+This section describes some conventional uses of HTML mark-up that can make it easier to extract information.
+
+### Chronology
+
+War diaries, digest of services, etc. list events in time order. They are chronologies.
+Each entry is associated with a period of time. It might cover a day or a month for example.
+Entries may be grouped: days into months, months into years.
+
+It's helpful if there is some way of delimiting entries in the underlying HTML, such as `p`, `row`, `div`, `article`.
+If periods of time are grouped into larger periods of time in the source text then this should be reflected in the HTML structure.
+This means that entries for days should be nested inside a containing element for a month, and months similarly contained inside years.
+Where a date appears, it should be inside a HTML `time` element with the `datetime` attribute set accordingly.
+
+It's then simple to extract text from the HTML associated with a particular date.
+Any events described in the text can be assumed to relate to that date.
+
+### Class attributes
+
+A class attribute can be used as a semantic label.
+If, for example, the source document uses bold text for mentioning people, and you want to reproduce this in your transcript, you'll need to enclose the name in a `span` element and give it a 'class` attribute, with some corresponding CSS styling.
+You might as well make the class label meaningful, such as "person", which then lets follow-on processing easily find spans of text that are people.
+
+It's useful to use `span` and `class` like this even if there is no different CSS style required.
+One beneficial side-effect is that it lets you later (and temporarily) assign styles to hilight mark-up entities.
+ 
