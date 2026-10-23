@@ -11,8 +11,8 @@ This is probably overkill for your needs, but it's worth perusing the [DCMI term
 to get a sense of the information that would be useful to a researcher who wants to use, as well as read, your transcript.
 
 Add explanatory notes at the beginning or end of you transcript if you've made any judgements the reader should know about.
-Explain how you've handle illegible phrases. Note where drawings or diagrams have been omitted.
-Make it clear if stylistic information, such as underlining or coloured text, in your transcript is important to the sense of it.
+Explain how you've handled illegible phrases. Note where drawings or diagrams have been omitted.
+Make it clear if stylistic information (such as underlining or coloured text) in your transcript is important to the sense of it.
 
 ## Format
 
