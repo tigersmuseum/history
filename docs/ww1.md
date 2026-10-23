@@ -9,6 +9,8 @@ This site hosts two chronologies of the war:
 
 These are XHTML documents, which means they are valid XML, so are readily processed in software. This "machine readability" is further aided by use of [semantic markup](https://en.wikipedia.org/wiki/Semantic_HTML). Currently, the date of each entry is easily recovered, and also some of the entities. The aim is to improve and extend the semantic markup over time in the light of lessons learned from trying to extract information from these chronologies.
 
+These are simple lists of named entities that appear in these chronologies (by type): [people](../events/ww1/people.txt), [places](../events/ww1/places.txt), [ships](../events/ww1/ships.txt), [submarines](../events/ww1/submarines.txt), [airships](../events/ww1/airships.txt), [military operations](../events/ww1/operations.txt).
+
 ## Trench Maps
 
 See the *[How to read a British trench map](https://www.longlongtrail.co.uk/battlefields/how-to-read-a-british-trench-map/)* page at [The Long, Long Trail](https://www.longlongtrail.co.uk) for an introduction to trench maps, a description of the coordinate system, and where trench maps can be found.
