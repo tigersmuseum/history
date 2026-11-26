@@ -1,0 +1,115 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+	width: 50em;
+}
+h1,h2,h3,h4,h5 {
+    text-align: center; /* all headings centered */
+    clear: both;
+}
+p {
+    text-align: justify;
+	vertical-align: top;
+}
+p.note {
+	font-size: small;
+}
+
+p.signed {
+	font-style: italic;
+	text-indent: 0;
+}
+
+p.year {
+	float: left;
+	padding: 10px;
+	font-weight: bold;
+	font-size: small;
+	clear: left;
+}
+
+p.quote {
+	font-style: italic;
+	font-size: small;
+	padding-left: 5em;
+	padding-right: 2em;
+}
+
+td.year {
+	font-weight: bold;
+	font-size: small;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+td.nowrap {
+		white-space: nowrap;
+		padding-right: 5px;
+}
+
+hr {
+	width: 25%;
+	align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+th {
+	font-size: small;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;
+  padding: 5px;
+  text-align: right;
+}
+
+table.left, th, td {
+  text-align: left;
+  padding-left, : 2em;
+  padding-right: 2em;
+  font-size: small;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+table.noborder, td, th {
+	border: none;
+}
+
+td.colsep {
+	border-left: 1px solid;
+}
+
+td.rowsep {
+	border-top: 1px solid;
+}
+
+td.right {
+	text-align: right;
+}
+
+table.service td {
+	text-align: left;
+}
+
+.footnote {
+	font-size: small;
+	font-style: italic;
+	color: grey;
+}
+
+.center {
+	text-align: center;
+}
+
+p.right {
+	text-align: right;
+}
